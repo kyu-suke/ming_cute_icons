@@ -84,4840 +84,5276 @@ class MingCuteIcons {
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
   static const IconData mgc_album_line = IconData(0xe925,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_alert_fill = IconData(0xe926,
+  static const IconData mgc_alert_diamond_fill = IconData(0xe926,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_alert_line = IconData(0xe927,
+  static const IconData mgc_alert_diamond_line = IconData(0xe927,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_alert_octagon_fill = IconData(0xe928,
+  static const IconData mgc_alert_fill = IconData(0xe928,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_alert_octagon_line = IconData(0xe929,
+  static const IconData mgc_alert_line = IconData(0xe929,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_down_fill = IconData(0xe92a,
+  static const IconData mgc_alert_octagon_fill = IconData(0xe92a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_down_line = IconData(0xe92b,
+  static const IconData mgc_alert_octagon_line = IconData(0xe92b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_left_fill = IconData(0xe92c,
+  static const IconData mgc_align_arrow_down_fill = IconData(0xe92c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_left_line = IconData(0xe92d,
+  static const IconData mgc_align_arrow_down_line = IconData(0xe92d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_right_fill = IconData(0xe92e,
+  static const IconData mgc_align_arrow_left_fill = IconData(0xe92e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_right_line = IconData(0xe92f,
+  static const IconData mgc_align_arrow_left_line = IconData(0xe92f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_up_fill = IconData(0xe930,
+  static const IconData mgc_align_arrow_right_fill = IconData(0xe930,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_arrow_up_line = IconData(0xe931,
+  static const IconData mgc_align_arrow_right_line = IconData(0xe931,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_bottom_fill = IconData(0xe932,
+  static const IconData mgc_align_arrow_up_fill = IconData(0xe932,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_bottom_line = IconData(0xe933,
+  static const IconData mgc_align_arrow_up_line = IconData(0xe933,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_center_fill = IconData(0xe934,
+  static const IconData mgc_align_bottom_fill = IconData(0xe934,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_center_line = IconData(0xe935,
+  static const IconData mgc_align_bottom_line = IconData(0xe935,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_horizontal_center_fill = IconData(0xe936,
+  static const IconData mgc_align_center_fill = IconData(0xe936,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_horizontal_center_line = IconData(0xe937,
+  static const IconData mgc_align_center_line = IconData(0xe937,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_justify_fill = IconData(0xe938,
+  static const IconData mgc_align_horizontal_center_fill = IconData(0xe938,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_justify_line = IconData(0xe939,
+  static const IconData mgc_align_horizontal_center_line = IconData(0xe939,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_left_2_fill = IconData(0xe93a,
+  static const IconData mgc_align_justify_fill = IconData(0xe93a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_left_2_line = IconData(0xe93b,
+  static const IconData mgc_align_justify_line = IconData(0xe93b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_left_fill = IconData(0xe93c,
+  static const IconData mgc_align_left_2_fill = IconData(0xe93c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_left_line = IconData(0xe93d,
+  static const IconData mgc_align_left_2_line = IconData(0xe93d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_right_2_fill = IconData(0xe93e,
+  static const IconData mgc_align_left_fill = IconData(0xe93e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_right_2_line = IconData(0xe93f,
+  static const IconData mgc_align_left_line = IconData(0xe93f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_right_fill = IconData(0xe940,
+  static const IconData mgc_align_right_2_fill = IconData(0xe940,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_right_line = IconData(0xe941,
+  static const IconData mgc_align_right_2_line = IconData(0xe941,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_top_fill = IconData(0xe942,
+  static const IconData mgc_align_right_fill = IconData(0xe942,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_top_line = IconData(0xe943,
+  static const IconData mgc_align_right_line = IconData(0xe943,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_vertical_center_fill = IconData(0xe944,
+  static const IconData mgc_align_top_fill = IconData(0xe944,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_align_vertical_center_line = IconData(0xe945,
+  static const IconData mgc_align_top_line = IconData(0xe945,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_alipay_fill = IconData(0xe946,
+  static const IconData mgc_align_vertical_center_fill = IconData(0xe946,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_alipay_line = IconData(0xe947,
+  static const IconData mgc_align_vertical_center_line = IconData(0xe947,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_american_football_fill = IconData(0xe948,
+  static const IconData mgc_alipay_fill = IconData(0xe948,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_american_football_line = IconData(0xe949,
+  static const IconData mgc_alipay_line = IconData(0xe949,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anchor_fill = IconData(0xe94a,
+  static const IconData mgc_american_football_fill = IconData(0xe94a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anchor_line = IconData(0xe94b,
+  static const IconData mgc_american_football_line = IconData(0xe94b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_and_fill = IconData(0xe94c,
+  static const IconData mgc_anchor_fill = IconData(0xe94c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_and_line = IconData(0xe94d,
+  static const IconData mgc_anchor_line = IconData(0xe94d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_android_2_fill = IconData(0xe94e,
+  static const IconData mgc_and_fill = IconData(0xe94e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_android_2_line = IconData(0xe94f,
+  static const IconData mgc_and_line = IconData(0xe94f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_android_fill = IconData(0xe950,
+  static const IconData mgc_android_2_fill = IconData(0xe950,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_android_line = IconData(0xe951,
+  static const IconData mgc_android_2_line = IconData(0xe951,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_angel_fill = IconData(0xe952,
+  static const IconData mgc_android_fill = IconData(0xe952,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_angel_line = IconData(0xe953,
+  static const IconData mgc_android_line = IconData(0xe953,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_angry_fill = IconData(0xe954,
+  static const IconData mgc_angel_fill = IconData(0xe954,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_angry_line = IconData(0xe955,
+  static const IconData mgc_angel_line = IconData(0xe955,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anniversary_fill = IconData(0xe956,
+  static const IconData mgc_angry_fill = IconData(0xe956,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anniversary_line = IconData(0xe957,
+  static const IconData mgc_angry_line = IconData(0xe957,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_announcement_fill = IconData(0xe958,
+  static const IconData mgc_anniversary_fill = IconData(0xe958,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_announcement_line = IconData(0xe959,
+  static const IconData mgc_anniversary_line = IconData(0xe959,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anticlockwise_alt_fill = IconData(0xe95a,
+  static const IconData mgc_announcement_fill = IconData(0xe95a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anticlockwise_alt_line = IconData(0xe95b,
+  static const IconData mgc_announcement_line = IconData(0xe95b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anticlockwise_fill = IconData(0xe95c,
+  static const IconData mgc_anticlockwise_alt_fill = IconData(0xe95c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_anticlockwise_line = IconData(0xe95d,
+  static const IconData mgc_anticlockwise_alt_line = IconData(0xe95d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_apple_fill = IconData(0xe95e,
+  static const IconData mgc_anticlockwise_fill = IconData(0xe95e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_apple_line = IconData(0xe95f,
+  static const IconData mgc_anticlockwise_line = IconData(0xe95f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_appstore_fill = IconData(0xe960,
+  static const IconData mgc_apple_fill = IconData(0xe960,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_appstore_line = IconData(0xe961,
+  static const IconData mgc_apple_line = IconData(0xe961,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_archive_fill = IconData(0xe962,
+  static const IconData mgc_appstore_fill = IconData(0xe962,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_archive_line = IconData(0xe963,
+  static const IconData mgc_appstore_line = IconData(0xe963,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_down_circle_fill = IconData(0xe964,
+  static const IconData mgc_archive_fill = IconData(0xe964,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_down_circle_line = IconData(0xe965,
+  static const IconData mgc_archive_line = IconData(0xe965,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_down_fill = IconData(0xe966,
+  static const IconData mgc_arrow_down_circle_fill = IconData(0xe966,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_down_line = IconData(0xe967,
+  static const IconData mgc_arrow_down_circle_line = IconData(0xe967,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_circle_fill = IconData(0xe968,
+  static const IconData mgc_arrow_down_fill = IconData(0xe968,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_circle_line = IconData(0xe969,
+  static const IconData mgc_arrow_down_line = IconData(0xe969,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_down_circle_fill = IconData(0xe96a,
+  static const IconData mgc_arrow_left_circle_fill = IconData(0xe96a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_down_circle_line = IconData(0xe96b,
+  static const IconData mgc_arrow_left_circle_line = IconData(0xe96b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_down_fill = IconData(0xe96c,
+  static const IconData mgc_arrow_left_down_circle_fill = IconData(0xe96c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_down_line = IconData(0xe96d,
+  static const IconData mgc_arrow_left_down_circle_line = IconData(0xe96d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_fill = IconData(0xe96e,
+  static const IconData mgc_arrow_left_down_fill = IconData(0xe96e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_line = IconData(0xe96f,
+  static const IconData mgc_arrow_left_down_line = IconData(0xe96f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_up_circle_fill = IconData(0xe970,
+  static const IconData mgc_arrow_left_fill = IconData(0xe970,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_up_circle_line = IconData(0xe971,
+  static const IconData mgc_arrow_left_line = IconData(0xe971,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_up_fill = IconData(0xe972,
+  static const IconData mgc_arrow_left_up_circle_fill = IconData(0xe972,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_left_up_line = IconData(0xe973,
+  static const IconData mgc_arrow_left_up_circle_line = IconData(0xe973,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_circle_fill = IconData(0xe974,
+  static const IconData mgc_arrow_left_up_fill = IconData(0xe974,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_circle_line = IconData(0xe975,
+  static const IconData mgc_arrow_left_up_line = IconData(0xe975,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_down_circle_fill = IconData(0xe976,
+  static const IconData mgc_arrow_right_circle_fill = IconData(0xe976,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_down_circle_line = IconData(0xe977,
+  static const IconData mgc_arrow_right_circle_line = IconData(0xe977,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_down_fill = IconData(0xe978,
+  static const IconData mgc_arrow_right_down_circle_fill = IconData(0xe978,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_down_line = IconData(0xe979,
+  static const IconData mgc_arrow_right_down_circle_line = IconData(0xe979,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_fill = IconData(0xe97a,
+  static const IconData mgc_arrow_right_down_fill = IconData(0xe97a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_line = IconData(0xe97b,
+  static const IconData mgc_arrow_right_down_line = IconData(0xe97b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_up_circle_fill = IconData(0xe97c,
+  static const IconData mgc_arrow_right_fill = IconData(0xe97c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_up_circle_line = IconData(0xe97d,
+  static const IconData mgc_arrow_right_line = IconData(0xe97d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_up_fill = IconData(0xe97e,
+  static const IconData mgc_arrow_right_up_circle_fill = IconData(0xe97e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_right_up_line = IconData(0xe97f,
+  static const IconData mgc_arrow_right_up_circle_line = IconData(0xe97f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_down_fill = IconData(0xe980,
+  static const IconData mgc_arrow_right_up_fill = IconData(0xe980,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_down_line = IconData(0xe981,
+  static const IconData mgc_arrow_right_up_line = IconData(0xe981,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_left_fill = IconData(0xe982,
+  static const IconData mgc_arrow_to_down_fill = IconData(0xe982,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_left_line = IconData(0xe983,
+  static const IconData mgc_arrow_to_down_line = IconData(0xe983,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_right_fill = IconData(0xe984,
+  static const IconData mgc_arrow_to_left_fill = IconData(0xe984,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_right_line = IconData(0xe985,
+  static const IconData mgc_arrow_to_left_line = IconData(0xe985,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_up_fill = IconData(0xe986,
+  static const IconData mgc_arrow_to_right_fill = IconData(0xe986,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_to_up_line = IconData(0xe987,
+  static const IconData mgc_arrow_to_right_line = IconData(0xe987,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_up_circle_fill = IconData(0xe988,
+  static const IconData mgc_arrow_to_up_fill = IconData(0xe988,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_up_circle_line = IconData(0xe989,
+  static const IconData mgc_arrow_to_up_line = IconData(0xe989,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_up_fill = IconData(0xe98a,
+  static const IconData mgc_arrow_up_circle_fill = IconData(0xe98a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrow_up_line = IconData(0xe98b,
+  static const IconData mgc_arrow_up_circle_line = IconData(0xe98b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_down_fill = IconData(0xe98c,
+  static const IconData mgc_arrow_up_fill = IconData(0xe98c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_down_line = IconData(0xe98d,
+  static const IconData mgc_arrow_up_line = IconData(0xe98d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_left_fill = IconData(0xe98e,
+  static const IconData mgc_arrows_down_fill = IconData(0xe98e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_left_line = IconData(0xe98f,
+  static const IconData mgc_arrows_down_line = IconData(0xe98f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_right_fill = IconData(0xe990,
+  static const IconData mgc_arrows_left_fill = IconData(0xe990,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_right_line = IconData(0xe991,
+  static const IconData mgc_arrows_left_line = IconData(0xe991,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_up_fill = IconData(0xe992,
+  static const IconData mgc_arrows_right_fill = IconData(0xe992,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_arrows_up_line = IconData(0xe993,
+  static const IconData mgc_arrows_right_line = IconData(0xe993,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_artboard_fill = IconData(0xe994,
+  static const IconData mgc_arrows_up_fill = IconData(0xe994,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_artboard_line = IconData(0xe995,
+  static const IconData mgc_arrows_up_line = IconData(0xe995,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_aspect_ratio_fill = IconData(0xe996,
+  static const IconData mgc_artboard_fill = IconData(0xe996,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_aspect_ratio_line = IconData(0xe997,
+  static const IconData mgc_artboard_line = IconData(0xe997,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_asterisk_2_fill = IconData(0xe998,
+  static const IconData mgc_aspect_ratio_fill = IconData(0xe998,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_asterisk_2_line = IconData(0xe999,
+  static const IconData mgc_aspect_ratio_line = IconData(0xe999,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_asterisk_fill = IconData(0xe99a,
+  static const IconData mgc_asterisk_2_fill = IconData(0xe99a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_asterisk_line = IconData(0xe99b,
+  static const IconData mgc_asterisk_2_line = IconData(0xe99b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_at_fill = IconData(0xe99c,
+  static const IconData mgc_asterisk_fill = IconData(0xe99c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_at_line = IconData(0xe99d,
+  static const IconData mgc_asterisk_line = IconData(0xe99d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_attachment_2_fill = IconData(0xe99e,
+  static const IconData mgc_at_fill = IconData(0xe99e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_attachment_2_line = IconData(0xe99f,
+  static const IconData mgc_at_line = IconData(0xe99f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_attachment_fill = IconData(0xe9a0,
+  static const IconData mgc_attachment_2_fill = IconData(0xe9a0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_attachment_line = IconData(0xe9a1,
+  static const IconData mgc_attachment_2_line = IconData(0xe9a1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_auction_fill = IconData(0xe9a2,
+  static const IconData mgc_attachment_fill = IconData(0xe9a2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_auction_line = IconData(0xe9a3,
+  static const IconData mgc_attachment_line = IconData(0xe9a3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_audio_tape_fill = IconData(0xe9a4,
+  static const IconData mgc_auction_fill = IconData(0xe9a4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_audio_tape_line = IconData(0xe9a5,
+  static const IconData mgc_auction_line = IconData(0xe9a5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_auto_hold_fill = IconData(0xe9a6,
+  static const IconData mgc_audio_tape_fill = IconData(0xe9a6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_auto_hold_line = IconData(0xe9a7,
+  static const IconData mgc_audio_tape_line = IconData(0xe9a7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_avalanche_AVAX_fill = IconData(0xe9a8,
+  static const IconData mgc_auto_hold_fill = IconData(0xe9a8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_avalanche_AVAX_line = IconData(0xe9a9,
+  static const IconData mgc_auto_hold_line = IconData(0xe9a9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_award_fill = IconData(0xe9aa,
+  static const IconData mgc_avalanche_AVAX_fill = IconData(0xe9aa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_award_line = IconData(0xe9ab,
+  static const IconData mgc_avalanche_AVAX_line = IconData(0xe9ab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_axe_fill = IconData(0xe9ac,
+  static const IconData mgc_award_fill = IconData(0xe9ac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_axe_line = IconData(0xe9ad,
+  static const IconData mgc_award_line = IconData(0xe9ad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_AZ_sort_ascending_letters_fill = IconData(0xe9ae,
+  static const IconData mgc_axe_fill = IconData(0xe9ae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_AZ_sort_ascending_letters_line = IconData(0xe9af,
+  static const IconData mgc_axe_line = IconData(0xe9af,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_baby_carriage_fill = IconData(0xe9b0,
+  static const IconData mgc_AZ_sort_ascending_letters_fill = IconData(0xe9b0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_baby_carriage_line = IconData(0xe9b1,
+  static const IconData mgc_AZ_sort_ascending_letters_line = IconData(0xe9b1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_baby_fill = IconData(0xe9b2,
+  static const IconData mgc_AZ_sort_descending_letters_fill = IconData(0xe9b2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_baby_line = IconData(0xe9b3,
+  static const IconData mgc_AZ_sort_descending_letters_line = IconData(0xe9b3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_back_2_fill = IconData(0xe9b4,
+  static const IconData mgc_baby_carriage_fill = IconData(0xe9b4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_back_2_line = IconData(0xe9b5,
+  static const IconData mgc_baby_carriage_line = IconData(0xe9b5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_back_fill = IconData(0xe9b6,
+  static const IconData mgc_baby_fill = IconData(0xe9b6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_back_line = IconData(0xe9b7,
+  static const IconData mgc_baby_line = IconData(0xe9b7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_backboard_fill = IconData(0xe9b8,
+  static const IconData mgc_back_2_fill = IconData(0xe9b8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_backboard_line = IconData(0xe9b9,
+  static const IconData mgc_back_2_line = IconData(0xe9b9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_background_fill = IconData(0xe9ba,
+  static const IconData mgc_back_fill = IconData(0xe9ba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_background_line = IconData(0xe9bb,
+  static const IconData mgc_back_line = IconData(0xe9bb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_backpack_fill = IconData(0xe9bc,
+  static const IconData mgc_backboard_fill = IconData(0xe9bc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_backpack_line = IconData(0xe9bd,
+  static const IconData mgc_backboard_line = IconData(0xe9bd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_badge_fill = IconData(0xe9be,
+  static const IconData mgc_background_fill = IconData(0xe9be,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_badge_line = IconData(0xe9bf,
+  static const IconData mgc_background_line = IconData(0xe9bf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_badminton_fill = IconData(0xe9c0,
+  static const IconData mgc_backpack_fill = IconData(0xe9c0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_badminton_line = IconData(0xe9c1,
+  static const IconData mgc_backpack_line = IconData(0xe9c1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_balance_fill = IconData(0xe9c2,
+  static const IconData mgc_badge_fill = IconData(0xe9c2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_balance_line = IconData(0xe9c3,
+  static const IconData mgc_badge_line = IconData(0xe9c3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_balloon_2_fill = IconData(0xe9c4,
+  static const IconData mgc_badminton_fill = IconData(0xe9c4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_balloon_2_line = IconData(0xe9c5,
+  static const IconData mgc_badminton_line = IconData(0xe9c5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bank_card_fill = IconData(0xe9c6,
+  static const IconData mgc_balance_fill = IconData(0xe9c6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bank_card_line = IconData(0xe9c7,
+  static const IconData mgc_balance_line = IconData(0xe9c7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bank_fill = IconData(0xe9c8,
+  static const IconData mgc_balloon_2_fill = IconData(0xe9c8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bank_line = IconData(0xe9c9,
+  static const IconData mgc_balloon_2_line = IconData(0xe9c9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bank_of_china_tower_fill = IconData(0xe9ca,
+  static const IconData mgc_bank_card_fill = IconData(0xe9ca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bank_of_china_tower_line = IconData(0xe9cb,
+  static const IconData mgc_bank_card_line = IconData(0xe9cb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_barbell_fill = IconData(0xe9cc,
+  static const IconData mgc_bank_fill = IconData(0xe9cc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_barbell_line = IconData(0xe9cd,
+  static const IconData mgc_bank_line = IconData(0xe9cd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_barcode_fill = IconData(0xe9ce,
+  static const IconData mgc_bank_of_china_tower_fill = IconData(0xe9ce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_barcode_line = IconData(0xe9cf,
+  static const IconData mgc_bank_of_china_tower_line = IconData(0xe9cf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_barcode_scan_fill = IconData(0xe9d0,
+  static const IconData mgc_barbell_fill = IconData(0xe9d0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_barcode_scan_line = IconData(0xe9d1,
+  static const IconData mgc_barbell_line = IconData(0xe9d1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_base_station_2_fill = IconData(0xe9d2,
+  static const IconData mgc_barcode_fill = IconData(0xe9d2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_base_station_2_line = IconData(0xe9d3,
+  static const IconData mgc_barcode_line = IconData(0xe9d3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_base_station_fill = IconData(0xe9d4,
+  static const IconData mgc_barcode_scan_fill = IconData(0xe9d4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_base_station_line = IconData(0xe9d5,
+  static const IconData mgc_barcode_scan_line = IconData(0xe9d5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_baseball_fill = IconData(0xe9d6,
+  static const IconData mgc_base_station_2_fill = IconData(0xe9d6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_baseball_line = IconData(0xe9d7,
+  static const IconData mgc_base_station_2_line = IconData(0xe9d7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_basket_fill = IconData(0xe9d8,
+  static const IconData mgc_base_station_fill = IconData(0xe9d8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_basket_line = IconData(0xe9d9,
+  static const IconData mgc_base_station_line = IconData(0xe9d9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_basketball_fill = IconData(0xe9da,
+  static const IconData mgc_baseball_fill = IconData(0xe9da,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_basketball_line = IconData(0xe9db,
+  static const IconData mgc_baseball_line = IconData(0xe9db,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bath_fill = IconData(0xe9dc,
+  static const IconData mgc_basket_2_fill = IconData(0xe9dc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bath_line = IconData(0xe9dd,
+  static const IconData mgc_basket_2_line = IconData(0xe9dd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_1_fill = IconData(0xe9de,
+  static const IconData mgc_basket_fill = IconData(0xe9de,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_1_line = IconData(0xe9df,
+  static const IconData mgc_basket_line = IconData(0xe9df,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_2_fill = IconData(0xe9e0,
+  static const IconData mgc_basketball_fill = IconData(0xe9e0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_2_line = IconData(0xe9e1,
+  static const IconData mgc_basketball_line = IconData(0xe9e1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_3_fill = IconData(0xe9e2,
+  static const IconData mgc_bath_fill = IconData(0xe9e2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_3_line = IconData(0xe9e3,
+  static const IconData mgc_bath_line = IconData(0xe9e3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_4_fill = IconData(0xe9e4,
+  static const IconData mgc_battery_1_fill = IconData(0xe9e4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_4_line = IconData(0xe9e5,
+  static const IconData mgc_battery_1_line = IconData(0xe9e5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_automotive_fill = IconData(0xe9e6,
+  static const IconData mgc_battery_2_fill = IconData(0xe9e6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_automotive_line = IconData(0xe9e7,
+  static const IconData mgc_battery_2_line = IconData(0xe9e7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_charging_fill = IconData(0xe9e8,
+  static const IconData mgc_battery_3_fill = IconData(0xe9e8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_charging_line = IconData(0xe9e9,
+  static const IconData mgc_battery_3_line = IconData(0xe9e9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_fill = IconData(0xe9ea,
+  static const IconData mgc_battery_4_fill = IconData(0xe9ea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_battery_line = IconData(0xe9eb,
+  static const IconData mgc_battery_4_line = IconData(0xe9eb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bear_fill = IconData(0xe9ec,
+  static const IconData mgc_battery_automotive_fill = IconData(0xe9ec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bear_line = IconData(0xe9ed,
+  static const IconData mgc_battery_automotive_line = IconData(0xe9ed,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_beard_fill = IconData(0xe9ee,
+  static const IconData mgc_battery_charging_fill = IconData(0xe9ee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_beard_line = IconData(0xe9ef,
+  static const IconData mgc_battery_charging_line = IconData(0xe9ef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bed_2_fill = IconData(0xe9f0,
+  static const IconData mgc_battery_fill = IconData(0xe9f0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bed_2_line = IconData(0xe9f1,
+  static const IconData mgc_battery_line = IconData(0xe9f1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bed_fill = IconData(0xe9f2,
+  static const IconData mgc_bear_fill = IconData(0xe9f2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bed_line = IconData(0xe9f3,
+  static const IconData mgc_bear_line = IconData(0xe9f3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bell_ringing_fill = IconData(0xe9f4,
+  static const IconData mgc_beard_fill = IconData(0xe9f4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bell_ringing_line = IconData(0xe9f5,
+  static const IconData mgc_beard_line = IconData(0xe9f5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_big_ben_fill = IconData(0xe9f6,
+  static const IconData mgc_bed_2_fill = IconData(0xe9f6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_big_ben_line = IconData(0xe9f7,
+  static const IconData mgc_bed_2_line = IconData(0xe9f7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bike_fill = IconData(0xe9f8,
+  static const IconData mgc_bed_fill = IconData(0xe9f8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bike_line = IconData(0xe9f9,
+  static const IconData mgc_bed_line = IconData(0xe9f9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bill_fill = IconData(0xe9fa,
+  static const IconData mgc_bell_ringing_fill = IconData(0xe9fa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bill_line = IconData(0xe9fb,
+  static const IconData mgc_bell_ringing_line = IconData(0xe9fb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_binance_coin_BNB_fill = IconData(0xe9fc,
+  static const IconData mgc_big_ben_fill = IconData(0xe9fc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_binance_coin_BNB_line = IconData(0xe9fd,
+  static const IconData mgc_big_ben_line = IconData(0xe9fd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_binance_USD_BUSD_fill = IconData(0xe9fe,
+  static const IconData mgc_bike_fill = IconData(0xe9fe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_binance_USD_BUSD_line = IconData(0xe9ff,
+  static const IconData mgc_bike_line = IconData(0xe9ff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bird_fill = IconData(0xea00,
+  static const IconData mgc_bill_fill = IconData(0xea00,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bird_line = IconData(0xea01,
+  static const IconData mgc_bill_line = IconData(0xea01,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_black_board_2_fill = IconData(0xea02,
+  static const IconData mgc_binance_coin_BNB_fill = IconData(0xea02,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_black_board_2_line = IconData(0xea03,
+  static const IconData mgc_binance_coin_BNB_line = IconData(0xea03,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_black_board_fill = IconData(0xea04,
+  static const IconData mgc_binance_USD_BUSD_fill = IconData(0xea04,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_black_board_line = IconData(0xea05,
+  static const IconData mgc_binance_USD_BUSD_line = IconData(0xea05,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_blessing_fill = IconData(0xea06,
+  static const IconData mgc_bird_fill = IconData(0xea06,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_blessing_line = IconData(0xea07,
+  static const IconData mgc_bird_line = IconData(0xea07,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bling_fill = IconData(0xea08,
+  static const IconData mgc_birthday_2_fill = IconData(0xea08,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bling_line = IconData(0xea09,
+  static const IconData mgc_birthday_2_line = IconData(0xea09,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bluetooth_fill = IconData(0xea0a,
+  static const IconData mgc_black_board_2_fill = IconData(0xea0a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bluetooth_line = IconData(0xea0b,
+  static const IconData mgc_black_board_2_line = IconData(0xea0b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bluetooth_off_fill = IconData(0xea0c,
+  static const IconData mgc_black_board_fill = IconData(0xea0c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bluetooth_off_line = IconData(0xea0d,
+  static const IconData mgc_black_board_line = IconData(0xea0d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_BNB_fill = IconData(0xea0e,
+  static const IconData mgc_blessing_fill = IconData(0xea0e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_BNB_line = IconData(0xea0f,
+  static const IconData mgc_blessing_line = IconData(0xea0f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_board_fill = IconData(0xea10,
+  static const IconData mgc_bling_fill = IconData(0xea10,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_board_line = IconData(0xea11,
+  static const IconData mgc_bling_line = IconData(0xea11,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_body_fill = IconData(0xea12,
+  static const IconData mgc_blockquote_fill = IconData(0xea12,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_body_line = IconData(0xea13,
+  static const IconData mgc_blockquote_line = IconData(0xea13,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bold_fill = IconData(0xea14,
+  static const IconData mgc_bluetooth_fill = IconData(0xea14,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bold_line = IconData(0xea15,
+  static const IconData mgc_bluetooth_line = IconData(0xea15,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bone_fill = IconData(0xea16,
+  static const IconData mgc_bluetooth_off_fill = IconData(0xea16,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bone_line = IconData(0xea17,
+  static const IconData mgc_bluetooth_off_line = IconData(0xea17,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_2_fill = IconData(0xea18,
+  static const IconData mgc_BNB_fill = IconData(0xea18,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_2_line = IconData(0xea19,
+  static const IconData mgc_BNB_line = IconData(0xea19,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_3_fill = IconData(0xea1a,
+  static const IconData mgc_board_fill = IconData(0xea1a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_3_line = IconData(0xea1b,
+  static const IconData mgc_board_line = IconData(0xea1b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_4_fill = IconData(0xea1c,
+  static const IconData mgc_body_fill = IconData(0xea1c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_4_line = IconData(0xea1d,
+  static const IconData mgc_body_line = IconData(0xea1d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_5_fill = IconData(0xea1e,
+  static const IconData mgc_bold_fill = IconData(0xea1e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_5_line = IconData(0xea1f,
+  static const IconData mgc_bold_line = IconData(0xea1f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_6_fill = IconData(0xea20,
+  static const IconData mgc_bomb_fill = IconData(0xea20,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_6_line = IconData(0xea21,
+  static const IconData mgc_bomb_line = IconData(0xea21,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_fill = IconData(0xea22,
+  static const IconData mgc_bone_fill = IconData(0xea22,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_book_line = IconData(0xea23,
+  static const IconData mgc_bone_line = IconData(0xea23,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bookmark_fill = IconData(0xea24,
+  static const IconData mgc_book_2_fill = IconData(0xea24,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bookmark_line = IconData(0xea25,
+  static const IconData mgc_book_2_line = IconData(0xea25,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bookmarks_fill = IconData(0xea26,
+  static const IconData mgc_book_3_fill = IconData(0xea26,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bookmarks_line = IconData(0xea27,
+  static const IconData mgc_book_3_line = IconData(0xea27,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_blank_fill = IconData(0xea28,
+  static const IconData mgc_book_4_fill = IconData(0xea28,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_blank_line = IconData(0xea29,
+  static const IconData mgc_book_4_line = IconData(0xea29,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_bottom_fill = IconData(0xea2a,
+  static const IconData mgc_book_5_fill = IconData(0xea2a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_bottom_line = IconData(0xea2b,
+  static const IconData mgc_book_5_line = IconData(0xea2b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_horizontal_fill = IconData(0xea2c,
+  static const IconData mgc_book_6_fill = IconData(0xea2c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_horizontal_line = IconData(0xea2d,
+  static const IconData mgc_book_6_line = IconData(0xea2d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_inner_fill = IconData(0xea2e,
+  static const IconData mgc_book_fill = IconData(0xea2e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_inner_line = IconData(0xea2f,
+  static const IconData mgc_book_line = IconData(0xea2f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_left_fill = IconData(0xea30,
+  static const IconData mgc_bookmark_fill = IconData(0xea30,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_left_line = IconData(0xea31,
+  static const IconData mgc_bookmark_line = IconData(0xea31,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_outer_fill = IconData(0xea32,
+  static const IconData mgc_bookmarks_fill = IconData(0xea32,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_outer_line = IconData(0xea33,
+  static const IconData mgc_bookmarks_line = IconData(0xea33,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_radius_fill = IconData(0xea34,
+  static const IconData mgc_boom_fill = IconData(0xea34,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_radius_line = IconData(0xea35,
+  static const IconData mgc_boom_line = IconData(0xea35,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_right_fill = IconData(0xea36,
+  static const IconData mgc_border_blank_fill = IconData(0xea36,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_right_line = IconData(0xea37,
+  static const IconData mgc_border_blank_line = IconData(0xea37,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_top_fill = IconData(0xea38,
+  static const IconData mgc_border_bottom_fill = IconData(0xea38,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_top_line = IconData(0xea39,
+  static const IconData mgc_border_bottom_line = IconData(0xea39,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_vertical_fill = IconData(0xea3a,
+  static const IconData mgc_border_horizontal_fill = IconData(0xea3a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_border_vertical_line = IconData(0xea3b,
+  static const IconData mgc_border_horizontal_line = IconData(0xea3b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bow_tie_fill = IconData(0xea3c,
+  static const IconData mgc_border_inner_fill = IconData(0xea3c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bow_tie_line = IconData(0xea3d,
+  static const IconData mgc_border_inner_line = IconData(0xea3d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bowknot_fill = IconData(0xea3e,
+  static const IconData mgc_border_left_fill = IconData(0xea3e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bowknot_line = IconData(0xea3f,
+  static const IconData mgc_border_left_line = IconData(0xea3f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bowl_fill = IconData(0xea40,
+  static const IconData mgc_border_outer_fill = IconData(0xea40,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bowl_line = IconData(0xea41,
+  static const IconData mgc_border_outer_line = IconData(0xea41,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_box_2_fill = IconData(0xea42,
+  static const IconData mgc_border_radius_fill = IconData(0xea42,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_box_2_line = IconData(0xea43,
+  static const IconData mgc_border_radius_line = IconData(0xea43,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_box_3_fill = IconData(0xea44,
+  static const IconData mgc_border_right_fill = IconData(0xea44,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_box_3_line = IconData(0xea45,
+  static const IconData mgc_border_right_line = IconData(0xea45,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_box_fill = IconData(0xea46,
+  static const IconData mgc_border_top_fill = IconData(0xea46,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_box_line = IconData(0xea47,
+  static const IconData mgc_border_top_line = IconData(0xea47,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_braces_fill = IconData(0xea48,
+  static const IconData mgc_border_vertical_fill = IconData(0xea48,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_braces_line = IconData(0xea49,
+  static const IconData mgc_border_vertical_line = IconData(0xea49,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brackets_angle_fill = IconData(0xea4a,
+  static const IconData mgc_bow_tie_fill = IconData(0xea4a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brackets_angle_line = IconData(0xea4b,
+  static const IconData mgc_bow_tie_line = IconData(0xea4b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brackets_fill = IconData(0xea4c,
+  static const IconData mgc_bowknot_fill = IconData(0xea4c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brackets_line = IconData(0xea4d,
+  static const IconData mgc_bowknot_line = IconData(0xea4d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brain_fill = IconData(0xea4e,
+  static const IconData mgc_bowl_fill = IconData(0xea4e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brain_line = IconData(0xea4f,
+  static const IconData mgc_bowl_line = IconData(0xea4f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brake_fill = IconData(0xea50,
+  static const IconData mgc_box_2_fill = IconData(0xea50,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brake_line = IconData(0xea51,
+  static const IconData mgc_box_2_line = IconData(0xea51,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bread_fill = IconData(0xea52,
+  static const IconData mgc_box_3_fill = IconData(0xea52,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bread_line = IconData(0xea53,
+  static const IconData mgc_box_3_line = IconData(0xea53,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bridge_2_fill = IconData(0xea54,
+  static const IconData mgc_box_fill = IconData(0xea54,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bridge_2_line = IconData(0xea55,
+  static const IconData mgc_box_line = IconData(0xea55,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bridge_fill = IconData(0xea56,
+  static const IconData mgc_braces_fill = IconData(0xea56,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bridge_line = IconData(0xea57,
+  static const IconData mgc_braces_line = IconData(0xea57,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brief_fill = IconData(0xea58,
+  static const IconData mgc_brackets_angle_fill = IconData(0xea58,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brief_line = IconData(0xea59,
+  static const IconData mgc_brackets_angle_line = IconData(0xea59,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_briefcase_fill = IconData(0xea5a,
+  static const IconData mgc_brackets_fill = IconData(0xea5a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_briefcase_line = IconData(0xea5b,
+  static const IconData mgc_brackets_line = IconData(0xea5b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brightness_fill = IconData(0xea5c,
+  static const IconData mgc_brain_fill = IconData(0xea5c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brightness_line = IconData(0xea5d,
+  static const IconData mgc_brain_line = IconData(0xea5d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_broom_fill = IconData(0xea5e,
+  static const IconData mgc_brake_fill = IconData(0xea5e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_broom_line = IconData(0xea5f,
+  static const IconData mgc_brake_line = IconData(0xea5f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brush_2_fill = IconData(0xea60,
+  static const IconData mgc_bread_fill = IconData(0xea60,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brush_2_line = IconData(0xea61,
+  static const IconData mgc_bread_line = IconData(0xea61,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brush_fill = IconData(0xea62,
+  static const IconData mgc_bridge_2_fill = IconData(0xea62,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_brush_line = IconData(0xea63,
+  static const IconData mgc_bridge_2_line = IconData(0xea63,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bug_fill = IconData(0xea64,
+  static const IconData mgc_bridge_fill = IconData(0xea64,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bug_line = IconData(0xea65,
+  static const IconData mgc_bridge_line = IconData(0xea65,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_1_fill = IconData(0xea66,
+  static const IconData mgc_brief_fill = IconData(0xea66,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_1_line = IconData(0xea67,
+  static const IconData mgc_brief_line = IconData(0xea67,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_2_fill = IconData(0xea68,
+  static const IconData mgc_briefcase_fill = IconData(0xea68,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_2_line = IconData(0xea69,
+  static const IconData mgc_briefcase_line = IconData(0xea69,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_3_fill = IconData(0xea6a,
+  static const IconData mgc_brightness_fill = IconData(0xea6a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_3_line = IconData(0xea6b,
+  static const IconData mgc_brightness_line = IconData(0xea6b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_4_fill = IconData(0xea6c,
+  static const IconData mgc_broom_fill = IconData(0xea6c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_4_line = IconData(0xea6d,
+  static const IconData mgc_broom_line = IconData(0xea6d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_5_fill = IconData(0xea6e,
+  static const IconData mgc_brush_2_fill = IconData(0xea6e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_5_line = IconData(0xea6f,
+  static const IconData mgc_brush_2_line = IconData(0xea6f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_6_fill = IconData(0xea70,
+  static const IconData mgc_brush_3_fill = IconData(0xea70,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_building_6_line = IconData(0xea71,
+  static const IconData mgc_brush_3_line = IconData(0xea71,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bulb_fill = IconData(0xea72,
+  static const IconData mgc_brush_fill = IconData(0xea72,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bulb_line = IconData(0xea73,
+  static const IconData mgc_brush_line = IconData(0xea73,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_burj_al_arab_fill = IconData(0xea74,
+  static const IconData mgc_bug_fill = IconData(0xea74,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_burj_al_arab_line = IconData(0xea75,
+  static const IconData mgc_bug_line = IconData(0xea75,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_burj_khalifa_tower_fill = IconData(0xea76,
+  static const IconData mgc_building_1_fill = IconData(0xea76,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_burj_khalifa_tower_line = IconData(0xea77,
+  static const IconData mgc_building_1_line = IconData(0xea77,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bus_2_fill = IconData(0xea78,
+  static const IconData mgc_building_2_fill = IconData(0xea78,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bus_2_line = IconData(0xea79,
+  static const IconData mgc_building_2_line = IconData(0xea79,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bus_fill = IconData(0xea7a,
+  static const IconData mgc_building_3_fill = IconData(0xea7a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_bus_line = IconData(0xea7b,
+  static const IconData mgc_building_3_line = IconData(0xea7b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_butterfly_fill = IconData(0xea7c,
+  static const IconData mgc_building_4_fill = IconData(0xea7c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_butterfly_line = IconData(0xea7d,
+  static const IconData mgc_building_4_line = IconData(0xea7d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cactus_2_fill = IconData(0xea7e,
+  static const IconData mgc_building_5_fill = IconData(0xea7e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cactus_2_line = IconData(0xea7f,
+  static const IconData mgc_building_5_line = IconData(0xea7f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cactus_fill = IconData(0xea80,
+  static const IconData mgc_building_6_fill = IconData(0xea80,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cactus_line = IconData(0xea81,
+  static const IconData mgc_building_6_line = IconData(0xea81,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cake_fill = IconData(0xea82,
+  static const IconData mgc_bulb_fill = IconData(0xea82,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cake_line = IconData(0xea83,
+  static const IconData mgc_bulb_line = IconData(0xea83,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_add_fill = IconData(0xea84,
+  static const IconData mgc_burj_al_arab_fill = IconData(0xea84,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_add_line = IconData(0xea85,
+  static const IconData mgc_burj_al_arab_line = IconData(0xea85,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_day_fill = IconData(0xea86,
+  static const IconData mgc_burj_khalifa_tower_fill = IconData(0xea86,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_day_line = IconData(0xea87,
+  static const IconData mgc_burj_khalifa_tower_line = IconData(0xea87,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_fill = IconData(0xea88,
+  static const IconData mgc_bus_2_fill = IconData(0xea88,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_line = IconData(0xea89,
+  static const IconData mgc_bus_2_line = IconData(0xea89,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_month_fill = IconData(0xea8a,
+  static const IconData mgc_bus_fill = IconData(0xea8a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_month_line = IconData(0xea8b,
+  static const IconData mgc_bus_line = IconData(0xea8b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_time_add_fill = IconData(0xea8c,
+  static const IconData mgc_butterfly_fill = IconData(0xea8c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_time_add_line = IconData(0xea8d,
+  static const IconData mgc_butterfly_line = IconData(0xea8d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_week_fill = IconData(0xea8e,
+  static const IconData mgc_cactus_2_fill = IconData(0xea8e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_calendar_week_line = IconData(0xea8f,
+  static const IconData mgc_cactus_2_line = IconData(0xea8f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camcorder_2_fill = IconData(0xea90,
+  static const IconData mgc_cactus_fill = IconData(0xea90,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camcorder_2_line = IconData(0xea91,
+  static const IconData mgc_cactus_line = IconData(0xea91,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camcorder_3_fill = IconData(0xea92,
+  static const IconData mgc_cake_fill = IconData(0xea92,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camcorder_3_line = IconData(0xea93,
+  static const IconData mgc_cake_line = IconData(0xea93,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camcorder_fill = IconData(0xea94,
+  static const IconData mgc_calendar_2_fill = IconData(0xea94,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camcorder_line = IconData(0xea95,
+  static const IconData mgc_calendar_2_line = IconData(0xea95,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camera_2_fill = IconData(0xea96,
+  static const IconData mgc_calendar_3_fill = IconData(0xea96,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camera_2_line = IconData(0xea97,
+  static const IconData mgc_calendar_3_line = IconData(0xea97,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camera_fill = IconData(0xea98,
+  static const IconData mgc_calendar_add_fill = IconData(0xea98,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camera_line = IconData(0xea99,
+  static const IconData mgc_calendar_add_line = IconData(0xea99,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camera_rotate_fill = IconData(0xea9a,
+  static const IconData mgc_calendar_day_fill = IconData(0xea9a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_camera_rotate_line = IconData(0xea9b,
+  static const IconData mgc_calendar_day_line = IconData(0xea9b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_campground_fill = IconData(0xea9c,
+  static const IconData mgc_calendar_fill = IconData(0xea9c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_campground_line = IconData(0xea9d,
+  static const IconData mgc_calendar_line = IconData(0xea9d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_candle_fill = IconData(0xea9e,
+  static const IconData mgc_calendar_month_fill = IconData(0xea9e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_candle_line = IconData(0xea9f,
+  static const IconData mgc_calendar_month_line = IconData(0xea9f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_candy_2_fill = IconData(0xeaa0,
+  static const IconData mgc_calendar_time_add_fill = IconData(0xeaa0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_candy_2_line = IconData(0xeaa1,
+  static const IconData mgc_calendar_time_add_line = IconData(0xeaa1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_candy_fill = IconData(0xeaa2,
+  static const IconData mgc_calendar_week_fill = IconData(0xeaa2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_candy_line = IconData(0xeaa3,
+  static const IconData mgc_calendar_week_line = IconData(0xeaa3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_canton_tower_fill = IconData(0xeaa4,
+  static const IconData mgc_camcorder_2_fill = IconData(0xeaa4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_canton_tower_line = IconData(0xeaa5,
+  static const IconData mgc_camcorder_2_line = IconData(0xeaa5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_2_fill = IconData(0xeaa6,
+  static const IconData mgc_camcorder_3_fill = IconData(0xeaa6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_2_line = IconData(0xeaa7,
+  static const IconData mgc_camcorder_3_line = IconData(0xeaa7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_3_fill = IconData(0xeaa8,
+  static const IconData mgc_camcorder_fill = IconData(0xeaa8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_3_line = IconData(0xeaa9,
+  static const IconData mgc_camcorder_line = IconData(0xeaa9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_door_fill = IconData(0xeaaa,
+  static const IconData mgc_camera_2_fill = IconData(0xeaaa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_door_line = IconData(0xeaab,
+  static const IconData mgc_camera_2_line = IconData(0xeaab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_fill = IconData(0xeaac,
+  static const IconData mgc_camera_fill = IconData(0xeaac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_line = IconData(0xeaad,
+  static const IconData mgc_camera_line = IconData(0xeaad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_window_fill = IconData(0xeaae,
+  static const IconData mgc_camera_rotate_fill = IconData(0xeaae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_car_window_line = IconData(0xeaaf,
+  static const IconData mgc_camera_rotate_line = IconData(0xeaaf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cardano_ADA_fill = IconData(0xeab0,
+  static const IconData mgc_campground_fill = IconData(0xeab0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cardano_ADA_line = IconData(0xeab1,
+  static const IconData mgc_campground_line = IconData(0xeab1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cardboard_vr_fill = IconData(0xeab2,
+  static const IconData mgc_candle_fill = IconData(0xeab2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cardboard_vr_line = IconData(0xeab3,
+  static const IconData mgc_candle_line = IconData(0xeab3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_carplay_fill = IconData(0xeab4,
+  static const IconData mgc_candy_2_fill = IconData(0xeab4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_carplay_line = IconData(0xeab5,
+  static const IconData mgc_candy_2_line = IconData(0xeab5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_carrot_fill = IconData(0xeab6,
+  static const IconData mgc_candy_fill = IconData(0xeab6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_carrot_line = IconData(0xeab7,
+  static const IconData mgc_candy_line = IconData(0xeab7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cat_fill = IconData(0xeab8,
+  static const IconData mgc_canton_tower_fill = IconData(0xeab8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cat_line = IconData(0xeab9,
+  static const IconData mgc_canton_tower_line = IconData(0xeab9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ceiling_lamp_fill = IconData(0xeaba,
+  static const IconData mgc_capsule_fill = IconData(0xeaba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ceiling_lamp_line = IconData(0xeabb,
+  static const IconData mgc_capsule_line = IconData(0xeabb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_celebrate_fill = IconData(0xeabc,
+  static const IconData mgc_car_2_fill = IconData(0xeabc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_celebrate_line = IconData(0xeabd,
+  static const IconData mgc_car_2_line = IconData(0xeabd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cellphone_fill = IconData(0xeabe,
+  static const IconData mgc_car_3_fill = IconData(0xeabe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cellphone_line = IconData(0xeabf,
+  static const IconData mgc_car_3_line = IconData(0xeabf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cellphone_vibration_fill = IconData(0xeac0,
+  static const IconData mgc_car_door_fill = IconData(0xeac0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cellphone_vibration_line = IconData(0xeac1,
+  static const IconData mgc_car_door_line = IconData(0xeac1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_celsius_fill = IconData(0xeac2,
+  static const IconData mgc_car_fill = IconData(0xeac2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_celsius_line = IconData(0xeac3,
+  static const IconData mgc_car_line = IconData(0xeac3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_certificate_2_fill = IconData(0xeac4,
+  static const IconData mgc_car_window_fill = IconData(0xeac4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_certificate_2_line = IconData(0xeac5,
+  static const IconData mgc_car_window_line = IconData(0xeac5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_certificate_fill = IconData(0xeac6,
+  static const IconData mgc_card_pay_fill = IconData(0xeac6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_certificate_line = IconData(0xeac7,
+  static const IconData mgc_card_pay_line = IconData(0xeac7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_champagne_fill = IconData(0xeac8,
+  static const IconData mgc_card_refund_fill = IconData(0xeac8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_champagne_line = IconData(0xeac9,
+  static const IconData mgc_card_refund_line = IconData(0xeac9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_charging_pile_fill = IconData(0xeaca,
+  static const IconData mgc_cardano_ADA_fill = IconData(0xeaca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_charging_pile_line = IconData(0xeacb,
+  static const IconData mgc_cardano_ADA_line = IconData(0xeacb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chart_bar_fill = IconData(0xeacc,
+  static const IconData mgc_cardboard_vr_fill = IconData(0xeacc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chart_bar_line = IconData(0xeacd,
+  static const IconData mgc_cardboard_vr_line = IconData(0xeacd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chart_line_fill = IconData(0xeace,
+  static const IconData mgc_carplay_fill = IconData(0xeace,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chart_line_line = IconData(0xeacf,
+  static const IconData mgc_carplay_line = IconData(0xeacf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chart_pie_fill = IconData(0xead0,
+  static const IconData mgc_carrot_fill = IconData(0xead0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chart_pie_line = IconData(0xead1,
+  static const IconData mgc_carrot_line = IconData(0xead1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_1_fill = IconData(0xead2,
+  static const IconData mgc_cat_fill = IconData(0xead2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_1_line = IconData(0xead3,
+  static const IconData mgc_cat_line = IconData(0xead3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_2_fill = IconData(0xead4,
+  static const IconData mgc_ceiling_lamp_fill = IconData(0xead4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_2_line = IconData(0xead5,
+  static const IconData mgc_ceiling_lamp_line = IconData(0xead5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_3_fill = IconData(0xead6,
+  static const IconData mgc_celebrate_fill = IconData(0xead6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_3_line = IconData(0xead7,
+  static const IconData mgc_celebrate_line = IconData(0xead7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_4_fill = IconData(0xead8,
+  static const IconData mgc_cellphone_fill = IconData(0xead8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chat_4_line = IconData(0xead9,
+  static const IconData mgc_cellphone_line = IconData(0xead9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_check_2_fill = IconData(0xeada,
+  static const IconData mgc_cellphone_vibration_fill = IconData(0xeada,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_check_2_line = IconData(0xeadb,
+  static const IconData mgc_cellphone_vibration_line = IconData(0xeadb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_check_circle_fill = IconData(0xeadc,
+  static const IconData mgc_celsius_fill = IconData(0xeadc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_check_circle_line = IconData(0xeadd,
+  static const IconData mgc_celsius_line = IconData(0xeadd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_check_fill = IconData(0xeade,
+  static const IconData mgc_certificate_2_fill = IconData(0xeade,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_check_line = IconData(0xeadf,
+  static const IconData mgc_certificate_2_line = IconData(0xeadf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_checks_fill = IconData(0xeae0,
+  static const IconData mgc_certificate_fill = IconData(0xeae0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_checks_line = IconData(0xeae1,
+  static const IconData mgc_certificate_line = IconData(0xeae1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chess_fill = IconData(0xeae2,
+  static const IconData mgc_champagne_fill = IconData(0xeae2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chess_line = IconData(0xeae3,
+  static const IconData mgc_champagne_line = IconData(0xeae3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chicken_fill = IconData(0xeae4,
+  static const IconData mgc_charging_pile_fill = IconData(0xeae4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chicken_line = IconData(0xeae5,
+  static const IconData mgc_charging_pile_line = IconData(0xeae5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chines_knot_fill = IconData(0xeae6,
+  static const IconData mgc_chart_bar_2_fill = IconData(0xeae6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chines_knot_line = IconData(0xeae7,
+  static const IconData mgc_chart_bar_2_line = IconData(0xeae7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chip_fill = IconData(0xeae8,
+  static const IconData mgc_chart_bar_fill = IconData(0xeae8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chip_line = IconData(0xeae9,
+  static const IconData mgc_chart_bar_line = IconData(0xeae9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chopsticks_fill = IconData(0xeaea,
+  static const IconData mgc_chart_decrease_fill = IconData(0xeaea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chopsticks_line = IconData(0xeaeb,
+  static const IconData mgc_chart_decrease_line = IconData(0xeaeb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_christ_the_redeemer_fill = IconData(0xeaec,
+  static const IconData mgc_chart_horizontal_fill = IconData(0xeaec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_christ_the_redeemer_line = IconData(0xeaed,
+  static const IconData mgc_chart_horizontal_line = IconData(0xeaed,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_christmas_ball_fill = IconData(0xeaee,
+  static const IconData mgc_chart_line_fill = IconData(0xeaee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_christmas_ball_line = IconData(0xeaef,
+  static const IconData mgc_chart_line_line = IconData(0xeaef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_christmas_hat_fill = IconData(0xeaf0,
+  static const IconData mgc_chart_pie_2_fill = IconData(0xeaf0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_christmas_hat_line = IconData(0xeaf1,
+  static const IconData mgc_chart_pie_2_line = IconData(0xeaf1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chrome_fill = IconData(0xeaf2,
+  static const IconData mgc_chart_pie_fill = IconData(0xeaf2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_chrome_line = IconData(0xeaf3,
+  static const IconData mgc_chart_pie_line = IconData(0xeaf3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_church_fill = IconData(0xeaf4,
+  static const IconData mgc_chart_vertical_fill = IconData(0xeaf4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_church_line = IconData(0xeaf5,
+  static const IconData mgc_chart_vertical_line = IconData(0xeaf5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clapperboard_fill = IconData(0xeaf6,
+  static const IconData mgc_chat_1_fill = IconData(0xeaf6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clapperboard_line = IconData(0xeaf7,
+  static const IconData mgc_chat_1_line = IconData(0xeaf7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_classify_2_fill = IconData(0xeaf8,
+  static const IconData mgc_chat_2_fill = IconData(0xeaf8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_classify_2_line = IconData(0xeaf9,
+  static const IconData mgc_chat_2_line = IconData(0xeaf9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_classify_fill = IconData(0xeafa,
+  static const IconData mgc_chat_3_fill = IconData(0xeafa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_classify_line = IconData(0xeafb,
+  static const IconData mgc_chat_3_line = IconData(0xeafb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clipboard_fill = IconData(0xeafc,
+  static const IconData mgc_chat_4_fill = IconData(0xeafc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clipboard_line = IconData(0xeafd,
+  static const IconData mgc_chat_4_line = IconData(0xeafd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clock_2_fill = IconData(0xeafe,
+  static const IconData mgc_check_2_fill = IconData(0xeafe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clock_2_line = IconData(0xeaff,
+  static const IconData mgc_check_2_line = IconData(0xeaff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clock_fill = IconData(0xeb00,
+  static const IconData mgc_check_circle_fill = IconData(0xeb00,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clock_line = IconData(0xeb01,
+  static const IconData mgc_check_circle_line = IconData(0xeb01,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clockwise_alt_fill = IconData(0xeb02,
+  static const IconData mgc_check_fill = IconData(0xeb02,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clockwise_alt_line = IconData(0xeb03,
+  static const IconData mgc_check_line = IconData(0xeb03,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clockwise_fill = IconData(0xeb04,
+  static const IconData mgc_checkbox_fill = IconData(0xeb04,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clockwise_line = IconData(0xeb05,
+  static const IconData mgc_checkbox_line = IconData(0xeb05,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_close_circle_fill = IconData(0xeb06,
+  static const IconData mgc_checks_fill = IconData(0xeb06,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_close_circle_line = IconData(0xeb07,
+  static const IconData mgc_checks_line = IconData(0xeb07,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_close_fill = IconData(0xeb08,
+  static const IconData mgc_chess_fill = IconData(0xeb08,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_close_line = IconData(0xeb09,
+  static const IconData mgc_chess_line = IconData(0xeb09,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_fill = IconData(0xeb0a,
+  static const IconData mgc_chicken_fill = IconData(0xeb0a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_lightning_fill = IconData(0xeb0b,
+  static const IconData mgc_chicken_line = IconData(0xeb0b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_lightning_line = IconData(0xeb0c,
+  static const IconData mgc_chines_knot_fill = IconData(0xeb0c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_line = IconData(0xeb0d,
+  static const IconData mgc_chines_knot_line = IconData(0xeb0d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_snow_fill = IconData(0xeb0e,
+  static const IconData mgc_chip_fill = IconData(0xeb0e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_snow_line = IconData(0xeb0f,
+  static const IconData mgc_chip_line = IconData(0xeb0f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_windy_fill = IconData(0xeb10,
+  static const IconData mgc_choice_fill = IconData(0xeb10,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cloud_windy_line = IconData(0xeb11,
+  static const IconData mgc_choice_line = IconData(0xeb11,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clubs_fill = IconData(0xeb12,
+  static const IconData mgc_chopsticks_fill = IconData(0xeb12,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_clubs_line = IconData(0xeb13,
+  static const IconData mgc_chopsticks_line = IconData(0xeb13,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coat_fill = IconData(0xeb14,
+  static const IconData mgc_christ_the_redeemer_fill = IconData(0xeb14,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coat_line = IconData(0xeb15,
+  static const IconData mgc_christ_the_redeemer_line = IconData(0xeb15,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coathanger_fill = IconData(0xeb16,
+  static const IconData mgc_christmas_ball_fill = IconData(0xeb16,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coathanger_line = IconData(0xeb17,
+  static const IconData mgc_christmas_ball_line = IconData(0xeb17,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_code_fill = IconData(0xeb18,
+  static const IconData mgc_christmas_hat_fill = IconData(0xeb18,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_code_line = IconData(0xeb19,
+  static const IconData mgc_christmas_hat_line = IconData(0xeb19,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_codepen_fill = IconData(0xeb1a,
+  static const IconData mgc_chrome_fill = IconData(0xeb1a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_codepen_line = IconData(0xeb1b,
+  static const IconData mgc_chrome_line = IconData(0xeb1b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coin_2_fill = IconData(0xeb1c,
+  static const IconData mgc_church_fill = IconData(0xeb1c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coin_2_line = IconData(0xeb1d,
+  static const IconData mgc_church_line = IconData(0xeb1d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coin_3_fill = IconData(0xeb1e,
+  static const IconData mgc_clapperboard_fill = IconData(0xeb1e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coin_3_line = IconData(0xeb1f,
+  static const IconData mgc_clapperboard_line = IconData(0xeb1f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coin_fill = IconData(0xeb20,
+  static const IconData mgc_classify_2_fill = IconData(0xeb20,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coin_line = IconData(0xeb21,
+  static const IconData mgc_classify_2_line = IconData(0xeb21,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_color_filter_fill = IconData(0xeb22,
+  static const IconData mgc_classify_3_fill = IconData(0xeb22,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_color_filter_line = IconData(0xeb23,
+  static const IconData mgc_classify_3_line = IconData(0xeb23,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_color_picker_fill = IconData(0xeb24,
+  static const IconData mgc_classify_add_2_fill = IconData(0xeb24,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_color_picker_line = IconData(0xeb25,
+  static const IconData mgc_classify_add_2_line = IconData(0xeb25,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_column_fill = IconData(0xeb26,
+  static const IconData mgc_classify_add_fill = IconData(0xeb26,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_column_line = IconData(0xeb27,
+  static const IconData mgc_classify_add_line = IconData(0xeb27,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_columns_2_fill = IconData(0xeb28,
+  static const IconData mgc_classify_fill = IconData(0xeb28,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_columns_2_line = IconData(0xeb29,
+  static const IconData mgc_classify_line = IconData(0xeb29,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_columns_3_fill = IconData(0xeb2a,
+  static const IconData mgc_clipboard_fill = IconData(0xeb2a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_columns_3_line = IconData(0xeb2b,
+  static const IconData mgc_clipboard_line = IconData(0xeb2b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_command_fill = IconData(0xeb2c,
+  static const IconData mgc_clock_2_fill = IconData(0xeb2c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_command_line = IconData(0xeb2d,
+  static const IconData mgc_clock_2_line = IconData(0xeb2d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_comment_2_fill = IconData(0xeb2e,
+  static const IconData mgc_clock_fill = IconData(0xeb2e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_comment_2_line = IconData(0xeb2f,
+  static const IconData mgc_clock_line = IconData(0xeb2f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_comment_fill = IconData(0xeb30,
+  static const IconData mgc_clockwise_alt_fill = IconData(0xeb30,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_comment_line = IconData(0xeb31,
+  static const IconData mgc_clockwise_alt_line = IconData(0xeb31,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_compass_2_fill = IconData(0xeb32,
+  static const IconData mgc_clockwise_fill = IconData(0xeb32,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_compass_2_line = IconData(0xeb33,
+  static const IconData mgc_clockwise_line = IconData(0xeb33,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_compass_fill = IconData(0xeb34,
+  static const IconData mgc_close_circle_fill = IconData(0xeb34,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_compass_line = IconData(0xeb35,
+  static const IconData mgc_close_circle_line = IconData(0xeb35,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_computer_camera_fill = IconData(0xeb36,
+  static const IconData mgc_close_fill = IconData(0xeb36,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_computer_camera_line = IconData(0xeb37,
+  static const IconData mgc_close_line = IconData(0xeb37,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_computer_camera_off_fill = IconData(0xeb38,
+  static const IconData mgc_cloud_2_fill = IconData(0xeb38,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_computer_camera_off_line = IconData(0xeb39,
+  static const IconData mgc_cloud_2_line = IconData(0xeb39,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_computer_fill = IconData(0xeb3a,
+  static const IconData mgc_cloud_fill = IconData(0xeb3a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_computer_line = IconData(0xeb3b,
+  static const IconData mgc_cloud_lightning_fill = IconData(0xeb3b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_confused_fill = IconData(0xeb3c,
+  static const IconData mgc_cloud_lightning_line = IconData(0xeb3c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_confused_line = IconData(0xeb3d,
+  static const IconData mgc_cloud_line = IconData(0xeb3d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_contacts_fill = IconData(0xeb3e,
+  static const IconData mgc_cloud_snow_fill = IconData(0xeb3e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_contacts_line = IconData(0xeb3f,
+  static const IconData mgc_cloud_snow_line = IconData(0xeb3f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cookie_fill = IconData(0xeb40,
+  static const IconData mgc_cloud_windy_fill = IconData(0xeb40,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cookie_line = IconData(0xeb41,
+  static const IconData mgc_cloud_windy_line = IconData(0xeb41,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cookie_man_fill = IconData(0xeb42,
+  static const IconData mgc_clouds_fill = IconData(0xeb42,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cookie_man_line = IconData(0xeb43,
+  static const IconData mgc_clouds_line = IconData(0xeb43,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copper_coin_fill = IconData(0xeb44,
+  static const IconData mgc_clubs_fill = IconData(0xeb44,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copper_coin_line = IconData(0xeb45,
+  static const IconData mgc_clubs_line = IconData(0xeb45,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copy_2_fill = IconData(0xeb46,
+  static const IconData mgc_coat_fill = IconData(0xeb46,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copy_2_line = IconData(0xeb47,
+  static const IconData mgc_coat_line = IconData(0xeb47,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copy_3_fill = IconData(0xeb48,
+  static const IconData mgc_coathanger_fill = IconData(0xeb48,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copy_3_line = IconData(0xeb49,
+  static const IconData mgc_coathanger_line = IconData(0xeb49,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copy_fill = IconData(0xeb4a,
+  static const IconData mgc_code_fill = IconData(0xeb4a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copy_line = IconData(0xeb4b,
+  static const IconData mgc_code_line = IconData(0xeb4b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copyright_fill = IconData(0xeb4c,
+  static const IconData mgc_codepen_fill = IconData(0xeb4c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_copyright_line = IconData(0xeb4d,
+  static const IconData mgc_codepen_line = IconData(0xeb4d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_counter_2_fill = IconData(0xeb4e,
+  static const IconData mgc_coin_2_fill = IconData(0xeb4e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_counter_2_line = IconData(0xeb4f,
+  static const IconData mgc_coin_2_line = IconData(0xeb4f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_counter_fill = IconData(0xeb50,
+  static const IconData mgc_coin_3_fill = IconData(0xeb50,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_counter_line = IconData(0xeb51,
+  static const IconData mgc_coin_3_line = IconData(0xeb51,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coupon_fill = IconData(0xeb52,
+  static const IconData mgc_coin_fill = IconData(0xeb52,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_coupon_line = IconData(0xeb53,
+  static const IconData mgc_coin_line = IconData(0xeb53,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_crutch_fill = IconData(0xeb54,
+  static const IconData mgc_color_filter_fill = IconData(0xeb54,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_crutch_line = IconData(0xeb55,
+  static const IconData mgc_color_filter_line = IconData(0xeb55,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cube_3d_fill = IconData(0xeb56,
+  static const IconData mgc_color_picker_fill = IconData(0xeb56,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cube_3d_line = IconData(0xeb57,
+  static const IconData mgc_color_picker_line = IconData(0xeb57,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cupcake_fill = IconData(0xeb58,
+  static const IconData mgc_column_fill = IconData(0xeb58,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cupcake_line = IconData(0xeb59,
+  static const IconData mgc_column_line = IconData(0xeb59,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_baht_2_fill = IconData(0xeb5a,
+  static const IconData mgc_columns_2_fill = IconData(0xeb5a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_baht_2_line = IconData(0xeb5b,
+  static const IconData mgc_columns_2_line = IconData(0xeb5b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_baht_fill = IconData(0xeb5c,
+  static const IconData mgc_columns_3_fill = IconData(0xeb5c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_baht_line = IconData(0xeb5d,
+  static const IconData mgc_columns_3_line = IconData(0xeb5d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_bitcoin_2_fill = IconData(0xeb5e,
+  static const IconData mgc_command_fill = IconData(0xeb5e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_bitcoin_2_line = IconData(0xeb5f,
+  static const IconData mgc_command_line = IconData(0xeb5f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_bitcoin_fill = IconData(0xeb60,
+  static const IconData mgc_comment_2_fill = IconData(0xeb60,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_bitcoin_line = IconData(0xeb61,
+  static const IconData mgc_comment_2_line = IconData(0xeb61,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_cny_2_fill = IconData(0xeb62,
+  static const IconData mgc_comment_fill = IconData(0xeb62,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_cny_2_line = IconData(0xeb63,
+  static const IconData mgc_comment_line = IconData(0xeb63,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_cny_fill = IconData(0xeb64,
+  static const IconData mgc_compass_2_fill = IconData(0xeb64,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_cny_line = IconData(0xeb65,
+  static const IconData mgc_compass_2_line = IconData(0xeb65,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_dollar_2_fill = IconData(0xeb66,
+  static const IconData mgc_compass_fill = IconData(0xeb66,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_dollar_2_line = IconData(0xeb67,
+  static const IconData mgc_compass_line = IconData(0xeb67,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_dollar_fill = IconData(0xeb68,
+  static const IconData mgc_computer_camera_fill = IconData(0xeb68,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_dollar_line = IconData(0xeb69,
+  static const IconData mgc_computer_camera_line = IconData(0xeb69,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_euro_2_fill = IconData(0xeb6a,
+  static const IconData mgc_computer_camera_off_fill = IconData(0xeb6a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_euro_2_line = IconData(0xeb6b,
+  static const IconData mgc_computer_camera_off_line = IconData(0xeb6b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_euro_fill = IconData(0xeb6c,
+  static const IconData mgc_computer_fill = IconData(0xeb6c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_euro_line = IconData(0xeb6d,
+  static const IconData mgc_computer_line = IconData(0xeb6d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_lira_2_fill = IconData(0xeb6e,
+  static const IconData mgc_confused_fill = IconData(0xeb6e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_lira_2_line = IconData(0xeb6f,
+  static const IconData mgc_confused_line = IconData(0xeb6f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_lira_fill = IconData(0xeb70,
+  static const IconData mgc_contacts_2_fill = IconData(0xeb70,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_lira_line = IconData(0xeb71,
+  static const IconData mgc_contacts_2_line = IconData(0xeb71,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_pound_2_fill = IconData(0xeb72,
+  static const IconData mgc_contacts_3_fill = IconData(0xeb72,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_pound_2_line = IconData(0xeb73,
+  static const IconData mgc_contacts_3_line = IconData(0xeb73,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_pound_fill = IconData(0xeb74,
+  static const IconData mgc_contacts_fill = IconData(0xeb74,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_pound_line = IconData(0xeb75,
+  static const IconData mgc_contacts_line = IconData(0xeb75,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rubel_2_fill = IconData(0xeb76,
+  static const IconData mgc_cookie_fill = IconData(0xeb76,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rubel_2_line = IconData(0xeb77,
+  static const IconData mgc_cookie_line = IconData(0xeb77,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rubel_fill = IconData(0xeb78,
+  static const IconData mgc_cookie_man_fill = IconData(0xeb78,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rubel_line = IconData(0xeb79,
+  static const IconData mgc_cookie_man_line = IconData(0xeb79,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rupee_2_fill = IconData(0xeb7a,
+  static const IconData mgc_copper_coin_fill = IconData(0xeb7a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rupee_2_line = IconData(0xeb7b,
+  static const IconData mgc_copper_coin_line = IconData(0xeb7b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rupee_fill = IconData(0xeb7c,
+  static const IconData mgc_copy_2_fill = IconData(0xeb7c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_rupee_line = IconData(0xeb7d,
+  static const IconData mgc_copy_2_line = IconData(0xeb7d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_shekel_2_fill = IconData(0xeb7e,
+  static const IconData mgc_copy_3_fill = IconData(0xeb7e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_shekel_2_line = IconData(0xeb7f,
+  static const IconData mgc_copy_3_line = IconData(0xeb7f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_shekel_fill = IconData(0xeb80,
+  static const IconData mgc_copy_fill = IconData(0xeb80,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_shekel_line = IconData(0xeb81,
+  static const IconData mgc_copy_line = IconData(0xeb81,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_won_2_fill = IconData(0xeb82,
+  static const IconData mgc_copyright_fill = IconData(0xeb82,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_won_2_line = IconData(0xeb83,
+  static const IconData mgc_copyright_line = IconData(0xeb83,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_won_fill = IconData(0xeb84,
+  static const IconData mgc_counter_2_fill = IconData(0xeb84,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_currency_won_line = IconData(0xeb85,
+  static const IconData mgc_counter_2_line = IconData(0xeb85,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cursor_fill = IconData(0xeb86,
+  static const IconData mgc_counter_fill = IconData(0xeb86,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cursor_line = IconData(0xeb87,
+  static const IconData mgc_counter_line = IconData(0xeb87,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cursor_text_fill = IconData(0xeb88,
+  static const IconData mgc_coupon_fill = IconData(0xeb88,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_cursor_text_line = IconData(0xeb89,
+  static const IconData mgc_coupon_line = IconData(0xeb89,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dandelion_fill = IconData(0xeb8a,
+  static const IconData mgc_cross_2_fill = IconData(0xeb8a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dandelion_line = IconData(0xeb8b,
+  static const IconData mgc_cross_2_line = IconData(0xeb8b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_2_fill = IconData(0xeb8c,
+  static const IconData mgc_cross_fill = IconData(0xeb8c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_2_line = IconData(0xeb8d,
+  static const IconData mgc_cross_line = IconData(0xeb8d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_3_fill = IconData(0xeb8e,
+  static const IconData mgc_crutch_fill = IconData(0xeb8e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_3_line = IconData(0xeb8f,
+  static const IconData mgc_crutch_line = IconData(0xeb8f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_4_fill = IconData(0xeb90,
+  static const IconData mgc_cube_3d_fill = IconData(0xeb90,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_4_line = IconData(0xeb91,
+  static const IconData mgc_cube_3d_line = IconData(0xeb91,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_fill = IconData(0xeb92,
+  static const IconData mgc_cupcake_fill = IconData(0xeb92,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dashboard_line = IconData(0xeb93,
+  static const IconData mgc_cupcake_line = IconData(0xeb93,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_deer_fill = IconData(0xeb94,
+  static const IconData mgc_currency_baht_2_fill = IconData(0xeb94,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_deer_line = IconData(0xeb95,
+  static const IconData mgc_currency_baht_2_line = IconData(0xeb95,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_delete_2_fill = IconData(0xeb96,
+  static const IconData mgc_currency_baht_fill = IconData(0xeb96,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_delete_2_line = IconData(0xeb97,
+  static const IconData mgc_currency_baht_line = IconData(0xeb97,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_delete_back_fill = IconData(0xeb98,
+  static const IconData mgc_currency_bitcoin_2_fill = IconData(0xeb98,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_delete_back_line = IconData(0xeb99,
+  static const IconData mgc_currency_bitcoin_2_line = IconData(0xeb99,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_delete_fill = IconData(0xeb9a,
+  static const IconData mgc_currency_bitcoin_fill = IconData(0xeb9a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_delete_line = IconData(0xeb9b,
+  static const IconData mgc_currency_bitcoin_line = IconData(0xeb9b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dental_fill = IconData(0xeb9c,
+  static const IconData mgc_currency_cny_2_fill = IconData(0xeb9c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dental_line = IconData(0xeb9d,
+  static const IconData mgc_currency_cny_2_line = IconData(0xeb9d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_department_fill = IconData(0xeb9e,
+  static const IconData mgc_currency_cny_fill = IconData(0xeb9e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_department_line = IconData(0xeb9f,
+  static const IconData mgc_currency_cny_line = IconData(0xeb9f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_desk_fill = IconData(0xeba0,
+  static const IconData mgc_currency_dollar_2_fill = IconData(0xeba0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_desk_lamp_fill = IconData(0xeba1,
+  static const IconData mgc_currency_dollar_2_line = IconData(0xeba1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_desk_lamp_line = IconData(0xeba2,
+  static const IconData mgc_currency_dollar_fill = IconData(0xeba2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_desk_line = IconData(0xeba3,
+  static const IconData mgc_currency_dollar_line = IconData(0xeba3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_device_fill = IconData(0xeba4,
+  static const IconData mgc_currency_euro_2_fill = IconData(0xeba4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_device_line = IconData(0xeba5,
+  static const IconData mgc_currency_euro_2_line = IconData(0xeba5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_diamond_2_fill = IconData(0xeba6,
+  static const IconData mgc_currency_euro_fill = IconData(0xeba6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_diamond_2_line = IconData(0xeba7,
+  static const IconData mgc_currency_euro_line = IconData(0xeba7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_diamond_fill = IconData(0xeba8,
+  static const IconData mgc_currency_lira_2_fill = IconData(0xeba8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_diamond_line = IconData(0xeba9,
+  static const IconData mgc_currency_lira_2_line = IconData(0xeba9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_diary_fill = IconData(0xebaa,
+  static const IconData mgc_currency_lira_fill = IconData(0xebaa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_diary_line = IconData(0xebab,
+  static const IconData mgc_currency_lira_line = IconData(0xebab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dingtalk_fill = IconData(0xebac,
+  static const IconData mgc_currency_pound_2_fill = IconData(0xebac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dingtalk_line = IconData(0xebad,
+  static const IconData mgc_currency_pound_2_line = IconData(0xebad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_directions_2_fill = IconData(0xebae,
+  static const IconData mgc_currency_pound_fill = IconData(0xebae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_directions_2_line = IconData(0xebaf,
+  static const IconData mgc_currency_pound_line = IconData(0xebaf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_directions_fill = IconData(0xebb0,
+  static const IconData mgc_currency_rubel_2_fill = IconData(0xebb0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_directions_line = IconData(0xebb1,
+  static const IconData mgc_currency_rubel_2_line = IconData(0xebb1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_directory_fill = IconData(0xebb2,
+  static const IconData mgc_currency_rubel_fill = IconData(0xebb2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_directory_line = IconData(0xebb3,
+  static const IconData mgc_currency_rubel_line = IconData(0xebb3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_disc_fill = IconData(0xebb4,
+  static const IconData mgc_currency_rupee_2_fill = IconData(0xebb4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_disc_line = IconData(0xebb5,
+  static const IconData mgc_currency_rupee_2_line = IconData(0xebb5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_discord_fill = IconData(0xebb6,
+  static const IconData mgc_currency_rupee_fill = IconData(0xebb6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_discord_line = IconData(0xebb7,
+  static const IconData mgc_currency_rupee_line = IconData(0xebb7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_display_fill = IconData(0xebb8,
+  static const IconData mgc_currency_shekel_2_fill = IconData(0xebb8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_display_line = IconData(0xebb9,
+  static const IconData mgc_currency_shekel_2_line = IconData(0xebb9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_currency_shekel_fill = IconData(0xebba,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_currency_shekel_line = IconData(0xebbb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_currency_won_2_fill = IconData(0xebbc,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_currency_won_2_line = IconData(0xebbd,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_currency_won_fill = IconData(0xebbe,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_currency_won_line = IconData(0xebbf,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_cursor_fill = IconData(0xebc0,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_cursor_line = IconData(0xebc1,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_cursor_text_fill = IconData(0xebc2,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_cursor_text_line = IconData(0xebc3,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_curtain_fill = IconData(0xebc4,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_curtain_line = IconData(0xebc5,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dandelion_fill = IconData(0xebc6,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dandelion_line = IconData(0xebc7,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_2_fill = IconData(0xebc8,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_2_line = IconData(0xebc9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_3_fill = IconData(0xebca,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_3_line = IconData(0xebcb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_4_fill = IconData(0xebcc,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_4_line = IconData(0xebcd,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_fill = IconData(0xebce,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dashboard_line = IconData(0xebcf,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_deer_fill = IconData(0xebd0,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_deer_line = IconData(0xebd1,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_2_fill = IconData(0xebd2,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_2_line = IconData(0xebd3,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_3_fill = IconData(0xebd4,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_3_line = IconData(0xebd5,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_back_fill = IconData(0xebd6,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_back_line = IconData(0xebd7,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_fill = IconData(0xebd8,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_delete_line = IconData(0xebd9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dental_fill = IconData(0xebda,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dental_line = IconData(0xebdb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_department_fill = IconData(0xebdc,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_department_line = IconData(0xebdd,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_desk_fill = IconData(0xebde,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_desk_lamp_fill = IconData(0xebdf,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_desk_lamp_line = IconData(0xebe0,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_desk_line = IconData(0xebe1,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_device_fill = IconData(0xebe2,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_device_line = IconData(0xebe3,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diamond_2_fill = IconData(0xebe4,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diamond_2_line = IconData(0xebe5,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diamond_fill = IconData(0xebe6,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diamond_line = IconData(0xebe7,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diamond_square_fill = IconData(0xebe8,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diamond_square_line = IconData(0xebe9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diary_fill = IconData(0xebea,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_diary_line = IconData(0xebeb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dingtalk_fill = IconData(0xebec,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_dingtalk_line = IconData(0xebed,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_direction_arrow_fill = IconData(0xebee,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_direction_arrow_line = IconData(0xebef,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_direction_dot_fill = IconData(0xebf0,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_direction_dot_line = IconData(0xebf1,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_directions_2_fill = IconData(0xebf2,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_directions_2_line = IconData(0xebf3,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_directions_fill = IconData(0xebf4,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_directions_line = IconData(0xebf5,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_directory_fill = IconData(0xebf6,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_directory_line = IconData(0xebf7,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_disc_fill = IconData(0xebf8,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_disc_line = IconData(0xebf9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_discord_fill = IconData(0xebfa,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_discord_line = IconData(0xebfb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_display_fill = IconData(0xebfc,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_display_line = IconData(0xebfd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
   static const IconData mgc_distribute_spacing_horizontal_fill = IconData(
-      0xebba,
+      0xebfe,
       fontFamily: _fontFamilyMingCute,
       fontPackage: _fontPackageMingCute);
   static const IconData mgc_distribute_spacing_horizontal_line = IconData(
-      0xebbb,
+      0xebff,
       fontFamily: _fontFamilyMingCute,
       fontPackage: _fontPackageMingCute);
-  static const IconData mgc_distribute_spacing_vertical_fill = IconData(0xebbc,
+  static const IconData mgc_distribute_spacing_vertical_fill = IconData(0xec00,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_distribute_spacing_vertical_line = IconData(0xebbd,
+  static const IconData mgc_distribute_spacing_vertical_line = IconData(0xec01,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dividing_line_fill = IconData(0xebbe,
+  static const IconData mgc_dividing_line_fill = IconData(0xec02,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dividing_line_line = IconData(0xebbf,
+  static const IconData mgc_dividing_line_line = IconData(0xec03,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_doc_fill = IconData(0xebc0,
+  static const IconData mgc_doc_fill = IconData(0xec04,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_doc_line = IconData(0xebc1,
+  static const IconData mgc_doc_line = IconData(0xec05,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_document_2_fill = IconData(0xebc2,
+  static const IconData mgc_document_2_fill = IconData(0xec06,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_document_2_line = IconData(0xebc3,
+  static const IconData mgc_document_2_line = IconData(0xec07,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_document_3_fill = IconData(0xebc4,
+  static const IconData mgc_document_3_fill = IconData(0xec08,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_document_3_line = IconData(0xebc5,
+  static const IconData mgc_document_3_line = IconData(0xec09,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_document_fill = IconData(0xebc6,
+  static const IconData mgc_document_fill = IconData(0xec0a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_document_line = IconData(0xebc7,
+  static const IconData mgc_document_line = IconData(0xec0b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_documents_fill = IconData(0xebc8,
+  static const IconData mgc_documents_fill = IconData(0xec0c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_documents_line = IconData(0xebc9,
+  static const IconData mgc_documents_line = IconData(0xec0d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dog_fill = IconData(0xebca,
+  static const IconData mgc_dog_fill = IconData(0xec0e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dog_line = IconData(0xebcb,
+  static const IconData mgc_dog_line = IconData(0xec0f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dogecoin_DOGE_fill = IconData(0xebcc,
+  static const IconData mgc_dogecoin_DOGE_fill = IconData(0xec10,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dogecoin_DOGE_line = IconData(0xebcd,
+  static const IconData mgc_dogecoin_DOGE_line = IconData(0xec11,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_door_fill = IconData(0xebce,
+  static const IconData mgc_door_fill = IconData(0xec12,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_door_line = IconData(0xebcf,
+  static const IconData mgc_door_line = IconData(0xec13,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dot_grid_fill = IconData(0xebd0,
+  static const IconData mgc_dot_grid_fill = IconData(0xec14,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dot_grid_line = IconData(0xebd1,
+  static const IconData mgc_dot_grid_line = IconData(0xec15,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_down_fill = IconData(0xebd2,
+  static const IconData mgc_dots_fill = IconData(0xec16,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_down_line = IconData(0xebd3,
+  static const IconData mgc_dots_line = IconData(0xec17,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_down_small_fill = IconData(0xebd4,
+  static const IconData mgc_dots_vertical_fill = IconData(0xec18,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_down_small_line = IconData(0xebd5,
+  static const IconData mgc_dots_vertical_line = IconData(0xec19,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_download_2_fill = IconData(0xebd6,
+  static const IconData mgc_down_fill = IconData(0xec1a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_download_2_line = IconData(0xebd7,
+  static const IconData mgc_down_line = IconData(0xec1b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_download_3_fill = IconData(0xebd8,
+  static const IconData mgc_down_small_fill = IconData(0xec1c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_download_3_line = IconData(0xebd9,
+  static const IconData mgc_down_small_line = IconData(0xec1d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_download_fill = IconData(0xebda,
+  static const IconData mgc_download_2_fill = IconData(0xec1e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_download_line = IconData(0xebdb,
+  static const IconData mgc_download_2_line = IconData(0xec1f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dragonfly_fill = IconData(0xebdc,
+  static const IconData mgc_download_3_fill = IconData(0xec20,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dragonfly_line = IconData(0xebdd,
+  static const IconData mgc_download_3_line = IconData(0xec21,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drawer_2_fill = IconData(0xebde,
+  static const IconData mgc_download_fill = IconData(0xec22,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drawer_2_line = IconData(0xebdf,
+  static const IconData mgc_download_line = IconData(0xec23,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drawer_fill = IconData(0xebe0,
+  static const IconData mgc_dragonfly_fill = IconData(0xec24,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drawer_line = IconData(0xebe1,
+  static const IconData mgc_dragonfly_line = IconData(0xec25,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drawing_board_fill = IconData(0xebe2,
+  static const IconData mgc_drawer_2_fill = IconData(0xec26,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drawing_board_line = IconData(0xebe3,
+  static const IconData mgc_drawer_2_line = IconData(0xec27,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dress_fill = IconData(0xebe4,
+  static const IconData mgc_drawer_fill = IconData(0xec28,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dress_line = IconData(0xebe5,
+  static const IconData mgc_drawer_line = IconData(0xec29,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dribbble_fill = IconData(0xebe6,
+  static const IconData mgc_drawing_board_fill = IconData(0xec2a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dribbble_line = IconData(0xebe7,
+  static const IconData mgc_drawing_board_line = IconData(0xec2b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drink_fill = IconData(0xebe8,
+  static const IconData mgc_dress_fill = IconData(0xec2c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drink_line = IconData(0xebe9,
+  static const IconData mgc_dress_line = IconData(0xec2d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drizzle_fill = IconData(0xebea,
+  static const IconData mgc_dribbble_fill = IconData(0xec2e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drizzle_line = IconData(0xebeb,
+  static const IconData mgc_dribbble_line = IconData(0xec2f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drone_fill = IconData(0xebec,
+  static const IconData mgc_drink_fill = IconData(0xec30,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drone_line = IconData(0xebed,
+  static const IconData mgc_drink_line = IconData(0xec31,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drop_fill = IconData(0xebee,
+  static const IconData mgc_drive_fill = IconData(0xec32,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drop_line = IconData(0xebef,
+  static const IconData mgc_drive_line = IconData(0xec33,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drum_fill = IconData(0xebf0,
+  static const IconData mgc_drizzle_fill = IconData(0xec34,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_drum_line = IconData(0xebf1,
+  static const IconData mgc_drizzle_line = IconData(0xec35,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dutch_windmill_fill = IconData(0xebf2,
+  static const IconData mgc_drone_fill = IconData(0xec36,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_dutch_windmill_line = IconData(0xebf3,
+  static const IconData mgc_drone_line = IconData(0xec37,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ear_fill = IconData(0xebf4,
+  static const IconData mgc_drop_fill = IconData(0xec38,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ear_line = IconData(0xebf5,
+  static const IconData mgc_drop_line = IconData(0xec39,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_2_fill = IconData(0xebf6,
+  static const IconData mgc_dropbox_fill = IconData(0xec3a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_2_line = IconData(0xebf7,
+  static const IconData mgc_dropbox_line = IconData(0xec3b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_fill = IconData(0xebf8,
+  static const IconData mgc_drum_fill = IconData(0xec3c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_latitude_fill = IconData(0xebf9,
+  static const IconData mgc_drum_line = IconData(0xec3d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_latitude_line = IconData(0xebfa,
+  static const IconData mgc_dry_fill = IconData(0xec3e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_line = IconData(0xebfb,
+  static const IconData mgc_dry_line = IconData(0xec3f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_longitude_fill = IconData(0xebfc,
+  static const IconData mgc_dutch_windmill_fill = IconData(0xec40,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_earth_longitude_line = IconData(0xebfd,
+  static const IconData mgc_dutch_windmill_line = IconData(0xec41,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ebike_fill = IconData(0xebfe,
+  static const IconData mgc_ear_fill = IconData(0xec42,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ebike_line = IconData(0xebff,
+  static const IconData mgc_ear_line = IconData(0xec43,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edge_fill = IconData(0xec00,
+  static const IconData mgc_earth_2_fill = IconData(0xec44,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edge_line = IconData(0xec01,
+  static const IconData mgc_earth_2_line = IconData(0xec45,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edit_2_fill = IconData(0xec02,
+  static const IconData mgc_earth_fill = IconData(0xec46,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edit_2_line = IconData(0xec03,
+  static const IconData mgc_earth_latitude_fill = IconData(0xec47,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edit_3_fill = IconData(0xec04,
+  static const IconData mgc_earth_latitude_line = IconData(0xec48,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edit_3_line = IconData(0xec05,
+  static const IconData mgc_earth_line = IconData(0xec49,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edit_fill = IconData(0xec06,
+  static const IconData mgc_earth_longitude_fill = IconData(0xec4a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_edit_line = IconData(0xec07,
+  static const IconData mgc_earth_longitude_line = IconData(0xec4b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_egg_crack_fill = IconData(0xec08,
+  static const IconData mgc_ebike_fill = IconData(0xec4c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_egg_crack_line = IconData(0xec09,
+  static const IconData mgc_ebike_line = IconData(0xec4d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_egg_fill = IconData(0xec0a,
+  static const IconData mgc_edge_fill = IconData(0xec4e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_egg_line = IconData(0xec0b,
+  static const IconData mgc_edge_line = IconData(0xec4f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_egyptian_pyramids_fill = IconData(0xec0c,
+  static const IconData mgc_edit_2_fill = IconData(0xec50,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_egyptian_pyramids_line = IconData(0xec0d,
+  static const IconData mgc_edit_2_line = IconData(0xec51,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eiffel_tower_fill = IconData(0xec0e,
+  static const IconData mgc_edit_3_fill = IconData(0xec52,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eiffel_tower_line = IconData(0xec0f,
+  static const IconData mgc_edit_3_line = IconData(0xec53,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_emergency_flashers_fill = IconData(0xec10,
+  static const IconData mgc_edit_4_fill = IconData(0xec54,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_emergency_flashers_line = IconData(0xec11,
+  static const IconData mgc_edit_4_line = IconData(0xec55,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_emoji_2_fill = IconData(0xec12,
+  static const IconData mgc_edit_fill = IconData(0xec56,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_emoji_2_line = IconData(0xec13,
+  static const IconData mgc_edit_line = IconData(0xec57,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_emoji_fill = IconData(0xec14,
+  static const IconData mgc_egg_crack_fill = IconData(0xec58,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_emoji_line = IconData(0xec15,
+  static const IconData mgc_egg_crack_line = IconData(0xec59,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_engine_fill = IconData(0xec16,
+  static const IconData mgc_egg_fill = IconData(0xec5a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_engine_line = IconData(0xec17,
+  static const IconData mgc_egg_line = IconData(0xec5b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_enter_door_fill = IconData(0xec18,
+  static const IconData mgc_egyptian_pyramids_fill = IconData(0xec5c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_enter_door_line = IconData(0xec19,
+  static const IconData mgc_egyptian_pyramids_line = IconData(0xec5d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_entrance_fill = IconData(0xec1a,
+  static const IconData mgc_eiffel_tower_fill = IconData(0xec5e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_entrance_line = IconData(0xec1b,
+  static const IconData mgc_eiffel_tower_line = IconData(0xec5f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eraser_fill = IconData(0xec1c,
+  static const IconData mgc_emergency_flashers_fill = IconData(0xec60,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eraser_line = IconData(0xec1d,
+  static const IconData mgc_emergency_flashers_line = IconData(0xec61,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_escalator_down_fill = IconData(0xec1e,
+  static const IconData mgc_emoji_2_fill = IconData(0xec62,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_escalator_down_line = IconData(0xec1f,
+  static const IconData mgc_emoji_2_line = IconData(0xec63,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_escalator_up_fill = IconData(0xec20,
+  static const IconData mgc_emoji_fill = IconData(0xec64,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_escalator_up_line = IconData(0xec21,
+  static const IconData mgc_emoji_line = IconData(0xec65,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ethereum_fill = IconData(0xec22,
+  static const IconData mgc_engine_fill = IconData(0xec66,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ethereum_line = IconData(0xec23,
+  static const IconData mgc_engine_line = IconData(0xec67,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_baht_fill = IconData(0xec24,
+  static const IconData mgc_enter_door_fill = IconData(0xec68,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_baht_line = IconData(0xec25,
+  static const IconData mgc_enter_door_line = IconData(0xec69,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_bitcoin_fill = IconData(0xec26,
+  static const IconData mgc_entrance_fill = IconData(0xec6a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_bitcoin_line = IconData(0xec27,
+  static const IconData mgc_entrance_line = IconData(0xec6b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_cny_fill = IconData(0xec28,
+  static const IconData mgc_eraser_fill = IconData(0xec6c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_cny_line = IconData(0xec29,
+  static const IconData mgc_eraser_line = IconData(0xec6d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_dollar_fill = IconData(0xec2a,
+  static const IconData mgc_escalator_down_fill = IconData(0xec6e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_dollar_line = IconData(0xec2b,
+  static const IconData mgc_escalator_down_line = IconData(0xec6f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_euro_fill = IconData(0xec2c,
+  static const IconData mgc_escalator_up_fill = IconData(0xec70,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exchange_euro_line = IconData(0xec2d,
+  static const IconData mgc_escalator_up_line = IconData(0xec71,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exit_door_fill = IconData(0xec2e,
+  static const IconData mgc_ethereum_fill = IconData(0xec72,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exit_door_line = IconData(0xec2f,
+  static const IconData mgc_ethereum_line = IconData(0xec73,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exit_fill = IconData(0xec30,
+  static const IconData mgc_exchange_baht_fill = IconData(0xec74,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exit_line = IconData(0xec31,
+  static const IconData mgc_exchange_baht_line = IconData(0xec75,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_expand_player_fill = IconData(0xec32,
+  static const IconData mgc_exchange_bitcoin_fill = IconData(0xec76,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_expand_player_line = IconData(0xec33,
+  static const IconData mgc_exchange_bitcoin_line = IconData(0xec77,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exposure_fill = IconData(0xec34,
+  static const IconData mgc_exchange_cny_fill = IconData(0xec78,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_exposure_line = IconData(0xec35,
+  static const IconData mgc_exchange_cny_line = IconData(0xec79,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_external_link_fill = IconData(0xec36,
+  static const IconData mgc_exchange_dollar_fill = IconData(0xec7a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_external_link_line = IconData(0xec37,
+  static const IconData mgc_exchange_dollar_line = IconData(0xec7b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eye_2_fill = IconData(0xec38,
+  static const IconData mgc_exchange_euro_fill = IconData(0xec7c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eye_2_line = IconData(0xec39,
+  static const IconData mgc_exchange_euro_line = IconData(0xec7d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eye_close_fill = IconData(0xec3a,
+  static const IconData mgc_exit_door_fill = IconData(0xec7e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eye_close_line = IconData(0xec3b,
+  static const IconData mgc_exit_door_line = IconData(0xec7f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eye_fill = IconData(0xec3c,
+  static const IconData mgc_exit_fill = IconData(0xec80,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eye_line = IconData(0xec3d,
+  static const IconData mgc_exit_line = IconData(0xec81,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eyebrow_fill = IconData(0xec3e,
+  static const IconData mgc_expand_player_fill = IconData(0xec82,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eyebrow_line = IconData(0xec3f,
+  static const IconData mgc_expand_player_line = IconData(0xec83,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eyeglass_fill = IconData(0xec40,
+  static const IconData mgc_exposure_fill = IconData(0xec84,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_eyeglass_line = IconData(0xec41,
+  static const IconData mgc_exposure_line = IconData(0xec85,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_face_fill = IconData(0xec42,
+  static const IconData mgc_external_link_fill = IconData(0xec86,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_face_line = IconData(0xec43,
+  static const IconData mgc_external_link_line = IconData(0xec87,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_face_mask_fill = IconData(0xec44,
+  static const IconData mgc_eye_2_fill = IconData(0xec88,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_face_mask_line = IconData(0xec45,
+  static const IconData mgc_eye_2_line = IconData(0xec89,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_facebook_fill = IconData(0xec46,
+  static const IconData mgc_eye_close_fill = IconData(0xec8a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_facebook_line = IconData(0xec47,
+  static const IconData mgc_eye_close_line = IconData(0xec8b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_faceid_fill = IconData(0xec48,
+  static const IconData mgc_eye_fill = IconData(0xec8c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_faceid_line = IconData(0xec49,
+  static const IconData mgc_eye_line = IconData(0xec8d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_factory_fill = IconData(0xec4a,
+  static const IconData mgc_eyebrow_fill = IconData(0xec8e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_factory_line = IconData(0xec4b,
+  static const IconData mgc_eyebrow_line = IconData(0xec8f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fahrenheit_fill = IconData(0xec4c,
+  static const IconData mgc_eyeglass_fill = IconData(0xec90,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fahrenheit_line = IconData(0xec4d,
+  static const IconData mgc_eyeglass_line = IconData(0xec91,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_2_fill = IconData(0xec4e,
+  static const IconData mgc_face_fill = IconData(0xec92,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_2_line = IconData(0xec4f,
+  static const IconData mgc_face_line = IconData(0xec93,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_direction_down_fill = IconData(0xec50,
+  static const IconData mgc_face_mask_fill = IconData(0xec94,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_direction_down_line = IconData(0xec51,
+  static const IconData mgc_face_mask_line = IconData(0xec95,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_direction_front_fill = IconData(0xec52,
+  static const IconData mgc_facebook_fill = IconData(0xec96,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_direction_front_line = IconData(0xec53,
+  static const IconData mgc_facebook_line = IconData(0xec97,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_direction_up_fill = IconData(0xec54,
+  static const IconData mgc_faceid_fill = IconData(0xec98,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_direction_up_line = IconData(0xec55,
+  static const IconData mgc_faceid_line = IconData(0xec99,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_fill = IconData(0xec56,
+  static const IconData mgc_factory_fill = IconData(0xec9a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fan_line = IconData(0xec57,
+  static const IconData mgc_factory_line = IconData(0xec9b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fast_forward_fill = IconData(0xec58,
+  static const IconData mgc_fahrenheit_fill = IconData(0xec9c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fast_forward_line = IconData(0xec59,
+  static const IconData mgc_fahrenheit_line = IconData(0xec9d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fast_rewind_fill = IconData(0xec5a,
+  static const IconData mgc_fan_2_fill = IconData(0xec9e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fast_rewind_line = IconData(0xec5b,
+  static const IconData mgc_fan_2_line = IconData(0xec9f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_father_christmas_fill = IconData(0xec5c,
+  static const IconData mgc_fan_direction_down_fill = IconData(0xeca0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_father_christmas_line = IconData(0xec5d,
+  static const IconData mgc_fan_direction_down_line = IconData(0xeca1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_female_fill = IconData(0xec5e,
+  static const IconData mgc_fan_direction_front_fill = IconData(0xeca2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_female_line = IconData(0xec5f,
+  static const IconData mgc_fan_direction_front_line = IconData(0xeca3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ferris_wheel_fill = IconData(0xec60,
+  static const IconData mgc_fan_direction_up_fill = IconData(0xeca4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ferris_wheel_line = IconData(0xec61,
+  static const IconData mgc_fan_direction_up_line = IconData(0xeca5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_figma_fill = IconData(0xec62,
+  static const IconData mgc_fan_fill = IconData(0xeca6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_figma_line = IconData(0xec63,
+  static const IconData mgc_fan_line = IconData(0xeca7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_certificate_fill = IconData(0xec64,
+  static const IconData mgc_fast_forward_fill = IconData(0xeca8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_certificate_line = IconData(0xec65,
+  static const IconData mgc_fast_forward_line = IconData(0xeca9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_check_fill = IconData(0xec66,
+  static const IconData mgc_fast_rewind_fill = IconData(0xecaa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_check_line = IconData(0xec67,
+  static const IconData mgc_fast_rewind_line = IconData(0xecab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_code_fill = IconData(0xec68,
+  static const IconData mgc_father_christmas_fill = IconData(0xecac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_code_line = IconData(0xec69,
+  static const IconData mgc_father_christmas_line = IconData(0xecad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_download_fill = IconData(0xec6a,
+  static const IconData mgc_female_fill = IconData(0xecae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_download_line = IconData(0xec6b,
+  static const IconData mgc_female_line = IconData(0xecaf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_export_fill = IconData(0xec6c,
+  static const IconData mgc_ferris_wheel_fill = IconData(0xecb0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_export_line = IconData(0xec6d,
+  static const IconData mgc_ferris_wheel_line = IconData(0xecb1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_fill = IconData(0xec6e,
+  static const IconData mgc_figma_fill = IconData(0xecb2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_forbid_fill = IconData(0xec6f,
+  static const IconData mgc_figma_line = IconData(0xecb3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_forbid_line = IconData(0xec70,
+  static const IconData mgc_file_certificate_fill = IconData(0xecb4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_import_fill = IconData(0xec71,
+  static const IconData mgc_file_certificate_line = IconData(0xecb5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_import_line = IconData(0xec72,
+  static const IconData mgc_file_check_fill = IconData(0xecb6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_info_fill = IconData(0xec73,
+  static const IconData mgc_file_check_line = IconData(0xecb7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_info_line = IconData(0xec74,
+  static const IconData mgc_file_code_fill = IconData(0xecb8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_line = IconData(0xec75,
+  static const IconData mgc_file_code_line = IconData(0xecb9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_locked_fill = IconData(0xec76,
+  static const IconData mgc_file_download_fill = IconData(0xecba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_locked_line = IconData(0xec77,
+  static const IconData mgc_file_download_line = IconData(0xecbb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_more_fill = IconData(0xec78,
+  static const IconData mgc_file_export_fill = IconData(0xecbc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_more_line = IconData(0xec79,
+  static const IconData mgc_file_export_line = IconData(0xecbd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_music_fill = IconData(0xec7a,
+  static const IconData mgc_file_fill = IconData(0xecbe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_music_line = IconData(0xec7b,
+  static const IconData mgc_file_forbid_fill = IconData(0xecbf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_new_fill = IconData(0xec7c,
+  static const IconData mgc_file_forbid_line = IconData(0xecc0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_new_line = IconData(0xec7d,
+  static const IconData mgc_file_import_fill = IconData(0xecc1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_search_fill = IconData(0xec7e,
+  static const IconData mgc_file_import_line = IconData(0xecc2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_search_line = IconData(0xec7f,
+  static const IconData mgc_file_info_fill = IconData(0xecc3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_security_fill = IconData(0xec80,
+  static const IconData mgc_file_info_line = IconData(0xecc4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_security_line = IconData(0xec81,
+  static const IconData mgc_file_line = IconData(0xecc5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_star_fill = IconData(0xec82,
+  static const IconData mgc_file_locked_fill = IconData(0xecc6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_star_line = IconData(0xec83,
+  static const IconData mgc_file_locked_line = IconData(0xecc7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_unknown_fill = IconData(0xec84,
+  static const IconData mgc_file_more_fill = IconData(0xecc8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_unknown_line = IconData(0xec85,
+  static const IconData mgc_file_more_line = IconData(0xecc9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_upload_fill = IconData(0xec86,
+  static const IconData mgc_file_music_fill = IconData(0xecca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_upload_line = IconData(0xec87,
+  static const IconData mgc_file_music_line = IconData(0xeccb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_warning_fill = IconData(0xec88,
+  static const IconData mgc_file_new_fill = IconData(0xeccc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_warning_line = IconData(0xec89,
+  static const IconData mgc_file_new_line = IconData(0xeccd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_zip_fill = IconData(0xec8a,
+  static const IconData mgc_file_search_fill = IconData(0xecce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_file_zip_line = IconData(0xec8b,
+  static const IconData mgc_file_search_line = IconData(0xeccf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_film_fill = IconData(0xec8c,
+  static const IconData mgc_file_security_fill = IconData(0xecd0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_film_line = IconData(0xec8d,
+  static const IconData mgc_file_security_line = IconData(0xecd1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_filter_2_fill = IconData(0xec8e,
+  static const IconData mgc_file_star_fill = IconData(0xecd2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_filter_2_line = IconData(0xec8f,
+  static const IconData mgc_file_star_line = IconData(0xecd3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_filter_3_fill = IconData(0xec90,
+  static const IconData mgc_file_unknown_fill = IconData(0xecd4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_filter_3_line = IconData(0xec91,
+  static const IconData mgc_file_unknown_line = IconData(0xecd5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_filter_fill = IconData(0xec92,
+  static const IconData mgc_file_upload_fill = IconData(0xecd6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_filter_line = IconData(0xec93,
+  static const IconData mgc_file_upload_line = IconData(0xecd7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_press_fill = IconData(0xec94,
+  static const IconData mgc_file_warning_fill = IconData(0xecd8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_press_line = IconData(0xec95,
+  static const IconData mgc_file_warning_line = IconData(0xecd9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_rock_fill = IconData(0xec96,
+  static const IconData mgc_file_zip_fill = IconData(0xecda,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_rock_line = IconData(0xec97,
+  static const IconData mgc_file_zip_line = IconData(0xecdb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_swipe_fill = IconData(0xec98,
+  static const IconData mgc_film_fill = IconData(0xecdc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_swipe_line = IconData(0xec99,
+  static const IconData mgc_film_line = IconData(0xecdd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_tap_fill = IconData(0xec9a,
+  static const IconData mgc_filter_2_fill = IconData(0xecde,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_finger_tap_line = IconData(0xec9b,
+  static const IconData mgc_filter_2_line = IconData(0xecdf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fingerprint_fill = IconData(0xec9c,
+  static const IconData mgc_filter_3_fill = IconData(0xece0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fingerprint_line = IconData(0xec9d,
+  static const IconData mgc_filter_3_line = IconData(0xece1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fire_fill = IconData(0xec9e,
+  static const IconData mgc_filter_fill = IconData(0xece2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fire_line = IconData(0xec9f,
+  static const IconData mgc_filter_line = IconData(0xece3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_firecracker_fill = IconData(0xeca0,
+  static const IconData mgc_finger_press_fill = IconData(0xece4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_firecracker_line = IconData(0xeca1,
+  static const IconData mgc_finger_press_line = IconData(0xece5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_firefox_fill = IconData(0xeca2,
+  static const IconData mgc_finger_rock_fill = IconData(0xece6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_firefox_line = IconData(0xeca3,
+  static const IconData mgc_finger_rock_line = IconData(0xece7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_firework_fill = IconData(0xeca4,
+  static const IconData mgc_finger_swipe_fill = IconData(0xece8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_firework_line = IconData(0xeca5,
+  static const IconData mgc_finger_swipe_line = IconData(0xece9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fish_fill = IconData(0xeca6,
+  static const IconData mgc_finger_tap_fill = IconData(0xecea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fish_line = IconData(0xeca7,
+  static const IconData mgc_finger_tap_line = IconData(0xeceb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fitness_fill = IconData(0xeca8,
+  static const IconData mgc_fingerprint_fill = IconData(0xecec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fitness_line = IconData(0xeca9,
+  static const IconData mgc_fingerprint_line = IconData(0xeced,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_1_fill = IconData(0xecaa,
+  static const IconData mgc_fire_fill = IconData(0xecee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_1_line = IconData(0xecab,
+  static const IconData mgc_fire_line = IconData(0xecef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_2_fill = IconData(0xecac,
+  static const IconData mgc_firecracker_fill = IconData(0xecf0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_2_line = IconData(0xecad,
+  static const IconData mgc_firecracker_line = IconData(0xecf1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_3_fill = IconData(0xecae,
+  static const IconData mgc_firefox_fill = IconData(0xecf2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_3_line = IconData(0xecaf,
+  static const IconData mgc_firefox_line = IconData(0xecf3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_4_fill = IconData(0xecb0,
+  static const IconData mgc_firework_fill = IconData(0xecf4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flag_4_line = IconData(0xecb1,
+  static const IconData mgc_firework_line = IconData(0xecf5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flame_fill = IconData(0xecb2,
+  static const IconData mgc_fish_fill = IconData(0xecf6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flame_line = IconData(0xecb3,
+  static const IconData mgc_fish_line = IconData(0xecf7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flash_fill = IconData(0xecb4,
+  static const IconData mgc_fitness_fill = IconData(0xecf8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flash_line = IconData(0xecb5,
+  static const IconData mgc_fitness_line = IconData(0xecf9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flashlight_fill = IconData(0xecb6,
+  static const IconData mgc_flag_1_fill = IconData(0xecfa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flashlight_line = IconData(0xecb7,
+  static const IconData mgc_flag_1_line = IconData(0xecfb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flask_2_fill = IconData(0xecb8,
+  static const IconData mgc_flag_2_fill = IconData(0xecfc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flask_2_line = IconData(0xecb9,
+  static const IconData mgc_flag_2_line = IconData(0xecfd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flask_fill = IconData(0xecba,
+  static const IconData mgc_flag_3_fill = IconData(0xecfe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flask_line = IconData(0xecbb,
+  static const IconData mgc_flag_3_line = IconData(0xecff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flight_inflight_fill = IconData(0xecbc,
+  static const IconData mgc_flag_4_fill = IconData(0xed00,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flight_inflight_line = IconData(0xecbd,
+  static const IconData mgc_flag_4_line = IconData(0xed01,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flight_land_fill = IconData(0xecbe,
+  static const IconData mgc_flame_fill = IconData(0xed02,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flight_land_line = IconData(0xecbf,
+  static const IconData mgc_flame_line = IconData(0xed03,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flight_takeoff_fill = IconData(0xecc0,
+  static const IconData mgc_flash_fill = IconData(0xed04,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flight_takeoff_line = IconData(0xecc1,
+  static const IconData mgc_flash_line = IconData(0xed05,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flip_horizontal_fill = IconData(0xecc2,
+  static const IconData mgc_flashlight_fill = IconData(0xed06,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flip_horizontal_line = IconData(0xecc3,
+  static const IconData mgc_flashlight_line = IconData(0xed07,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flip_vertical_fill = IconData(0xecc4,
+  static const IconData mgc_flask_2_fill = IconData(0xed08,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flip_vertical_line = IconData(0xecc5,
+  static const IconData mgc_flask_2_line = IconData(0xed09,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_floating_dust_fill = IconData(0xecc6,
+  static const IconData mgc_flask_fill = IconData(0xed0a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_floating_dust_line = IconData(0xecc7,
+  static const IconData mgc_flask_line = IconData(0xed0b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_2_fill = IconData(0xecc8,
+  static const IconData mgc_flight_inflight_fill = IconData(0xed0c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_2_line = IconData(0xecc9,
+  static const IconData mgc_flight_inflight_line = IconData(0xed0d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_3_fill = IconData(0xecca,
+  static const IconData mgc_flight_land_fill = IconData(0xed0e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_3_line = IconData(0xeccb,
+  static const IconData mgc_flight_land_line = IconData(0xed0f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_4_fill = IconData(0xeccc,
+  static const IconData mgc_flight_takeoff_fill = IconData(0xed10,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_4_line = IconData(0xeccd,
+  static const IconData mgc_flight_takeoff_line = IconData(0xed11,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_fill = IconData(0xecce,
+  static const IconData mgc_flip_horizontal_fill = IconData(0xed12,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flower_line = IconData(0xeccf,
+  static const IconData mgc_flip_horizontal_line = IconData(0xed13,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flowerpot_fill = IconData(0xecd0,
+  static const IconData mgc_flip_vertical_fill = IconData(0xed14,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_flowerpot_line = IconData(0xecd1,
+  static const IconData mgc_flip_vertical_line = IconData(0xed15,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fog_fill = IconData(0xecd2,
+  static const IconData mgc_floating_dust_fill = IconData(0xed16,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fog_line = IconData(0xecd3,
+  static const IconData mgc_floating_dust_line = IconData(0xed17,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_2_fill = IconData(0xecd4,
+  static const IconData mgc_flower_2_fill = IconData(0xed18,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_2_line = IconData(0xecd5,
+  static const IconData mgc_flower_2_line = IconData(0xed19,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_3_fill = IconData(0xecd6,
+  static const IconData mgc_flower_3_fill = IconData(0xed1a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_3_line = IconData(0xecd7,
+  static const IconData mgc_flower_3_line = IconData(0xed1b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_check_fill = IconData(0xecd8,
+  static const IconData mgc_flower_4_fill = IconData(0xed1c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_check_line = IconData(0xecd9,
+  static const IconData mgc_flower_4_line = IconData(0xed1d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_delete_fill = IconData(0xecda,
+  static const IconData mgc_flower_fill = IconData(0xed1e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_delete_line = IconData(0xecdb,
+  static const IconData mgc_flower_line = IconData(0xed1f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_download_fill = IconData(0xecdc,
+  static const IconData mgc_flowerpot_fill = IconData(0xed20,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_download_line = IconData(0xecdd,
+  static const IconData mgc_flowerpot_line = IconData(0xed21,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_fill = IconData(0xecde,
+  static const IconData mgc_fog_fill = IconData(0xed22,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_forbid_fill = IconData(0xecdf,
+  static const IconData mgc_fog_line = IconData(0xed23,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_forbid_line = IconData(0xece0,
+  static const IconData mgc_fold_horizontal_fill = IconData(0xed24,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_info_fill = IconData(0xece1,
+  static const IconData mgc_fold_horizontal_line = IconData(0xed25,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_info_line = IconData(0xece2,
+  static const IconData mgc_fold_vertical_fill = IconData(0xed26,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_line = IconData(0xece3,
+  static const IconData mgc_fold_vertical_line = IconData(0xed27,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_locked_2_fill = IconData(0xece4,
+  static const IconData mgc_folder_2_fill = IconData(0xed28,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_locked_2_line = IconData(0xece5,
+  static const IconData mgc_folder_2_line = IconData(0xed29,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_locked_fill = IconData(0xece6,
+  static const IconData mgc_folder_3_fill = IconData(0xed2a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_locked_line = IconData(0xece7,
+  static const IconData mgc_folder_3_line = IconData(0xed2b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_minus_fill = IconData(0xece8,
+  static const IconData mgc_folder_check_fill = IconData(0xed2c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_minus_line = IconData(0xece9,
+  static const IconData mgc_folder_check_line = IconData(0xed2d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_more_fill = IconData(0xecea,
+  static const IconData mgc_folder_delete_fill = IconData(0xed2e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_more_line = IconData(0xeceb,
+  static const IconData mgc_folder_delete_line = IconData(0xed2f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_open_2_fill = IconData(0xecec,
+  static const IconData mgc_folder_download_fill = IconData(0xed30,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_open_2_line = IconData(0xeced,
+  static const IconData mgc_folder_download_line = IconData(0xed31,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_open_fill = IconData(0xecee,
+  static const IconData mgc_folder_fill = IconData(0xed32,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_open_line = IconData(0xecef,
+  static const IconData mgc_folder_forbid_fill = IconData(0xed33,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_security_fill = IconData(0xecf0,
+  static const IconData mgc_folder_forbid_line = IconData(0xed34,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_security_line = IconData(0xecf1,
+  static const IconData mgc_folder_info_fill = IconData(0xed35,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_star_fill = IconData(0xecf2,
+  static const IconData mgc_folder_info_line = IconData(0xed36,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_star_line = IconData(0xecf3,
+  static const IconData mgc_folder_line = IconData(0xed37,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_upload_fill = IconData(0xecf4,
+  static const IconData mgc_folder_locked_2_fill = IconData(0xed38,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_upload_line = IconData(0xecf5,
+  static const IconData mgc_folder_locked_2_line = IconData(0xed39,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_warning_fill = IconData(0xecf6,
+  static const IconData mgc_folder_locked_fill = IconData(0xed3a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folder_warning_line = IconData(0xecf7,
+  static const IconData mgc_folder_locked_line = IconData(0xed3b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folders_fill = IconData(0xecf8,
+  static const IconData mgc_folder_minus_fill = IconData(0xed3c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folders_line = IconData(0xecf9,
+  static const IconData mgc_folder_minus_line = IconData(0xed3d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folding_fan_fill = IconData(0xecfa,
+  static const IconData mgc_folder_more_fill = IconData(0xed3e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_folding_fan_line = IconData(0xecfb,
+  static const IconData mgc_folder_more_line = IconData(0xed3f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_font_fill = IconData(0xecfc,
+  static const IconData mgc_folder_open_2_fill = IconData(0xed40,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_font_line = IconData(0xecfd,
+  static const IconData mgc_folder_open_2_line = IconData(0xed41,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_font_size_fill = IconData(0xecfe,
+  static const IconData mgc_folder_open_fill = IconData(0xed42,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_font_size_line = IconData(0xecff,
+  static const IconData mgc_folder_open_line = IconData(0xed43,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_foot_fill = IconData(0xed00,
+  static const IconData mgc_folder_security_fill = IconData(0xed44,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_foot_line = IconData(0xed01,
+  static const IconData mgc_folder_security_line = IconData(0xed45,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_football_fill = IconData(0xed02,
+  static const IconData mgc_folder_star_fill = IconData(0xed46,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_football_line = IconData(0xed03,
+  static const IconData mgc_folder_star_line = IconData(0xed47,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_forbid_circle_fill = IconData(0xed04,
+  static const IconData mgc_folder_upload_fill = IconData(0xed48,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_forbid_circle_line = IconData(0xed05,
+  static const IconData mgc_folder_upload_line = IconData(0xed49,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fork_fill = IconData(0xed06,
+  static const IconData mgc_folder_warning_fill = IconData(0xed4a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fork_knife_fill = IconData(0xed07,
+  static const IconData mgc_folder_warning_line = IconData(0xed4b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fork_knife_line = IconData(0xed08,
+  static const IconData mgc_folders_fill = IconData(0xed4c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fork_line = IconData(0xed09,
+  static const IconData mgc_folders_line = IconData(0xed4d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fork_spoon_fill = IconData(0xed0a,
+  static const IconData mgc_folding_fan_fill = IconData(0xed4e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fork_spoon_line = IconData(0xed0b,
+  static const IconData mgc_folding_fan_line = IconData(0xed4f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_formula_fill = IconData(0xed0c,
+  static const IconData mgc_font_fill = IconData(0xed50,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_formula_line = IconData(0xed0d,
+  static const IconData mgc_font_line = IconData(0xed51,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_forward_2_fill = IconData(0xed0e,
+  static const IconData mgc_font_size_fill = IconData(0xed52,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_forward_2_line = IconData(0xed0f,
+  static const IconData mgc_font_size_line = IconData(0xed53,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_forward_fill = IconData(0xed10,
+  static const IconData mgc_foot_fill = IconData(0xed54,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_forward_line = IconData(0xed11,
+  static const IconData mgc_foot_line = IconData(0xed55,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_four_wheel_drive_fill = IconData(0xed12,
+  static const IconData mgc_football_fill = IconData(0xed56,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_four_wheel_drive_line = IconData(0xed13,
+  static const IconData mgc_football_line = IconData(0xed57,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_frame_fill = IconData(0xed14,
+  static const IconData mgc_forbid_circle_fill = IconData(0xed58,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_frame_line = IconData(0xed15,
+  static const IconData mgc_forbid_circle_line = IconData(0xed59,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fridge_fill = IconData(0xed16,
+  static const IconData mgc_fork_fill = IconData(0xed5a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fridge_line = IconData(0xed17,
+  static const IconData mgc_fork_knife_fill = IconData(0xed5b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_front_fog_lights_fill = IconData(0xed18,
+  static const IconData mgc_fork_knife_line = IconData(0xed5c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_front_fog_lights_line = IconData(0xed19,
+  static const IconData mgc_fork_line = IconData(0xed5d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_front_windshield_defroster_fill = IconData(0xed1a,
+  static const IconData mgc_fork_spoon_fill = IconData(0xed5e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_front_windshield_defroster_line = IconData(0xed1b,
+  static const IconData mgc_fork_spoon_line = IconData(0xed5f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_2_fill = IconData(0xed1c,
+  static const IconData mgc_formula_fill = IconData(0xed60,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_2_line = IconData(0xed1d,
+  static const IconData mgc_formula_line = IconData(0xed61,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_exit_2_fill = IconData(0xed1e,
+  static const IconData mgc_forward_2_fill = IconData(0xed62,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_exit_2_line = IconData(0xed1f,
+  static const IconData mgc_forward_2_line = IconData(0xed63,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_exit_fill = IconData(0xed20,
+  static const IconData mgc_forward_fill = IconData(0xed64,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_exit_line = IconData(0xed21,
+  static const IconData mgc_forward_line = IconData(0xed65,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_fill = IconData(0xed22,
+  static const IconData mgc_four_wheel_drive_fill = IconData(0xed66,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_fullscreen_line = IconData(0xed23,
+  static const IconData mgc_four_wheel_drive_line = IconData(0xed67,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_game_1_fill = IconData(0xed24,
+  static const IconData mgc_frame_fill = IconData(0xed68,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_game_1_line = IconData(0xed25,
+  static const IconData mgc_frame_line = IconData(0xed69,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_game_2_fill = IconData(0xed26,
+  static const IconData mgc_fridge_fill = IconData(0xed6a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_game_2_line = IconData(0xed27,
+  static const IconData mgc_fridge_line = IconData(0xed6b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gas_station_fill = IconData(0xed28,
+  static const IconData mgc_front_fog_lights_fill = IconData(0xed6c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gas_station_line = IconData(0xed29,
+  static const IconData mgc_front_fog_lights_line = IconData(0xed6d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gesture_unlock_fill = IconData(0xed2a,
+  static const IconData mgc_front_windshield_defroster_fill = IconData(0xed6e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gesture_unlock_line = IconData(0xed2b,
+  static const IconData mgc_front_windshield_defroster_line = IconData(0xed6f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ghost_fill = IconData(0xed2c,
+  static const IconData mgc_full_moon_fill = IconData(0xed70,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ghost_line = IconData(0xed2d,
+  static const IconData mgc_full_moon_line = IconData(0xed71,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gift_2_fill = IconData(0xed2e,
+  static const IconData mgc_fullscreen_2_fill = IconData(0xed72,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gift_2_line = IconData(0xed2f,
+  static const IconData mgc_fullscreen_2_line = IconData(0xed73,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gift_card_fill = IconData(0xed30,
+  static const IconData mgc_fullscreen_exit_2_fill = IconData(0xed74,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gift_card_line = IconData(0xed31,
+  static const IconData mgc_fullscreen_exit_2_line = IconData(0xed75,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gift_fill = IconData(0xed32,
+  static const IconData mgc_fullscreen_exit_fill = IconData(0xed76,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gift_line = IconData(0xed33,
+  static const IconData mgc_fullscreen_exit_line = IconData(0xed77,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_branch_fill = IconData(0xed34,
+  static const IconData mgc_fullscreen_fill = IconData(0xed78,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_branch_line = IconData(0xed35,
+  static const IconData mgc_fullscreen_line = IconData(0xed79,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_commit_fill = IconData(0xed36,
+  static const IconData mgc_game_1_fill = IconData(0xed7a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_commit_line = IconData(0xed37,
+  static const IconData mgc_game_1_line = IconData(0xed7b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_compare_fill = IconData(0xed38,
+  static const IconData mgc_game_2_fill = IconData(0xed7c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_compare_line = IconData(0xed39,
+  static const IconData mgc_game_2_line = IconData(0xed7d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_lab_fill = IconData(0xed3a,
+  static const IconData mgc_gas_station_fill = IconData(0xed7e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_lab_line = IconData(0xed3b,
+  static const IconData mgc_gas_station_line = IconData(0xed7f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_merge_fill = IconData(0xed3c,
+  static const IconData mgc_gesture_unlock_fill = IconData(0xed80,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_merge_line = IconData(0xed3d,
+  static const IconData mgc_gesture_unlock_line = IconData(0xed81,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_pull_request_close_fill = IconData(0xed3e,
+  static const IconData mgc_ghost_fill = IconData(0xed82,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_pull_request_close_line = IconData(0xed3f,
+  static const IconData mgc_ghost_line = IconData(0xed83,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_pull_request_fill = IconData(0xed40,
+  static const IconData mgc_gift_2_fill = IconData(0xed84,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_git_pull_request_line = IconData(0xed41,
+  static const IconData mgc_gift_2_line = IconData(0xed85,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_github_fill = IconData(0xed42,
+  static const IconData mgc_gift_card_fill = IconData(0xed86,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_github_line = IconData(0xed43,
+  static const IconData mgc_gift_card_line = IconData(0xed87,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_glass_cup_fill = IconData(0xed44,
+  static const IconData mgc_gift_fill = IconData(0xed88,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_glass_cup_line = IconData(0xed45,
+  static const IconData mgc_gift_line = IconData(0xed89,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_globe_fill = IconData(0xed46,
+  static const IconData mgc_git_branch_fill = IconData(0xed8a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_globe_line = IconData(0xed47,
+  static const IconData mgc_git_branch_line = IconData(0xed8b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_glove_fill = IconData(0xed48,
+  static const IconData mgc_git_commit_fill = IconData(0xed8c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_glove_line = IconData(0xed49,
+  static const IconData mgc_git_commit_line = IconData(0xed8d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_google_fill = IconData(0xed4a,
+  static const IconData mgc_git_compare_fill = IconData(0xed8e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_google_line = IconData(0xed4b,
+  static const IconData mgc_git_compare_line = IconData(0xed8f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_google_play_fill = IconData(0xed4c,
+  static const IconData mgc_git_lab_fill = IconData(0xed90,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_google_play_line = IconData(0xed4d,
+  static const IconData mgc_git_lab_line = IconData(0xed91,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_government_fill = IconData(0xed4e,
+  static const IconData mgc_git_merge_fill = IconData(0xed92,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_government_line = IconData(0xed4f,
+  static const IconData mgc_git_merge_line = IconData(0xed93,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gradienter_fill = IconData(0xed50,
+  static const IconData mgc_git_pull_request_close_fill = IconData(0xed94,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_gradienter_line = IconData(0xed51,
+  static const IconData mgc_git_pull_request_close_line = IconData(0xed95,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_grass_fill = IconData(0xed52,
+  static const IconData mgc_git_pull_request_fill = IconData(0xed96,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_grass_line = IconData(0xed53,
+  static const IconData mgc_git_pull_request_line = IconData(0xed97,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_greatwall_fill = IconData(0xed54,
+  static const IconData mgc_github_fill = IconData(0xed98,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_greatwall_line = IconData(0xed55,
+  static const IconData mgc_github_line = IconData(0xed99,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_grid_2_fill = IconData(0xed56,
+  static const IconData mgc_glass_cup_fill = IconData(0xed9a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_grid_2_line = IconData(0xed57,
+  static const IconData mgc_glass_cup_line = IconData(0xed9b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_grid_fill = IconData(0xed58,
+  static const IconData mgc_globe_fill = IconData(0xed9c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_grid_line = IconData(0xed59,
+  static const IconData mgc_globe_line = IconData(0xed9d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_group_fill = IconData(0xed5a,
+  static const IconData mgc_glove_fill = IconData(0xed9e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_group_line = IconData(0xed5b,
+  static const IconData mgc_glove_line = IconData(0xed9f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hail_fill = IconData(0xed5c,
+  static const IconData mgc_google_fill = IconData(0xeda0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hail_line = IconData(0xed5d,
+  static const IconData mgc_google_line = IconData(0xeda1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hair_2_fill = IconData(0xed5e,
+  static const IconData mgc_google_play_fill = IconData(0xeda2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hair_2_line = IconData(0xed5f,
+  static const IconData mgc_google_play_line = IconData(0xeda3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hair_fill = IconData(0xed60,
+  static const IconData mgc_government_fill = IconData(0xeda4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hair_line = IconData(0xed61,
+  static const IconData mgc_government_line = IconData(0xeda5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hammer_fill = IconData(0xed62,
+  static const IconData mgc_gradienter_fill = IconData(0xeda6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hammer_line = IconData(0xed63,
+  static const IconData mgc_gradienter_line = IconData(0xeda7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_card_fill = IconData(0xed64,
+  static const IconData mgc_grass_fill = IconData(0xeda8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_card_line = IconData(0xed65,
+  static const IconData mgc_grass_line = IconData(0xeda9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_fill = IconData(0xed66,
+  static const IconData mgc_greatwall_fill = IconData(0xedaa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_finger_2_fill = IconData(0xed67,
+  static const IconData mgc_greatwall_line = IconData(0xedab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_finger_2_line = IconData(0xed68,
+  static const IconData mgc_grid_2_fill = IconData(0xedac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_finger_fill = IconData(0xed69,
+  static const IconData mgc_grid_2_line = IconData(0xedad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_finger_line = IconData(0xed6a,
+  static const IconData mgc_grid_fill = IconData(0xedae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_grab_fill = IconData(0xed6b,
+  static const IconData mgc_grid_line = IconData(0xedaf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_grab_line = IconData(0xed6c,
+  static const IconData mgc_group_fill = IconData(0xedb0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_heart_fill = IconData(0xed6d,
+  static const IconData mgc_group_line = IconData(0xedb1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_heart_line = IconData(0xed6e,
+  static const IconData mgc_guitar_fill = IconData(0xedb2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_line = IconData(0xed6f,
+  static const IconData mgc_guitar_line = IconData(0xedb3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_two_fingers_fill = IconData(0xed70,
+  static const IconData mgc_hail_fill = IconData(0xedb4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hand_two_fingers_line = IconData(0xed71,
+  static const IconData mgc_hail_line = IconData(0xedb5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hands_clapping_fill = IconData(0xed72,
+  static const IconData mgc_hair_2_fill = IconData(0xedb6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hands_clapping_line = IconData(0xed73,
+  static const IconData mgc_hair_2_line = IconData(0xedb7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_happy_fill = IconData(0xed74,
+  static const IconData mgc_hair_fill = IconData(0xedb8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_happy_line = IconData(0xed75,
+  static const IconData mgc_hair_line = IconData(0xedb9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hashtag_fill = IconData(0xed76,
+  static const IconData mgc_hammer_fill = IconData(0xedba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hashtag_line = IconData(0xed77,
+  static const IconData mgc_hammer_line = IconData(0xedbb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hat_2_fill = IconData(0xed78,
+  static const IconData mgc_hand_card_fill = IconData(0xedbc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hat_2_line = IconData(0xed79,
+  static const IconData mgc_hand_card_line = IconData(0xedbd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hat_fill = IconData(0xed7a,
+  static const IconData mgc_hand_fill = IconData(0xedbe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hat_line = IconData(0xed7b,
+  static const IconData mgc_hand_finger_2_fill = IconData(0xedbf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_haze_fill = IconData(0xed7c,
+  static const IconData mgc_hand_finger_2_line = IconData(0xedc0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_haze_line = IconData(0xed7d,
+  static const IconData mgc_hand_finger_fill = IconData(0xedc1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_head_fill = IconData(0xed7e,
+  static const IconData mgc_hand_finger_line = IconData(0xedc2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_head_line = IconData(0xed7f,
+  static const IconData mgc_hand_grab_fill = IconData(0xedc3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_Heading_1_fill = IconData(0xed80,
+  static const IconData mgc_hand_grab_line = IconData(0xedc4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_Heading_1_line = IconData(0xed81,
+  static const IconData mgc_hand_heart_fill = IconData(0xedc5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_Heading_2_fill = IconData(0xed82,
+  static const IconData mgc_hand_heart_line = IconData(0xedc6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_Heading_2_line = IconData(0xed83,
+  static const IconData mgc_hand_line = IconData(0xedc7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_Heading_3_fill = IconData(0xed84,
+  static const IconData mgc_hand_two_fingers_fill = IconData(0xedc8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_Heading_3_line = IconData(0xed85,
+  static const IconData mgc_hand_two_fingers_line = IconData(0xedc9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_headphone_2_fill = IconData(0xed86,
+  static const IconData mgc_hands_clapping_fill = IconData(0xedca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_headphone_2_line = IconData(0xed87,
+  static const IconData mgc_hands_clapping_line = IconData(0xedcb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_headphone_fill = IconData(0xed88,
+  static const IconData mgc_happy_fill = IconData(0xedcc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_headphone_line = IconData(0xed89,
+  static const IconData mgc_happy_line = IconData(0xedcd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heart_crack_fill = IconData(0xed8a,
+  static const IconData mgc_hashtag_fill = IconData(0xedce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heart_crack_line = IconData(0xed8b,
+  static const IconData mgc_hashtag_line = IconData(0xedcf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heart_fill = IconData(0xed8c,
+  static const IconData mgc_hat_2_fill = IconData(0xedd0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heart_half_fill = IconData(0xed8d,
+  static const IconData mgc_hat_2_line = IconData(0xedd1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heart_half_line = IconData(0xed8e,
+  static const IconData mgc_hat_fill = IconData(0xedd2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heart_line = IconData(0xed8f,
+  static const IconData mgc_hat_line = IconData(0xedd3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heartbeat_fill = IconData(0xed90,
+  static const IconData mgc_haze_fill = IconData(0xedd4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heartbeat_line = IconData(0xed91,
+  static const IconData mgc_haze_line = IconData(0xedd5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heavy_rain_fill = IconData(0xed92,
+  static const IconData mgc_head_fill = IconData(0xedd6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heavy_rain_line = IconData(0xed93,
+  static const IconData mgc_head_line = IconData(0xedd7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heavy_snow_fill = IconData(0xed94,
+  static const IconData mgc_Heading_1_fill = IconData(0xedd8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_heavy_snow_line = IconData(0xed95,
+  static const IconData mgc_Heading_1_line = IconData(0xedd9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hexagon_fill = IconData(0xed96,
+  static const IconData mgc_Heading_2_fill = IconData(0xedda,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hexagon_line = IconData(0xed97,
+  static const IconData mgc_Heading_2_line = IconData(0xeddb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hight_beam_headlights_fill = IconData(0xed98,
+  static const IconData mgc_Heading_3_fill = IconData(0xeddc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hight_beam_headlights_line = IconData(0xed99,
+  static const IconData mgc_Heading_3_line = IconData(0xeddd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_history_2_fill = IconData(0xed9a,
+  static const IconData mgc_headphone_2_fill = IconData(0xedde,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_history_2_line = IconData(0xed9b,
+  static const IconData mgc_headphone_2_line = IconData(0xeddf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_history_fill = IconData(0xed9c,
+  static const IconData mgc_headphone_fill = IconData(0xede0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_history_line = IconData(0xed9d,
+  static const IconData mgc_headphone_line = IconData(0xede1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hoe_fill = IconData(0xed9e,
+  static const IconData mgc_heart_crack_fill = IconData(0xede2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hoe_line = IconData(0xed9f,
+  static const IconData mgc_heart_crack_line = IconData(0xede3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_1_fill = IconData(0xeda0,
+  static const IconData mgc_heart_fill = IconData(0xede4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_1_line = IconData(0xeda1,
+  static const IconData mgc_heart_half_fill = IconData(0xede5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_2_fill = IconData(0xeda2,
+  static const IconData mgc_heart_half_line = IconData(0xede6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_2_line = IconData(0xeda3,
+  static const IconData mgc_heart_line = IconData(0xede7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_3_fill = IconData(0xeda4,
+  static const IconData mgc_heartbeat_2_fill = IconData(0xede8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_3_line = IconData(0xeda5,
+  static const IconData mgc_heartbeat_2_line = IconData(0xede9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_4_fill = IconData(0xeda6,
+  static const IconData mgc_heartbeat_fill = IconData(0xedea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_4_line = IconData(0xeda7,
+  static const IconData mgc_heartbeat_line = IconData(0xedeb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_5_fill = IconData(0xeda8,
+  static const IconData mgc_heavy_rain_fill = IconData(0xedec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_5_line = IconData(0xeda9,
+  static const IconData mgc_heavy_rain_line = IconData(0xeded,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_6_fill = IconData(0xedaa,
+  static const IconData mgc_heavy_rainstorm_fill = IconData(0xedee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_6_line = IconData(0xedab,
+  static const IconData mgc_heavy_rainstorm_line = IconData(0xedef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_wifi_fill = IconData(0xedac,
+  static const IconData mgc_heavy_snow_fill = IconData(0xedf0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_home_wifi_line = IconData(0xedad,
+  static const IconData mgc_heavy_snow_line = IconData(0xedf1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hood_fill = IconData(0xedae,
+  static const IconData mgc_heavy_snowstorm_fill = IconData(0xedf2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hood_line = IconData(0xedaf,
+  static const IconData mgc_heavy_snowstorm_line = IconData(0xedf3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_horn_fill = IconData(0xedb0,
+  static const IconData mgc_hexagon_fill = IconData(0xedf4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_horn_line = IconData(0xedb1,
+  static const IconData mgc_hexagon_line = IconData(0xedf5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hospital_fill = IconData(0xedb2,
+  static const IconData mgc_high_temperature_fill = IconData(0xedf6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hospital_line = IconData(0xedb3,
+  static const IconData mgc_high_temperature_line = IconData(0xedf7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hotkey_fill = IconData(0xedb4,
+  static const IconData mgc_high_voltage_power_fill = IconData(0xedf8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hotkey_line = IconData(0xedb5,
+  static const IconData mgc_high_voltage_power_line = IconData(0xedf9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hours_fill = IconData(0xedb6,
+  static const IconData mgc_hight_beam_headlights_fill = IconData(0xedfa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_hours_line = IconData(0xedb7,
+  static const IconData mgc_hight_beam_headlights_line = IconData(0xedfb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ice_cream_2_fill = IconData(0xedb8,
+  static const IconData mgc_history_2_fill = IconData(0xedfc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ice_cream_2_line = IconData(0xedb9,
+  static const IconData mgc_history_2_line = IconData(0xedfd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ice_cream_fill = IconData(0xedba,
+  static const IconData mgc_history_anticlockwise_fill = IconData(0xedfe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ice_cream_line = IconData(0xedbb,
+  static const IconData mgc_history_anticlockwise_line = IconData(0xedff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_IDcard_fill = IconData(0xedbc,
+  static const IconData mgc_history_fill = IconData(0xee00,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_IDcard_line = IconData(0xedbd,
+  static const IconData mgc_history_line = IconData(0xee01,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_iMac_fill = IconData(0xedbe,
+  static const IconData mgc_hoe_fill = IconData(0xee02,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_iMac_line = IconData(0xedbf,
+  static const IconData mgc_hoe_line = IconData(0xee03,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inbox_2_fill = IconData(0xedc0,
+  static const IconData mgc_home_1_fill = IconData(0xee04,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inbox_2_line = IconData(0xedc1,
+  static const IconData mgc_home_1_line = IconData(0xee05,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inbox_fill = IconData(0xedc2,
+  static const IconData mgc_home_2_fill = IconData(0xee06,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inbox_line = IconData(0xedc3,
+  static const IconData mgc_home_2_line = IconData(0xee07,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_incognito_mode_fill = IconData(0xedc4,
+  static const IconData mgc_home_3_fill = IconData(0xee08,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_incognito_mode_line = IconData(0xedc5,
+  static const IconData mgc_home_3_line = IconData(0xee09,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_indent_decrease_fill = IconData(0xedc6,
+  static const IconData mgc_home_4_fill = IconData(0xee0a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_indent_decrease_line = IconData(0xedc7,
+  static const IconData mgc_home_4_line = IconData(0xee0b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_indent_increase_fill = IconData(0xedc8,
+  static const IconData mgc_home_5_fill = IconData(0xee0c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_indent_increase_line = IconData(0xedc9,
+  static const IconData mgc_home_5_line = IconData(0xee0d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_information_fill = IconData(0xedca,
+  static const IconData mgc_home_6_fill = IconData(0xee0e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_information_line = IconData(0xedcb,
+  static const IconData mgc_home_6_line = IconData(0xee0f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ins_fill = IconData(0xedcc,
+  static const IconData mgc_home_wifi_fill = IconData(0xee10,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ins_line = IconData(0xedcd,
+  static const IconData mgc_home_wifi_line = IconData(0xee11,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inspect_fill = IconData(0xedce,
+  static const IconData mgc_homepod_fill = IconData(0xee12,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inspect_line = IconData(0xedcf,
+  static const IconData mgc_homepod_line = IconData(0xee13,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inventory_fill = IconData(0xedd0,
+  static const IconData mgc_homepod_mini_fill = IconData(0xee14,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_inventory_line = IconData(0xedd1,
+  static const IconData mgc_homepod_mini_line = IconData(0xee15,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_invite_fill = IconData(0xedd2,
+  static const IconData mgc_hood_fill = IconData(0xee16,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_invite_line = IconData(0xedd3,
+  static const IconData mgc_hood_line = IconData(0xee17,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_italic_fill = IconData(0xedd4,
+  static const IconData mgc_horn_2_fill = IconData(0xee18,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_italic_line = IconData(0xedd5,
+  static const IconData mgc_horn_2_line = IconData(0xee19,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_jeep_fill = IconData(0xedd6,
+  static const IconData mgc_horn_fill = IconData(0xee1a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_jeep_line = IconData(0xedd7,
+  static const IconData mgc_horn_line = IconData(0xee1b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_kakao_talk_fill = IconData(0xedd8,
+  static const IconData mgc_hospital_fill = IconData(0xee1c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_kakao_talk_line = IconData(0xedd9,
+  static const IconData mgc_hospital_line = IconData(0xee1d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_key_1_fill = IconData(0xedda,
+  static const IconData mgc_hotkey_fill = IconData(0xee1e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_key_1_line = IconData(0xeddb,
+  static const IconData mgc_hotkey_line = IconData(0xee1f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_key_2_fill = IconData(0xeddc,
+  static const IconData mgc_hours_fill = IconData(0xee20,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_key_2_line = IconData(0xeddd,
+  static const IconData mgc_hours_line = IconData(0xee21,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_keyboard_2_fill = IconData(0xedde,
+  static const IconData mgc_ice_cream_2_fill = IconData(0xee22,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_keyboard_2_line = IconData(0xeddf,
+  static const IconData mgc_ice_cream_2_line = IconData(0xee23,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_keyboard_fill = IconData(0xede0,
+  static const IconData mgc_ice_cream_fill = IconData(0xee24,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_keyboard_line = IconData(0xede1,
+  static const IconData mgc_ice_cream_line = IconData(0xee25,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_keyhole_fill = IconData(0xede2,
+  static const IconData mgc_IDcard_fill = IconData(0xee26,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_keyhole_line = IconData(0xede3,
+  static const IconData mgc_IDcard_line = IconData(0xee27,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_kingkey_100_tower_fill = IconData(0xede4,
+  static const IconData mgc_iMac_fill = IconData(0xee28,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_kingkey_100_tower_line = IconData(0xede5,
+  static const IconData mgc_iMac_line = IconData(0xee29,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_knife_fill = IconData(0xede6,
+  static const IconData mgc_inbox_2_fill = IconData(0xee2a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_knife_line = IconData(0xede7,
+  static const IconData mgc_inbox_2_line = IconData(0xee2b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ladder_fill = IconData(0xede8,
+  static const IconData mgc_inbox_fill = IconData(0xee2c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ladder_line = IconData(0xede9,
+  static const IconData mgc_inbox_line = IconData(0xee2d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lantern_2_fill = IconData(0xedea,
+  static const IconData mgc_incognito_mode_fill = IconData(0xee2e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lantern_2_line = IconData(0xedeb,
+  static const IconData mgc_incognito_mode_line = IconData(0xee2f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lantern_fill = IconData(0xedec,
+  static const IconData mgc_indent_decrease_fill = IconData(0xee30,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lantern_line = IconData(0xeded,
+  static const IconData mgc_indent_decrease_line = IconData(0xee31,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_laptop_2_fill = IconData(0xedee,
+  static const IconData mgc_indent_increase_fill = IconData(0xee32,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_laptop_2_line = IconData(0xedef,
+  static const IconData mgc_indent_increase_line = IconData(0xee33,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_laptop_fill = IconData(0xedf0,
+  static const IconData mgc_information_fill = IconData(0xee34,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_laptop_line = IconData(0xedf1,
+  static const IconData mgc_information_line = IconData(0xee35,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_down_fill = IconData(0xedf2,
+  static const IconData mgc_ins_fill = IconData(0xee36,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_down_line = IconData(0xedf3,
+  static const IconData mgc_ins_line = IconData(0xee37,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_left_fill = IconData(0xedf4,
+  static const IconData mgc_inspect_fill = IconData(0xee38,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_left_line = IconData(0xedf5,
+  static const IconData mgc_inspect_line = IconData(0xee39,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_right_fill = IconData(0xedf6,
+  static const IconData mgc_instrument_fill = IconData(0xee3a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_right_line = IconData(0xedf7,
+  static const IconData mgc_instrument_line = IconData(0xee3b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_up_fill = IconData(0xedf8,
+  static const IconData mgc_inventory_fill = IconData(0xee3c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_large_arrow_up_line = IconData(0xedf9,
+  static const IconData mgc_inventory_line = IconData(0xee3d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layer_fill = IconData(0xedfa,
+  static const IconData mgc_invite_fill = IconData(0xee3e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layer_line = IconData(0xedfb,
+  static const IconData mgc_invite_line = IconData(0xee3f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_2_fill = IconData(0xedfc,
+  static const IconData mgc_italic_fill = IconData(0xee40,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_2_line = IconData(0xedfd,
+  static const IconData mgc_italic_line = IconData(0xee41,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_3_fill = IconData(0xedfe,
+  static const IconData mgc_jeep_fill = IconData(0xee42,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_3_line = IconData(0xedff,
+  static const IconData mgc_jeep_line = IconData(0xee43,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_4_fill = IconData(0xee00,
+  static const IconData mgc_kakao_talk_fill = IconData(0xee44,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_4_line = IconData(0xee01,
+  static const IconData mgc_kakao_talk_line = IconData(0xee45,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_5_fill = IconData(0xee02,
+  static const IconData mgc_key_1_fill = IconData(0xee46,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_5_line = IconData(0xee03,
+  static const IconData mgc_key_1_line = IconData(0xee47,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_6_fill = IconData(0xee04,
+  static const IconData mgc_key_2_fill = IconData(0xee48,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_6_line = IconData(0xee05,
+  static const IconData mgc_key_2_line = IconData(0xee49,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_7_fill = IconData(0xee06,
+  static const IconData mgc_keyboard_2_fill = IconData(0xee4a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_7_line = IconData(0xee07,
+  static const IconData mgc_keyboard_2_line = IconData(0xee4b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_8_fill = IconData(0xee08,
+  static const IconData mgc_keyboard_fill = IconData(0xee4c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_8_line = IconData(0xee09,
+  static const IconData mgc_keyboard_line = IconData(0xee4d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_9_fill = IconData(0xee0a,
+  static const IconData mgc_keyhole_fill = IconData(0xee4e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_9_line = IconData(0xee0b,
+  static const IconData mgc_keyhole_line = IconData(0xee4f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_10_fill = IconData(0xee0c,
+  static const IconData mgc_kingkey_100_tower_fill = IconData(0xee50,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_10_line = IconData(0xee0d,
+  static const IconData mgc_kingkey_100_tower_line = IconData(0xee51,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_11_fill = IconData(0xee0e,
+  static const IconData mgc_kite_fill = IconData(0xee52,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_11_line = IconData(0xee0f,
+  static const IconData mgc_kite_line = IconData(0xee53,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_bottom_fill = IconData(0xee10,
+  static const IconData mgc_knife_fill = IconData(0xee54,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_bottom_line = IconData(0xee11,
+  static const IconData mgc_knife_line = IconData(0xee55,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_fill = IconData(0xee12,
+  static const IconData mgc_ladder_fill = IconData(0xee56,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_grid_fill = IconData(0xee13,
+  static const IconData mgc_ladder_line = IconData(0xee57,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_grid_line = IconData(0xee14,
+  static const IconData mgc_lantern_2_fill = IconData(0xee58,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_left_fill = IconData(0xee15,
+  static const IconData mgc_lantern_2_line = IconData(0xee59,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_left_line = IconData(0xee16,
+  static const IconData mgc_lantern_fill = IconData(0xee5a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_line = IconData(0xee17,
+  static const IconData mgc_lantern_line = IconData(0xee5b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_right_fill = IconData(0xee18,
+  static const IconData mgc_laptop_2_fill = IconData(0xee5c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_right_line = IconData(0xee19,
+  static const IconData mgc_laptop_2_line = IconData(0xee5d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_top_fill = IconData(0xee1a,
+  static const IconData mgc_laptop_fill = IconData(0xee5e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_layout_top_line = IconData(0xee1b,
+  static const IconData mgc_laptop_line = IconData(0xee5f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_leaf_2_fill = IconData(0xee1c,
+  static const IconData mgc_large_arrow_down_fill = IconData(0xee60,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_leaf_2_line = IconData(0xee1d,
+  static const IconData mgc_large_arrow_down_line = IconData(0xee61,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_leaf_3_fill = IconData(0xee1e,
+  static const IconData mgc_large_arrow_left_fill = IconData(0xee62,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_leaf_3_line = IconData(0xee1f,
+  static const IconData mgc_large_arrow_left_line = IconData(0xee63,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_leaf_fill = IconData(0xee20,
+  static const IconData mgc_large_arrow_right_fill = IconData(0xee64,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_leaf_line = IconData(0xee21,
+  static const IconData mgc_large_arrow_right_line = IconData(0xee65,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_left_fill = IconData(0xee22,
+  static const IconData mgc_large_arrow_up_fill = IconData(0xee66,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_left_line = IconData(0xee23,
+  static const IconData mgc_large_arrow_up_line = IconData(0xee67,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_left_small_fill = IconData(0xee24,
+  static const IconData mgc_layer_fill = IconData(0xee68,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_left_small_line = IconData(0xee25,
+  static const IconData mgc_layer_line = IconData(0xee69,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_letter_spacing_fill = IconData(0xee26,
+  static const IconData mgc_layout_2_fill = IconData(0xee6a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_letter_spacing_line = IconData(0xee27,
+  static const IconData mgc_layout_2_line = IconData(0xee6b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lifebuoy_fill = IconData(0xee28,
+  static const IconData mgc_layout_3_fill = IconData(0xee6c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lifebuoy_line = IconData(0xee29,
+  static const IconData mgc_layout_3_line = IconData(0xee6d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_light_fill = IconData(0xee2a,
+  static const IconData mgc_layout_4_fill = IconData(0xee6e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_light_line = IconData(0xee2b,
+  static const IconData mgc_layout_4_line = IconData(0xee6f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_light_snow_fill = IconData(0xee2c,
+  static const IconData mgc_layout_5_fill = IconData(0xee70,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_light_snow_line = IconData(0xee2d,
+  static const IconData mgc_layout_5_line = IconData(0xee71,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lighthouse_fill = IconData(0xee2e,
+  static const IconData mgc_layout_6_fill = IconData(0xee72,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lighthouse_line = IconData(0xee2f,
+  static const IconData mgc_layout_6_line = IconData(0xee73,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lightning_fill = IconData(0xee30,
+  static const IconData mgc_layout_7_fill = IconData(0xee74,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lightning_line = IconData(0xee31,
+  static const IconData mgc_layout_7_line = IconData(0xee75,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_line_app_fill = IconData(0xee32,
+  static const IconData mgc_layout_8_fill = IconData(0xee76,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_line_app_line = IconData(0xee33,
+  static const IconData mgc_layout_8_line = IconData(0xee77,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_line_height_fill = IconData(0xee34,
+  static const IconData mgc_layout_9_fill = IconData(0xee78,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_line_height_line = IconData(0xee35,
+  static const IconData mgc_layout_9_line = IconData(0xee79,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_linear_fill = IconData(0xee36,
+  static const IconData mgc_layout_10_fill = IconData(0xee7a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_linear_line = IconData(0xee37,
+  static const IconData mgc_layout_10_line = IconData(0xee7b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_link_2_fill = IconData(0xee38,
+  static const IconData mgc_layout_11_fill = IconData(0xee7c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_link_2_line = IconData(0xee39,
+  static const IconData mgc_layout_11_line = IconData(0xee7d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_link_3_fill = IconData(0xee3a,
+  static const IconData mgc_layout_bottom_close_fill = IconData(0xee7e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_link_3_line = IconData(0xee3b,
+  static const IconData mgc_layout_bottom_close_line = IconData(0xee7f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_link_fill = IconData(0xee3c,
+  static const IconData mgc_layout_bottom_fill = IconData(0xee80,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_link_line = IconData(0xee3d,
+  static const IconData mgc_layout_bottom_line = IconData(0xee81,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_linkedin_fill = IconData(0xee3e,
+  static const IconData mgc_layout_bottom_open_fill = IconData(0xee82,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_linkedin_line = IconData(0xee3f,
+  static const IconData mgc_layout_bottom_open_line = IconData(0xee83,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_linux_fill = IconData(0xee40,
+  static const IconData mgc_layout_fill = IconData(0xee84,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_linux_line = IconData(0xee41,
+  static const IconData mgc_layout_grid_fill = IconData(0xee85,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_check_2_fill = IconData(0xee42,
+  static const IconData mgc_layout_grid_line = IconData(0xee86,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_check_2_line = IconData(0xee43,
+  static const IconData mgc_layout_left_fill = IconData(0xee87,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_check_3_fill = IconData(0xee44,
+  static const IconData mgc_layout_left_line = IconData(0xee88,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_check_3_line = IconData(0xee45,
+  static const IconData mgc_layout_leftbar_close_fill = IconData(0xee89,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_check_fill = IconData(0xee46,
+  static const IconData mgc_layout_leftbar_close_line = IconData(0xee8a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_check_line = IconData(0xee47,
+  static const IconData mgc_layout_leftbar_open_fill = IconData(0xee8b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_collapse_fill = IconData(0xee48,
+  static const IconData mgc_layout_leftbar_open_line = IconData(0xee8c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_collapse_line = IconData(0xee49,
+  static const IconData mgc_layout_line = IconData(0xee8d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_expansion_fill = IconData(0xee4a,
+  static const IconData mgc_layout_right_fill = IconData(0xee8e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_expansion_line = IconData(0xee4b,
+  static const IconData mgc_layout_right_line = IconData(0xee8f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_ordered_fill = IconData(0xee4c,
+  static const IconData mgc_layout_rightbar_close_fill = IconData(0xee90,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_ordered_line = IconData(0xee4d,
+  static const IconData mgc_layout_rightbar_close_line = IconData(0xee91,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_search_fill = IconData(0xee4e,
+  static const IconData mgc_layout_rightbar_open_fill = IconData(0xee92,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_list_search_line = IconData(0xee4f,
+  static const IconData mgc_layout_rightbar_open_line = IconData(0xee93,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_live_location_fill = IconData(0xee50,
+  static const IconData mgc_layout_top_close_fill = IconData(0xee94,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_live_location_line = IconData(0xee51,
+  static const IconData mgc_layout_top_close_line = IconData(0xee95,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_live_photo_fill = IconData(0xee52,
+  static const IconData mgc_layout_top_fill = IconData(0xee96,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_live_photo_line = IconData(0xee53,
+  static const IconData mgc_layout_top_line = IconData(0xee97,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_2_fill = IconData(0xee54,
+  static const IconData mgc_layout_top_open_fill = IconData(0xee98,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_2_line = IconData(0xee55,
+  static const IconData mgc_layout_top_open_line = IconData(0xee99,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_3_fill_path1 = IconData(0xee56,
+  static const IconData mgc_leaf_2_fill = IconData(0xee9a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_3_fill_path2 = IconData(0xee57,
+  static const IconData mgc_leaf_2_line = IconData(0xee9b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_3_line_path1 = IconData(0xee58,
+  static const IconData mgc_leaf_3_fill = IconData(0xee9c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_3_line_path2 = IconData(0xee59,
+  static const IconData mgc_leaf_3_line = IconData(0xee9d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_4_fill = IconData(0xee5a,
+  static const IconData mgc_leaf_fill = IconData(0xee9e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_4_line = IconData(0xee5b,
+  static const IconData mgc_leaf_line = IconData(0xee9f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_fill = IconData(0xee5c,
+  static const IconData mgc_left_fill = IconData(0xeea0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_loading_line = IconData(0xee5d,
+  static const IconData mgc_left_line = IconData(0xeea1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_location_2_fill = IconData(0xee5e,
+  static const IconData mgc_left_small_fill = IconData(0xeea2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_location_2_line = IconData(0xee5f,
+  static const IconData mgc_left_small_line = IconData(0xeea3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_location_3_fill = IconData(0xee60,
+  static const IconData mgc_letter_spacing_fill = IconData(0xeea4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_location_3_line = IconData(0xee61,
+  static const IconData mgc_letter_spacing_line = IconData(0xeea5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_location_fill = IconData(0xee62,
+  static const IconData mgc_lifebuoy_fill = IconData(0xeea6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_location_line = IconData(0xee63,
+  static const IconData mgc_lifebuoy_line = IconData(0xeea7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lock_fill = IconData(0xee64,
+  static const IconData mgc_light_fill = IconData(0xeea8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lock_line = IconData(0xee65,
+  static const IconData mgc_light_line = IconData(0xeea9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lollipop_fill = IconData(0xee66,
+  static const IconData mgc_light_snow_fill = IconData(0xeeaa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lollipop_line = IconData(0xee67,
+  static const IconData mgc_light_snow_line = IconData(0xeeab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_down_fill = IconData(0xee68,
+  static const IconData mgc_lighthouse_fill = IconData(0xeeac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_down_line = IconData(0xee69,
+  static const IconData mgc_lighthouse_line = IconData(0xeead,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_left_fill = IconData(0xee6a,
+  static const IconData mgc_lightning_fill = IconData(0xeeae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_left_line = IconData(0xee6b,
+  static const IconData mgc_lightning_line = IconData(0xeeaf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_right_fill = IconData(0xee6c,
+  static const IconData mgc_line_app_fill = IconData(0xeeb0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_right_line = IconData(0xee6d,
+  static const IconData mgc_line_app_line = IconData(0xeeb1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_up_fill = IconData(0xee6e,
+  static const IconData mgc_line_height_fill = IconData(0xeeb2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_look_up_line = IconData(0xee6f,
+  static const IconData mgc_line_height_line = IconData(0xeeb3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lotus_fill = IconData(0xee70,
+  static const IconData mgc_linear_fill = IconData(0xeeb4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_lotus_line = IconData(0xee71,
+  static const IconData mgc_linear_line = IconData(0xeeb5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_low_beam_headlights_fill = IconData(0xee72,
+  static const IconData mgc_link_2_fill = IconData(0xeeb6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_low_beam_headlights_line = IconData(0xee73,
+  static const IconData mgc_link_2_line = IconData(0xeeb7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_luggage_fill = IconData(0xee74,
+  static const IconData mgc_link_3_fill = IconData(0xeeb8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_luggage_line = IconData(0xee75,
+  static const IconData mgc_link_3_line = IconData(0xeeb9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_magic_1_fill = IconData(0xee76,
+  static const IconData mgc_link_fill = IconData(0xeeba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_magic_1_line = IconData(0xee77,
+  static const IconData mgc_link_line = IconData(0xeebb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_magic_2_fill = IconData(0xee78,
+  static const IconData mgc_linkedin_fill = IconData(0xeebc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_magic_2_line = IconData(0xee79,
+  static const IconData mgc_linkedin_line = IconData(0xeebd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_magnet_fill = IconData(0xee7a,
+  static const IconData mgc_linux_fill = IconData(0xeebe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_magnet_line = IconData(0xee7b,
+  static const IconData mgc_linux_line = IconData(0xeebf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mail_fill = IconData(0xee7c,
+  static const IconData mgc_list_check_2_fill = IconData(0xeec0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mail_line = IconData(0xee7d,
+  static const IconData mgc_list_check_2_line = IconData(0xeec1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mail_open_fill = IconData(0xee7e,
+  static const IconData mgc_list_check_3_fill = IconData(0xeec2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mail_open_line = IconData(0xee7f,
+  static const IconData mgc_list_check_3_line = IconData(0xeec3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mail_send_fill = IconData(0xee80,
+  static const IconData mgc_list_check_fill = IconData(0xeec4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mail_send_line = IconData(0xee81,
+  static const IconData mgc_list_check_line = IconData(0xeec5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mailbox_fill = IconData(0xee82,
+  static const IconData mgc_list_collapse_fill = IconData(0xeec6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mailbox_line = IconData(0xee83,
+  static const IconData mgc_list_collapse_line = IconData(0xeec7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_male_fill = IconData(0xee84,
+  static const IconData mgc_list_expansion_fill = IconData(0xeec8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_male_line = IconData(0xee85,
+  static const IconData mgc_list_expansion_line = IconData(0xeec9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_map_2_fill = IconData(0xee86,
+  static const IconData mgc_list_ordered_fill = IconData(0xeeca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_map_2_line = IconData(0xee87,
+  static const IconData mgc_list_ordered_line = IconData(0xeecb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_map_fill = IconData(0xee88,
+  static const IconData mgc_list_search_fill = IconData(0xeecc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_map_line = IconData(0xee89,
+  static const IconData mgc_list_search_line = IconData(0xeecd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_map_pin_fill = IconData(0xee8a,
+  static const IconData mgc_live_location_fill = IconData(0xeece,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_map_pin_line = IconData(0xee8b,
+  static const IconData mgc_live_location_line = IconData(0xeecf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_maple_leaf_fill = IconData(0xee8c,
+  static const IconData mgc_live_photo_fill = IconData(0xeed0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_maple_leaf_line = IconData(0xee8d,
+  static const IconData mgc_live_photo_line = IconData(0xeed1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_marina_bay_sand_fill = IconData(0xee8e,
+  static const IconData mgc_loading_2_fill = IconData(0xeed2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_marina_bay_sand_line = IconData(0xee8f,
+  static const IconData mgc_loading_2_line = IconData(0xeed3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mark_pen_fill = IconData(0xee90,
+  static const IconData mgc_loading_3_fill_path1 = IconData(0xeed4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mark_pen_line = IconData(0xee91,
+  static const IconData mgc_loading_3_fill_path2 = IconData(0xeed5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_markdown_fill = IconData(0xee92,
+  static const IconData mgc_loading_3_line_path1 = IconData(0xeed6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_markdown_line = IconData(0xee93,
+  static const IconData mgc_loading_3_line_path2 = IconData(0xeed7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_markup_fill = IconData(0xee94,
+  static const IconData mgc_loading_4_fill = IconData(0xeed8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_markup_line = IconData(0xee95,
+  static const IconData mgc_loading_4_line = IconData(0xeed9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mastercard_fill = IconData(0xee96,
+  static const IconData mgc_loading_fill = IconData(0xeeda,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mastercard_line = IconData(0xee97,
+  static const IconData mgc_loading_line = IconData(0xeedb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mastodon_fill = IconData(0xee98,
+  static const IconData mgc_location_2_fill = IconData(0xeedc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mastodon_line = IconData(0xee99,
+  static const IconData mgc_location_2_line = IconData(0xeedd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_maya_pyramids_fill = IconData(0xee9a,
+  static const IconData mgc_location_3_fill = IconData(0xeede,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_maya_pyramids_line = IconData(0xee9b,
+  static const IconData mgc_location_3_line = IconData(0xeedf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_medal_fill = IconData(0xee9c,
+  static const IconData mgc_location_fill = IconData(0xeee0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_medal_line = IconData(0xee9d,
+  static const IconData mgc_location_line = IconData(0xeee1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_medium_fill = IconData(0xee9e,
+  static const IconData mgc_lock_fill = IconData(0xeee2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_medium_line = IconData(0xee9f,
+  static const IconData mgc_lock_line = IconData(0xeee3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_menu_fill = IconData(0xeea0,
+  static const IconData mgc_lollipop_fill = IconData(0xeee4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_menu_line = IconData(0xeea1,
+  static const IconData mgc_lollipop_line = IconData(0xeee5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_1_fill = IconData(0xeea2,
+  static const IconData mgc_look_down_fill = IconData(0xeee6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_1_line = IconData(0xeea3,
+  static const IconData mgc_look_down_line = IconData(0xeee7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_2_fill = IconData(0xeea4,
+  static const IconData mgc_look_left_fill = IconData(0xeee8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_2_line = IconData(0xeea5,
+  static const IconData mgc_look_left_line = IconData(0xeee9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_3_fill = IconData(0xeea6,
+  static const IconData mgc_look_right_fill = IconData(0xeeea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_3_line = IconData(0xeea7,
+  static const IconData mgc_look_right_line = IconData(0xeeeb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_4_fill = IconData(0xeea8,
+  static const IconData mgc_look_up_fill = IconData(0xeeec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_message_4_line = IconData(0xeea9,
+  static const IconData mgc_look_up_line = IconData(0xeeed,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_messenger_fill = IconData(0xeeaa,
+  static const IconData mgc_lotus_fill = IconData(0xeeee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_messenger_line = IconData(0xeeab,
+  static const IconData mgc_lotus_line = IconData(0xeeef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_meta_fill = IconData(0xeeac,
+  static const IconData mgc_love_fill = IconData(0xeef0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_meta_line = IconData(0xeead,
+  static const IconData mgc_love_line = IconData(0xeef1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mic_2_fill = IconData(0xeeae,
+  static const IconData mgc_low_beam_headlights_fill = IconData(0xeef2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mic_2_line = IconData(0xeeaf,
+  static const IconData mgc_low_beam_headlights_line = IconData(0xeef3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mic_fill = IconData(0xeeb0,
+  static const IconData mgc_low_temperature_fill = IconData(0xeef4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mic_line = IconData(0xeeb1,
+  static const IconData mgc_low_temperature_line = IconData(0xeef5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mic_off_fill = IconData(0xeeb2,
+  static const IconData mgc_luggage_fill = IconData(0xeef6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mic_off_line = IconData(0xeeb3,
+  static const IconData mgc_luggage_line = IconData(0xeef7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mickeymouse_fill = IconData(0xeeb4,
+  static const IconData mgc_magic_1_fill = IconData(0xeef8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mickeymouse_line = IconData(0xeeb5,
+  static const IconData mgc_magic_1_line = IconData(0xeef9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_microphone_fill = IconData(0xeeb6,
+  static const IconData mgc_magic_2_fill = IconData(0xeefa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_microphone_line = IconData(0xeeb7,
+  static const IconData mgc_magic_2_line = IconData(0xeefb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_microscope_fill = IconData(0xeeb8,
+  static const IconData mgc_magic_3_fill = IconData(0xeefc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_microscope_line = IconData(0xeeb9,
+  static const IconData mgc_magic_3_line = IconData(0xeefd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_middle_finger_fill = IconData(0xeeba,
+  static const IconData mgc_magic_hat_2_fill = IconData(0xeefe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_middle_finger_line = IconData(0xeebb,
+  static const IconData mgc_magic_hat_2_line = IconData(0xeeff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_midi_fill = IconData(0xeebc,
+  static const IconData mgc_magic_hat_fill = IconData(0xef00,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_midi_line = IconData(0xeebd,
+  static const IconData mgc_magic_hat_line = IconData(0xef01,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mingcute_fill = IconData(0xeebe,
+  static const IconData mgc_magnet_fill = IconData(0xef02,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mingcute_line = IconData(0xeebf,
+  static const IconData mgc_magnet_line = IconData(0xef03,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_minimize_fill = IconData(0xeec0,
+  static const IconData mgc_mail_fill = IconData(0xef04,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_minimize_line = IconData(0xeec1,
+  static const IconData mgc_mail_line = IconData(0xef05,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_miniplayer_fill = IconData(0xeec2,
+  static const IconData mgc_mail_open_fill = IconData(0xef06,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_miniplayer_line = IconData(0xeec3,
+  static const IconData mgc_mail_open_line = IconData(0xef07,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_minus_circle_fill = IconData(0xeec4,
+  static const IconData mgc_mail_send_fill = IconData(0xef08,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_minus_circle_line = IconData(0xeec5,
+  static const IconData mgc_mail_send_line = IconData(0xef09,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_miyajima_torii_fill = IconData(0xeec6,
+  static const IconData mgc_mailbox_fill = IconData(0xef0a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_miyajima_torii_line = IconData(0xeec7,
+  static const IconData mgc_mailbox_line = IconData(0xef0b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moai_fill = IconData(0xeec8,
+  static const IconData mgc_male_fill = IconData(0xef0c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moai_line = IconData(0xeec9,
+  static const IconData mgc_male_line = IconData(0xef0d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moderate_snow_fill = IconData(0xeeca,
+  static const IconData mgc_map_2_fill = IconData(0xef0e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moderate_snow_line = IconData(0xeecb,
+  static const IconData mgc_map_2_line = IconData(0xef0f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moment_fill = IconData(0xeecc,
+  static const IconData mgc_map_fill = IconData(0xef10,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moment_line = IconData(0xeecd,
+  static const IconData mgc_map_line = IconData(0xef11,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_monument_fill = IconData(0xeece,
+  static const IconData mgc_map_pin_fill = IconData(0xef12,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_monument_line = IconData(0xeecf,
+  static const IconData mgc_map_pin_line = IconData(0xef13,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_cloudy_fill = IconData(0xeed0,
+  static const IconData mgc_maple_leaf_fill = IconData(0xef14,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_cloudy_line = IconData(0xeed1,
+  static const IconData mgc_maple_leaf_line = IconData(0xef15,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_fill = IconData(0xeed2,
+  static const IconData mgc_marina_bay_sand_fill = IconData(0xef16,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_fog_fill = IconData(0xeed3,
+  static const IconData mgc_marina_bay_sand_line = IconData(0xef17,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_fog_line = IconData(0xeed4,
+  static const IconData mgc_mark_pen_fill = IconData(0xef18,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_line = IconData(0xeed5,
+  static const IconData mgc_mark_pen_line = IconData(0xef19,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_stars_fill = IconData(0xeed6,
+  static const IconData mgc_markdown_fill = IconData(0xef1a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_moon_stars_line = IconData(0xeed7,
+  static const IconData mgc_markdown_line = IconData(0xef1b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_1_fill = IconData(0xeed8,
+  static const IconData mgc_markup_fill = IconData(0xef1c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_1_line = IconData(0xeed9,
+  static const IconData mgc_markup_line = IconData(0xef1d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_2_fill = IconData(0xeeda,
+  static const IconData mgc_mastercard_fill = IconData(0xef1e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_2_line = IconData(0xeedb,
+  static const IconData mgc_mastercard_line = IconData(0xef1f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_3_fill = IconData(0xeedc,
+  static const IconData mgc_mastodon_fill = IconData(0xef20,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_3_line = IconData(0xeedd,
+  static const IconData mgc_mastodon_line = IconData(0xef21,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_4_fill = IconData(0xeede,
+  static const IconData mgc_maya_pyramids_fill = IconData(0xef22,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_more_4_line = IconData(0xeedf,
+  static const IconData mgc_maya_pyramids_line = IconData(0xef23,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mortarboard_fill = IconData(0xeee0,
+  static const IconData mgc_medal_fill = IconData(0xef24,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mortarboard_line = IconData(0xeee1,
+  static const IconData mgc_medal_line = IconData(0xef25,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mosaic_fill = IconData(0xeee2,
+  static const IconData mgc_medium_fill = IconData(0xef26,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mosaic_line = IconData(0xeee3,
+  static const IconData mgc_medium_line = IconData(0xef27,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mouse_fill = IconData(0xeee4,
+  static const IconData mgc_menu_fill = IconData(0xef28,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mouse_line = IconData(0xeee5,
+  static const IconData mgc_menu_line = IconData(0xef29,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mouth_fill = IconData(0xeee6,
+  static const IconData mgc_message_1_fill = IconData(0xef2a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mouth_line = IconData(0xeee7,
+  static const IconData mgc_message_1_line = IconData(0xef2b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_move_fill = IconData(0xeee8,
+  static const IconData mgc_message_2_fill = IconData(0xef2c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_move_line = IconData(0xeee9,
+  static const IconData mgc_message_2_line = IconData(0xef2d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_movie_fill = IconData(0xeeea,
+  static const IconData mgc_message_3_fill = IconData(0xef2e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_movie_line = IconData(0xeeeb,
+  static const IconData mgc_message_3_line = IconData(0xef2f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mushroom_fill = IconData(0xeeec,
+  static const IconData mgc_message_4_fill = IconData(0xef30,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_mushroom_line = IconData(0xeeed,
+  static const IconData mgc_message_4_line = IconData(0xef31,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_music_2_fill = IconData(0xeeee,
+  static const IconData mgc_messenger_fill = IconData(0xef32,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_music_2_line = IconData(0xeeef,
+  static const IconData mgc_messenger_line = IconData(0xef33,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_music_3_fill = IconData(0xeef0,
+  static const IconData mgc_meta_fill = IconData(0xef34,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_music_3_line = IconData(0xeef1,
+  static const IconData mgc_meta_line = IconData(0xef35,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_music_fill = IconData(0xeef2,
+  static const IconData mgc_mic_2_fill = IconData(0xef36,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_music_line = IconData(0xeef3,
+  static const IconData mgc_mic_2_line = IconData(0xef37,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_na_fill = IconData(0xeef4,
+  static const IconData mgc_mic_fill = IconData(0xef38,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_na_line = IconData(0xeef5,
+  static const IconData mgc_mic_line = IconData(0xef39,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_navigation_fill = IconData(0xeef6,
+  static const IconData mgc_mic_off_fill = IconData(0xef3a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_navigation_line = IconData(0xeef7,
+  static const IconData mgc_mic_off_line = IconData(0xef3b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_necktie_fill = IconData(0xeef8,
+  static const IconData mgc_mickeymouse_fill = IconData(0xef3c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_necktie_line = IconData(0xeef9,
+  static const IconData mgc_mickeymouse_line = IconData(0xef3d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_new_folder_fill = IconData(0xeefa,
+  static const IconData mgc_microphone_fill = IconData(0xef3e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_new_folder_line = IconData(0xeefb,
+  static const IconData mgc_microphone_line = IconData(0xef3f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_newdot_fill = IconData(0xeefc,
+  static const IconData mgc_microscope_fill = IconData(0xef40,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_newdot_line = IconData(0xeefd,
+  static const IconData mgc_microscope_line = IconData(0xef41,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_news_fill = IconData(0xeefe,
+  static const IconData mgc_middle_finger_fill = IconData(0xef42,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_news_line = IconData(0xeeff,
+  static const IconData mgc_middle_finger_line = IconData(0xef43,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_nintendo_switch_fill = IconData(0xef00,
+  static const IconData mgc_midi_fill = IconData(0xef44,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_nintendo_switch_line = IconData(0xef01,
+  static const IconData mgc_midi_line = IconData(0xef45,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_nose_fill = IconData(0xef02,
+  static const IconData mgc_mingcute_fill = IconData(0xef46,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_nose_line = IconData(0xef03,
+  static const IconData mgc_mingcute_line = IconData(0xef47,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notebook_2_fill = IconData(0xef04,
+  static const IconData mgc_minimize_fill = IconData(0xef48,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notebook_2_line = IconData(0xef05,
+  static const IconData mgc_minimize_line = IconData(0xef49,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notebook_fill = IconData(0xef06,
+  static const IconData mgc_miniplayer_fill = IconData(0xef4a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notebook_line = IconData(0xef07,
+  static const IconData mgc_miniplayer_line = IconData(0xef4b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notification_fill = IconData(0xef08,
+  static const IconData mgc_minus_circle_fill = IconData(0xef4c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notification_line = IconData(0xef09,
+  static const IconData mgc_minus_circle_line = IconData(0xef4d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notification_off_fill = IconData(0xef0a,
+  static const IconData mgc_mirror_fill = IconData(0xef4e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notification_off_line = IconData(0xef0b,
+  static const IconData mgc_mirror_line = IconData(0xef4f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notion_fill = IconData(0xef0c,
+  static const IconData mgc_miyajima_torii_fill = IconData(0xef50,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_notion_line = IconData(0xef0d,
+  static const IconData mgc_miyajima_torii_line = IconData(0xef51,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_octagon_fill = IconData(0xef0e,
+  static const IconData mgc_moai_fill = IconData(0xef52,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_octagon_line = IconData(0xef0f,
+  static const IconData mgc_moai_line = IconData(0xef53,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_oil_fill = IconData(0xef10,
+  static const IconData mgc_moderate_snow_fill = IconData(0xef54,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_oil_line = IconData(0xef11,
+  static const IconData mgc_moderate_snow_line = IconData(0xef55,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_omega_fill = IconData(0xef12,
+  static const IconData mgc_moment_fill = IconData(0xef56,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_omega_line = IconData(0xef13,
+  static const IconData mgc_moment_line = IconData(0xef57,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_omg_fill = IconData(0xef14,
+  static const IconData mgc_monero_fill = IconData(0xef58,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_omg_line = IconData(0xef15,
+  static const IconData mgc_monero_line = IconData(0xef59,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_open_door_fill = IconData(0xef16,
+  static const IconData mgc_monument_fill = IconData(0xef5a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_open_door_line = IconData(0xef17,
+  static const IconData mgc_monument_line = IconData(0xef5b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_openai_fill = IconData(0xef18,
+  static const IconData mgc_moon_cloudy_fill = IconData(0xef5c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_openai_line = IconData(0xef19,
+  static const IconData mgc_moon_cloudy_line = IconData(0xef5d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_package_2_fill = IconData(0xef1a,
+  static const IconData mgc_moon_fill = IconData(0xef5e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_package_2_line = IconData(0xef1b,
+  static const IconData mgc_moon_fog_fill = IconData(0xef5f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_package_fill = IconData(0xef1c,
+  static const IconData mgc_moon_fog_line = IconData(0xef60,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_package_line = IconData(0xef1d,
+  static const IconData mgc_moon_line = IconData(0xef61,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pad_fill = IconData(0xef1e,
+  static const IconData mgc_moon_stars_fill = IconData(0xef62,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pad_line = IconData(0xef1f,
+  static const IconData mgc_moon_stars_line = IconData(0xef63,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paint_2_fill = IconData(0xef20,
+  static const IconData mgc_moonlight_fill = IconData(0xef64,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paint_2_line = IconData(0xef21,
+  static const IconData mgc_moonlight_line = IconData(0xef65,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paint_brush_fill = IconData(0xef22,
+  static const IconData mgc_more_1_fill = IconData(0xef66,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paint_brush_line = IconData(0xef23,
+  static const IconData mgc_more_1_line = IconData(0xef67,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paint_fill = IconData(0xef24,
+  static const IconData mgc_more_2_fill = IconData(0xef68,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paint_line = IconData(0xef25,
+  static const IconData mgc_more_2_line = IconData(0xef69,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_palace_fill = IconData(0xef26,
+  static const IconData mgc_more_3_fill = IconData(0xef6a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_palace_line = IconData(0xef27,
+  static const IconData mgc_more_3_line = IconData(0xef6b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_palette_2_fill = IconData(0xef28,
+  static const IconData mgc_more_4_fill = IconData(0xef6c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_palette_2_line = IconData(0xef29,
+  static const IconData mgc_more_4_line = IconData(0xef6d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_palette_fill = IconData(0xef2a,
+  static const IconData mgc_mortarboard_fill = IconData(0xef6e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_palette_line = IconData(0xef2b,
+  static const IconData mgc_mortarboard_line = IconData(0xef6f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_panoramas_fill = IconData(0xef2c,
+  static const IconData mgc_mosaic_fill = IconData(0xef70,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_panoramas_line = IconData(0xef2d,
+  static const IconData mgc_mosaic_line = IconData(0xef71,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paper_fill = IconData(0xef2e,
+  static const IconData mgc_mouse_fill = IconData(0xef72,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paper_line = IconData(0xef2f,
+  static const IconData mgc_mouse_line = IconData(0xef73,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parachute_fill = IconData(0xef30,
+  static const IconData mgc_mouth_fill = IconData(0xef74,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parachute_line = IconData(0xef31,
+  static const IconData mgc_mouth_line = IconData(0xef75,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paragraph_fill = IconData(0xef32,
+  static const IconData mgc_move_fill = IconData(0xef76,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paragraph_line = IconData(0xef33,
+  static const IconData mgc_move_line = IconData(0xef77,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parentheses_fill = IconData(0xef34,
+  static const IconData mgc_movie_fill = IconData(0xef78,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parentheses_line = IconData(0xef35,
+  static const IconData mgc_movie_line = IconData(0xef79,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_park_fill = IconData(0xef36,
+  static const IconData mgc_multiselect_fill = IconData(0xef7a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_park_line = IconData(0xef37,
+  static const IconData mgc_multiselect_line = IconData(0xef7b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parking_fill = IconData(0xef38,
+  static const IconData mgc_mushroom_fill = IconData(0xef7c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parking_lights_fill = IconData(0xef39,
+  static const IconData mgc_mushroom_line = IconData(0xef7d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parking_lights_line = IconData(0xef3a,
+  static const IconData mgc_music_2_fill = IconData(0xef7e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_parking_line = IconData(0xef3b,
+  static const IconData mgc_music_2_line = IconData(0xef7f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_passport_fill = IconData(0xef3c,
+  static const IconData mgc_music_3_fill = IconData(0xef80,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_passport_line = IconData(0xef3d,
+  static const IconData mgc_music_3_line = IconData(0xef81,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paster_fill = IconData(0xef3e,
+  static const IconData mgc_music_fill = IconData(0xef82,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paster_line = IconData(0xef3f,
+  static const IconData mgc_music_line = IconData(0xef83,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pause_circle_fill = IconData(0xef40,
+  static const IconData mgc_na_fill = IconData(0xef84,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pause_circle_line = IconData(0xef41,
+  static const IconData mgc_na_line = IconData(0xef85,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pause_fill = IconData(0xef42,
+  static const IconData mgc_navigation_fill = IconData(0xef86,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pause_line = IconData(0xef43,
+  static const IconData mgc_navigation_line = IconData(0xef87,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pavilion_fill = IconData(0xef44,
+  static const IconData mgc_necktie_fill = IconData(0xef88,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pavilion_line = IconData(0xef45,
+  static const IconData mgc_necktie_line = IconData(0xef89,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paw_fill = IconData(0xef46,
+  static const IconData mgc_new_folder_fill = IconData(0xef8a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paw_line = IconData(0xef47,
+  static const IconData mgc_new_folder_line = IconData(0xef8b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paypal_fill = IconData(0xef48,
+  static const IconData mgc_newdot_fill = IconData(0xef8c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_paypal_line = IconData(0xef49,
+  static const IconData mgc_newdot_line = IconData(0xef8d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pdf_fill = IconData(0xef4a,
+  static const IconData mgc_news_fill = IconData(0xef8e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pdf_line = IconData(0xef4b,
+  static const IconData mgc_news_line = IconData(0xef8f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pen_2_fill = IconData(0xef4c,
+  static const IconData mgc_nintendo_switch_fill = IconData(0xef90,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pen_2_line = IconData(0xef4d,
+  static const IconData mgc_nintendo_switch_line = IconData(0xef91,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pen_fill = IconData(0xef4e,
+  static const IconData mgc_nose_fill = IconData(0xef92,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pen_line = IconData(0xef4f,
+  static const IconData mgc_nose_line = IconData(0xef93,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pencil_2_fill = IconData(0xef50,
+  static const IconData mgc_notebook_2_fill = IconData(0xef94,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pencil_2_line = IconData(0xef51,
+  static const IconData mgc_notebook_2_line = IconData(0xef95,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pencil_fill = IconData(0xef52,
+  static const IconData mgc_notebook_fill = IconData(0xef96,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pencil_line = IconData(0xef53,
+  static const IconData mgc_notebook_line = IconData(0xef97,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pentagon_fill = IconData(0xef54,
+  static const IconData mgc_notification_fill = IconData(0xef98,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pentagon_line = IconData(0xef55,
+  static const IconData mgc_notification_line = IconData(0xef99,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_performance_fill = IconData(0xef56,
+  static const IconData mgc_notification_off_fill = IconData(0xef9a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_performance_line = IconData(0xef57,
+  static const IconData mgc_notification_off_line = IconData(0xef9b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_add_fill = IconData(0xef58,
+  static const IconData mgc_notion_fill = IconData(0xef9c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_add_line = IconData(0xef59,
+  static const IconData mgc_notion_line = IconData(0xef9d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_block_fill = IconData(0xef5a,
+  static const IconData mgc_numbers_09_sort_ascending_fill = IconData(0xef9e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_block_line = IconData(0xef5b,
+  static const IconData mgc_numbers_09_sort_ascending_line = IconData(0xef9f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_call_fill = IconData(0xef5c,
+  static const IconData mgc_numbers_09_sort_descending_fill = IconData(0xefa0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_call_line = IconData(0xef5d,
+  static const IconData mgc_numbers_09_sort_descending_line = IconData(0xefa1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_fill = IconData(0xef5e,
+  static const IconData mgc_numbers_90_sort_ascending_fill = IconData(0xefa2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_incoming_fill = IconData(0xef5f,
+  static const IconData mgc_numbers_90_sort_ascending_line = IconData(0xefa3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_incoming_line = IconData(0xef60,
+  static const IconData mgc_numbers_90_sort_descending_fill = IconData(0xefa4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_line = IconData(0xef61,
+  static const IconData mgc_numbers_90_sort_descending_line = IconData(0xefa5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_off_fill = IconData(0xef62,
+  static const IconData mgc_octagon_fill = IconData(0xefa6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_off_line = IconData(0xef63,
+  static const IconData mgc_octagon_line = IconData(0xefa7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_outgoing_fill = IconData(0xef64,
+  static const IconData mgc_oil_fill = IconData(0xefa8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_outgoing_line = IconData(0xef65,
+  static const IconData mgc_oil_line = IconData(0xefa9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_success_fill = IconData(0xef66,
+  static const IconData mgc_omega_fill = IconData(0xefaa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_phone_success_line = IconData(0xef67,
+  static const IconData mgc_omega_line = IconData(0xefab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_photo_album_2_fill = IconData(0xef68,
+  static const IconData mgc_omg_fill = IconData(0xefac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_photo_album_2_line = IconData(0xef69,
+  static const IconData mgc_omg_line = IconData(0xefad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_photo_album_fill = IconData(0xef6a,
+  static const IconData mgc_open_door_fill = IconData(0xefae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_photo_album_line = IconData(0xef6b,
+  static const IconData mgc_open_door_line = IconData(0xefaf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pic_2_fill = IconData(0xef6c,
+  static const IconData mgc_openai_fill = IconData(0xefb0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pic_2_line = IconData(0xef6d,
+  static const IconData mgc_openai_line = IconData(0xefb1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pic_fill = IconData(0xef6e,
+  static const IconData mgc_package_2_fill = IconData(0xefb2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pic_line = IconData(0xef6f,
+  static const IconData mgc_package_2_line = IconData(0xefb3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pickax_fill = IconData(0xef70,
+  static const IconData mgc_package_fill = IconData(0xefb4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pickax_line = IconData(0xef71,
+  static const IconData mgc_package_line = IconData(0xefb5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pig_fill = IconData(0xef72,
+  static const IconData mgc_pad_fill = IconData(0xefb6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pig_line = IconData(0xef73,
+  static const IconData mgc_pad_line = IconData(0xefb7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pig_money_fill = IconData(0xef74,
+  static const IconData mgc_paint_2_fill = IconData(0xefb8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pig_money_line = IconData(0xef75,
+  static const IconData mgc_paint_2_line = IconData(0xefb9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pin_2_fill = IconData(0xef76,
+  static const IconData mgc_paint_brush_fill = IconData(0xefba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pin_2_line = IconData(0xef77,
+  static const IconData mgc_paint_brush_line = IconData(0xefbb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pin_fill = IconData(0xef78,
+  static const IconData mgc_paint_fill = IconData(0xefbc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pin_line = IconData(0xef79,
+  static const IconData mgc_paint_line = IconData(0xefbd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pingpong_fill = IconData(0xef7a,
+  static const IconData mgc_palace_fill = IconData(0xefbe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pingpong_line = IconData(0xef7b,
+  static const IconData mgc_palace_line = IconData(0xefbf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pinterest_fill = IconData(0xef7c,
+  static const IconData mgc_palette_2_fill = IconData(0xefc0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pinterest_line = IconData(0xef7d,
+  static const IconData mgc_palette_2_line = IconData(0xefc1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pinwheel_2_fill = IconData(0xef7e,
+  static const IconData mgc_palette_fill = IconData(0xefc2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pinwheel_2_line = IconData(0xef7f,
+  static const IconData mgc_palette_line = IconData(0xefc3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pinwheel_fill = IconData(0xef80,
+  static const IconData mgc_panoramas_fill = IconData(0xefc4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pinwheel_line = IconData(0xef81,
+  static const IconData mgc_panoramas_line = IconData(0xefc5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pisa_tower_fill = IconData(0xef82,
+  static const IconData mgc_paper_fill = IconData(0xefc6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pisa_tower_line = IconData(0xef83,
+  static const IconData mgc_paper_line = IconData(0xefc7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_planet_fill = IconData(0xef84,
+  static const IconData mgc_parachute_fill = IconData(0xefc8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_planet_line = IconData(0xef85,
+  static const IconData mgc_parachute_line = IconData(0xefc9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_play_circle_fill = IconData(0xef86,
+  static const IconData mgc_paragraph_fill = IconData(0xefca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_play_circle_line = IconData(0xef87,
+  static const IconData mgc_paragraph_line = IconData(0xefcb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_play_fill = IconData(0xef88,
+  static const IconData mgc_parentheses_fill = IconData(0xefcc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_play_line = IconData(0xef89,
+  static const IconData mgc_parentheses_line = IconData(0xefcd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_playground_fill = IconData(0xef8a,
+  static const IconData mgc_park_fill = IconData(0xefce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_playground_line = IconData(0xef8b,
+  static const IconData mgc_park_line = IconData(0xefcf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_playlist_2_fill = IconData(0xef8c,
+  static const IconData mgc_parking_fill = IconData(0xefd0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_playlist_2_line = IconData(0xef8d,
+  static const IconData mgc_parking_lights_fill = IconData(0xefd1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_playlist_fill = IconData(0xef8e,
+  static const IconData mgc_parking_lights_line = IconData(0xefd2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_playlist_line = IconData(0xef8f,
+  static const IconData mgc_parking_line = IconData(0xefd3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_plugin_2_fill = IconData(0xef90,
+  static const IconData mgc_partly_cloud_daytime_fill = IconData(0xefd4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_plugin_2_line = IconData(0xef91,
+  static const IconData mgc_partly_cloud_daytime_line = IconData(0xefd5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_plugin_fill = IconData(0xef92,
+  static const IconData mgc_partly_cloud_night_fill = IconData(0xefd6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_plugin_line = IconData(0xef93,
+  static const IconData mgc_partly_cloud_night_line = IconData(0xefd7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_polkadot_DOT_fill = IconData(0xef94,
+  static const IconData mgc_passport_fill = IconData(0xefd8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_polkadot_DOT_line = IconData(0xef95,
+  static const IconData mgc_passport_line = IconData(0xefd9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_polygon_fill = IconData(0xef96,
+  static const IconData mgc_paster_fill = IconData(0xefda,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_polygon_line = IconData(0xef97,
+  static const IconData mgc_paster_line = IconData(0xefdb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pot_fill = IconData(0xef98,
+  static const IconData mgc_pause_circle_fill = IconData(0xefdc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pot_line = IconData(0xef99,
+  static const IconData mgc_pause_circle_line = IconData(0xefdd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_power_fill = IconData(0xef9a,
+  static const IconData mgc_pause_fill = IconData(0xefde,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_power_line = IconData(0xef9b,
+  static const IconData mgc_pause_line = IconData(0xefdf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ppt_fill = IconData(0xef9c,
+  static const IconData mgc_pavilion_fill = IconData(0xefe0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ppt_line = IconData(0xef9d,
+  static const IconData mgc_pavilion_line = IconData(0xefe1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_presentation_1_fill = IconData(0xef9e,
+  static const IconData mgc_paw_fill = IconData(0xefe2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_presentation_1_line = IconData(0xef9f,
+  static const IconData mgc_paw_line = IconData(0xefe3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_presentation_2_fill = IconData(0xefa0,
+  static const IconData mgc_paypal_fill = IconData(0xefe4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_presentation_2_line = IconData(0xefa1,
+  static const IconData mgc_paypal_line = IconData(0xefe5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_print_fill = IconData(0xefa2,
+  static const IconData mgc_pdf_fill = IconData(0xefe6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_print_line = IconData(0xefa3,
+  static const IconData mgc_pdf_line = IconData(0xefe7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_profile_fill = IconData(0xefa4,
+  static const IconData mgc_pen_2_fill = IconData(0xefe8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_profile_line = IconData(0xefa5,
+  static const IconData mgc_pen_2_line = IconData(0xefe9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pumpkin_fill = IconData(0xefa6,
+  static const IconData mgc_pen_fill = IconData(0xefea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pumpkin_lantern_fill = IconData(0xefa7,
+  static const IconData mgc_pen_line = IconData(0xefeb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pumpkin_lantern_line = IconData(0xefa8,
+  static const IconData mgc_pencil_2_fill = IconData(0xefec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_pumpkin_line = IconData(0xefa9,
+  static const IconData mgc_pencil_2_line = IconData(0xefed,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_puzzled_fill = IconData(0xefaa,
+  static const IconData mgc_pencil_fill = IconData(0xefee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_puzzled_line = IconData(0xefab,
+  static const IconData mgc_pencil_line = IconData(0xefef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_qq_fill = IconData(0xefac,
+  static const IconData mgc_pencil_ruler_fill = IconData(0xeff0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_qq_line = IconData(0xefad,
+  static const IconData mgc_pencil_ruler_line = IconData(0xeff1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_qrcode_2_fill = IconData(0xefae,
+  static const IconData mgc_pentagon_fill = IconData(0xeff2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_qrcode_2_line = IconData(0xefaf,
+  static const IconData mgc_pentagon_line = IconData(0xeff3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_qrcode_fill = IconData(0xefb0,
+  static const IconData mgc_performance_fill = IconData(0xeff4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_qrcode_line = IconData(0xefb1,
+  static const IconData mgc_performance_line = IconData(0xeff5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_question_fill = IconData(0xefb2,
+  static const IconData mgc_phone_add_fill = IconData(0xeff6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_question_line = IconData(0xefb3,
+  static const IconData mgc_phone_add_line = IconData(0xeff7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_quill_pen_fill = IconData(0xefb4,
+  static const IconData mgc_phone_block_fill = IconData(0xeff8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_quill_pen_line = IconData(0xefb5,
+  static const IconData mgc_phone_block_line = IconData(0xeff9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_quote_left_fill = IconData(0xefb6,
+  static const IconData mgc_phone_call_fill = IconData(0xeffa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_quote_left_line = IconData(0xefb7,
+  static const IconData mgc_phone_call_line = IconData(0xeffb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_quote_right_fill = IconData(0xefb8,
+  static const IconData mgc_phone_fill = IconData(0xeffc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_quote_right_line = IconData(0xefb9,
+  static const IconData mgc_phone_incoming_fill = IconData(0xeffd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rabbit_fill = IconData(0xefba,
+  static const IconData mgc_phone_incoming_line = IconData(0xeffe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rabbit_line = IconData(0xefbb,
+  static const IconData mgc_phone_line = IconData(0xefff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_radar_2_fill = IconData(0xefbc,
+  static const IconData mgc_phone_off_fill = IconData(0xf000,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_radar_2_line = IconData(0xefbd,
+  static const IconData mgc_phone_off_line = IconData(0xf001,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_radar_fill = IconData(0xefbe,
+  static const IconData mgc_phone_outgoing_fill = IconData(0xf002,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_radar_line = IconData(0xefbf,
+  static const IconData mgc_phone_outgoing_line = IconData(0xf003,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_radio_fill = IconData(0xefc0,
+  static const IconData mgc_phone_success_fill = IconData(0xf004,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_radio_line = IconData(0xefc1,
+  static const IconData mgc_phone_success_line = IconData(0xf005,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rain_fill = IconData(0xefc2,
+  static const IconData mgc_photo_album_2_fill = IconData(0xf006,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rain_line = IconData(0xefc3,
+  static const IconData mgc_photo_album_2_line = IconData(0xf007,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rainbow_fill = IconData(0xefc4,
+  static const IconData mgc_photo_album_fill = IconData(0xf008,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rainbow_line = IconData(0xefc5,
+  static const IconData mgc_photo_album_line = IconData(0xf009,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rake_fill = IconData(0xefc6,
+  static const IconData mgc_pic_2_fill = IconData(0xf00a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rake_line = IconData(0xefc7,
+  static const IconData mgc_pic_2_line = IconData(0xf00b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rare_fog_lights_fill = IconData(0xefc8,
+  static const IconData mgc_pic_fill = IconData(0xf00c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rare_fog_lights_line = IconData(0xefc9,
+  static const IconData mgc_pic_line = IconData(0xf00d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_react_fill = IconData(0xefca,
+  static const IconData mgc_pickax_fill = IconData(0xf00e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_react_line = IconData(0xefcb,
+  static const IconData mgc_pickax_line = IconData(0xf00f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rear_windshield_defroster_fill = IconData(0xefcc,
+  static const IconData mgc_pig_fill = IconData(0xf010,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rear_windshield_defroster_line = IconData(0xefcd,
+  static const IconData mgc_pig_line = IconData(0xf011,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_receive_money_fill = IconData(0xefce,
+  static const IconData mgc_pig_money_fill = IconData(0xf012,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_receive_money_line = IconData(0xefcf,
+  static const IconData mgc_pig_money_line = IconData(0xf013,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_record_mail_fill = IconData(0xefd0,
+  static const IconData mgc_pin_2_fill = IconData(0xf014,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_record_mail_line = IconData(0xefd1,
+  static const IconData mgc_pin_2_line = IconData(0xf015,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_recycle_fill = IconData(0xefd2,
+  static const IconData mgc_pin_fill = IconData(0xf016,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_recycle_line = IconData(0xefd3,
+  static const IconData mgc_pin_line = IconData(0xf017,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_red_packet_fill = IconData(0xefd4,
+  static const IconData mgc_pingpong_fill = IconData(0xf018,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_red_packet_line = IconData(0xefd5,
+  static const IconData mgc_pingpong_line = IconData(0xf019,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_red_packet_open_fill = IconData(0xefd6,
+  static const IconData mgc_pinterest_fill = IconData(0xf01a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_red_packet_open_line = IconData(0xefd7,
+  static const IconData mgc_pinterest_line = IconData(0xf01b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_reddit_fill = IconData(0xefd8,
+  static const IconData mgc_pinwheel_2_fill = IconData(0xf01c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_reddit_line = IconData(0xefd9,
+  static const IconData mgc_pinwheel_2_line = IconData(0xf01d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_1_fill = IconData(0xefda,
+  static const IconData mgc_pinwheel_fill = IconData(0xf01e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_1_line = IconData(0xefdb,
+  static const IconData mgc_pinwheel_line = IconData(0xf01f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_2_fill = IconData(0xefdc,
+  static const IconData mgc_pisa_tower_fill = IconData(0xf020,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_2_line = IconData(0xefdd,
+  static const IconData mgc_pisa_tower_line = IconData(0xf021,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_3_fill = IconData(0xefde,
+  static const IconData mgc_planet_fill = IconData(0xf022,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_3_line = IconData(0xefdf,
+  static const IconData mgc_planet_line = IconData(0xf023,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_4_fill = IconData(0xefe0,
+  static const IconData mgc_play_circle_fill = IconData(0xf024,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_refresh_4_line = IconData(0xefe1,
+  static const IconData mgc_play_circle_line = IconData(0xf025,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_registered_fill = IconData(0xefe2,
+  static const IconData mgc_play_fill = IconData(0xf026,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_registered_line = IconData(0xefe3,
+  static const IconData mgc_play_line = IconData(0xf027,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_remote_fill = IconData(0xefe4,
+  static const IconData mgc_playground_fill = IconData(0xf028,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_remote_line = IconData(0xefe5,
+  static const IconData mgc_playground_line = IconData(0xf029,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_repeat_fill = IconData(0xefe6,
+  static const IconData mgc_playlist_2_fill = IconData(0xf02a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_repeat_line = IconData(0xefe7,
+  static const IconData mgc_playlist_2_line = IconData(0xf02b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_repeat_one_fill = IconData(0xefe8,
+  static const IconData mgc_playlist_fill = IconData(0xf02c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_repeat_one_line = IconData(0xefe9,
+  static const IconData mgc_playlist_line = IconData(0xf02d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_report_fill = IconData(0xefea,
+  static const IconData mgc_plugin_2_fill = IconData(0xf02e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_report_line = IconData(0xefeb,
+  static const IconData mgc_plugin_2_line = IconData(0xf02f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rest_area_fill = IconData(0xefec,
+  static const IconData mgc_plugin_fill = IconData(0xf030,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rest_area_line = IconData(0xefed,
+  static const IconData mgc_plugin_line = IconData(0xf031,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_restore_fill = IconData(0xefee,
+  static const IconData mgc_plus_fill = IconData(0xf032,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_restore_line = IconData(0xefef,
+  static const IconData mgc_plus_line = IconData(0xf033,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_riding_fill = IconData(0xeff0,
+  static const IconData mgc_polkadot_DOT_fill = IconData(0xf034,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_riding_line = IconData(0xeff1,
+  static const IconData mgc_polkadot_DOT_line = IconData(0xf035,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_right_fill = IconData(0xeff2,
+  static const IconData mgc_polygon_fill = IconData(0xf036,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_right_line = IconData(0xeff3,
+  static const IconData mgc_polygon_line = IconData(0xf037,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_right_small_fill = IconData(0xeff4,
+  static const IconData mgc_pot_fill = IconData(0xf038,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_right_small_line = IconData(0xeff5,
+  static const IconData mgc_pot_line = IconData(0xf039,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_road_fill = IconData(0xeff6,
+  static const IconData mgc_power_fill = IconData(0xf03a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_road_line = IconData(0xeff7,
+  static const IconData mgc_power_line = IconData(0xf03b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rocket_2_fill = IconData(0xeff8,
+  static const IconData mgc_ppt_fill = IconData(0xf03c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rocket_2_line = IconData(0xeff9,
+  static const IconData mgc_ppt_line = IconData(0xf03d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rocket_fill = IconData(0xeffa,
+  static const IconData mgc_pray_fill = IconData(0xf03e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rocket_line = IconData(0xeffb,
+  static const IconData mgc_pray_line = IconData(0xf03f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_to_horizontal_fill = IconData(0xeffc,
+  static const IconData mgc_presentation_1_fill = IconData(0xf040,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_to_horizontal_line = IconData(0xeffd,
+  static const IconData mgc_presentation_1_line = IconData(0xf041,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_to_vertical_fill = IconData(0xeffe,
+  static const IconData mgc_presentation_2_fill = IconData(0xf042,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_to_vertical_line = IconData(0xefff,
+  static const IconData mgc_presentation_2_line = IconData(0xf043,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_x_fill = IconData(0xf000,
+  static const IconData mgc_print_fill = IconData(0xf044,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_x_line = IconData(0xf001,
+  static const IconData mgc_print_line = IconData(0xf045,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_y_fill = IconData(0xf002,
+  static const IconData mgc_process_fill = IconData(0xf046,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rotate_y_line = IconData(0xf003,
+  static const IconData mgc_process_line = IconData(0xf047,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_round_fill = IconData(0xf004,
+  static const IconData mgc_profile_fill = IconData(0xf048,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_round_line = IconData(0xf005,
+  static const IconData mgc_profile_line = IconData(0xf049,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_route_fill = IconData(0xf006,
+  static const IconData mgc_pumpkin_fill = IconData(0xf04a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_route_line = IconData(0xf007,
+  static const IconData mgc_pumpkin_lantern_fill = IconData(0xf04b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_router_modem_fill = IconData(0xf008,
+  static const IconData mgc_pumpkin_lantern_line = IconData(0xf04c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_router_modem_line = IconData(0xf009,
+  static const IconData mgc_pumpkin_line = IconData(0xf04d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rows_2_fill = IconData(0xf00a,
+  static const IconData mgc_puzzled_fill = IconData(0xf04e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rows_2_line = IconData(0xf00b,
+  static const IconData mgc_puzzled_line = IconData(0xf04f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rows_3_fill = IconData(0xf00c,
+  static const IconData mgc_qq_fill = IconData(0xf050,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rows_3_line = IconData(0xf00d,
+  static const IconData mgc_qq_line = IconData(0xf051,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rows_4_fill = IconData(0xf00e,
+  static const IconData mgc_qrcode_2_fill = IconData(0xf052,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rows_4_line = IconData(0xf00f,
+  static const IconData mgc_qrcode_2_line = IconData(0xf053,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rss_2_fill = IconData(0xf010,
+  static const IconData mgc_qrcode_fill = IconData(0xf054,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rss_2_line = IconData(0xf011,
+  static const IconData mgc_qrcode_line = IconData(0xf055,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rss_fill = IconData(0xf012,
+  static const IconData mgc_question_fill = IconData(0xf056,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rss_line = IconData(0xf013,
+  static const IconData mgc_question_line = IconData(0xf057,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rudder_fill = IconData(0xf014,
+  static const IconData mgc_quill_pen_fill = IconData(0xf058,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_rudder_line = IconData(0xf015,
+  static const IconData mgc_quill_pen_line = IconData(0xf059,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ruler_fill = IconData(0xf016,
+  static const IconData mgc_quote_left_fill = IconData(0xf05a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ruler_line = IconData(0xf017,
+  static const IconData mgc_quote_left_line = IconData(0xf05b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_run_fill = IconData(0xf018,
+  static const IconData mgc_quote_right_fill = IconData(0xf05c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_run_line = IconData(0xf019,
+  static const IconData mgc_quote_right_line = IconData(0xf05d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sad_fill = IconData(0xf01a,
+  static const IconData mgc_rabbit_fill = IconData(0xf05e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sad_line = IconData(0xf01b,
+  static const IconData mgc_rabbit_line = IconData(0xf05f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safari_fill = IconData(0xf01c,
+  static const IconData mgc_radar_2_fill = IconData(0xf060,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safari_line = IconData(0xf01d,
+  static const IconData mgc_radar_2_line = IconData(0xf061,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_alert_fill = IconData(0xf01e,
+  static const IconData mgc_radar_fill = IconData(0xf062,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_alert_line = IconData(0xf01f,
+  static const IconData mgc_radar_line = IconData(0xf063,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_box_fill = IconData(0xf020,
+  static const IconData mgc_radio_fill = IconData(0xf064,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_box_line = IconData(0xf021,
+  static const IconData mgc_radio_line = IconData(0xf065,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_flash_fill = IconData(0xf022,
+  static const IconData mgc_rain_fill = IconData(0xf066,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_flash_line = IconData(0xf023,
+  static const IconData mgc_rain_line = IconData(0xf067,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_lock_fill = IconData(0xf024,
+  static const IconData mgc_rainbow_fill = IconData(0xf068,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_lock_line = IconData(0xf025,
+  static const IconData mgc_rainbow_line = IconData(0xf069,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_shield_2_fill = IconData(0xf026,
+  static const IconData mgc_rainstorm_fill = IconData(0xf06a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_shield_2_line = IconData(0xf027,
+  static const IconData mgc_rainstorm_line = IconData(0xf06b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_shield_fill = IconData(0xf028,
+  static const IconData mgc_rake_fill = IconData(0xf06c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safe_shield_line = IconData(0xf029,
+  static const IconData mgc_rake_line = IconData(0xf06d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safety_certificate_fill = IconData(0xf02a,
+  static const IconData mgc_rare_fog_lights_fill = IconData(0xf06e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_safety_certificate_line = IconData(0xf02b,
+  static const IconData mgc_rare_fog_lights_line = IconData(0xf06f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sailboat_fill = IconData(0xf02c,
+  static const IconData mgc_react_fill = IconData(0xf070,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sailboat_line = IconData(0xf02d,
+  static const IconData mgc_react_line = IconData(0xf071,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sale_fill = IconData(0xf02e,
+  static const IconData mgc_rear_windshield_defroster_fill = IconData(0xf072,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sale_line = IconData(0xf02f,
+  static const IconData mgc_rear_windshield_defroster_line = IconData(0xf073,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sandglass_fill = IconData(0xf030,
+  static const IconData mgc_receive_money_fill = IconData(0xf074,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sandglass_line = IconData(0xf031,
+  static const IconData mgc_receive_money_line = IconData(0xf075,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sandstorm_fill = IconData(0xf032,
+  static const IconData mgc_record_mail_fill = IconData(0xf076,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sandstorm_line = IconData(0xf033,
+  static const IconData mgc_record_mail_line = IconData(0xf077,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_save_2_fill = IconData(0xf034,
+  static const IconData mgc_recycle_fill = IconData(0xf078,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_save_2_line = IconData(0xf035,
+  static const IconData mgc_recycle_line = IconData(0xf079,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_save_fill = IconData(0xf036,
+  static const IconData mgc_red_packet_fill = IconData(0xf07a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_save_line = IconData(0xf037,
+  static const IconData mgc_red_packet_line = IconData(0xf07b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scale_fill = IconData(0xf038,
+  static const IconData mgc_red_packet_open_fill = IconData(0xf07c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scale_line = IconData(0xf039,
+  static const IconData mgc_red_packet_open_line = IconData(0xf07d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scan_2_fill = IconData(0xf03a,
+  static const IconData mgc_reddit_fill = IconData(0xf07e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scan_2_line = IconData(0xf03b,
+  static const IconData mgc_reddit_line = IconData(0xf07f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scan_fill = IconData(0xf03c,
+  static const IconData mgc_refresh_1_fill = IconData(0xf080,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scan_line = IconData(0xf03d,
+  static const IconData mgc_refresh_1_line = IconData(0xf081,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scarf_fill = IconData(0xf03e,
+  static const IconData mgc_refresh_2_fill = IconData(0xf082,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scarf_line = IconData(0xf03f,
+  static const IconData mgc_refresh_2_line = IconData(0xf083,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_schedule_fill = IconData(0xf040,
+  static const IconData mgc_refresh_3_fill = IconData(0xf084,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_schedule_line = IconData(0xf041,
+  static const IconData mgc_refresh_3_line = IconData(0xf085,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_school_fill = IconData(0xf042,
+  static const IconData mgc_refresh_4_fill = IconData(0xf086,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_school_line = IconData(0xf043,
+  static const IconData mgc_refresh_4_line = IconData(0xf087,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_science_fill = IconData(0xf044,
+  static const IconData mgc_refresh_anticlockwise_1_fill = IconData(0xf088,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_science_line = IconData(0xf045,
+  static const IconData mgc_refresh_anticlockwise_1_line = IconData(0xf089,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scissors_2_fill = IconData(0xf046,
+  static const IconData mgc_refund_cny_fill = IconData(0xf08a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scissors_2_line = IconData(0xf047,
+  static const IconData mgc_refund_cny_line = IconData(0xf08b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scissors_3_fill = IconData(0xf048,
+  static const IconData mgc_refund_dollar_fill = IconData(0xf08c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scissors_3_line = IconData(0xf049,
+  static const IconData mgc_refund_dollar_line = IconData(0xf08d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scissors_fill = IconData(0xf04a,
+  static const IconData mgc_registered_fill = IconData(0xf08e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scissors_line = IconData(0xf04b,
+  static const IconData mgc_registered_line = IconData(0xf08f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scooter_fill = IconData(0xf04c,
+  static const IconData mgc_remote_fill = IconData(0xf090,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_scooter_line = IconData(0xf04d,
+  static const IconData mgc_remote_line = IconData(0xf091,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_screenshot_fill = IconData(0xf04e,
+  static const IconData mgc_repeat_fill = IconData(0xf092,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_screenshot_line = IconData(0xf04f,
+  static const IconData mgc_repeat_line = IconData(0xf093,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_seal_fill = IconData(0xf050,
+  static const IconData mgc_repeat_one_fill = IconData(0xf094,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_seal_line = IconData(0xf051,
+  static const IconData mgc_repeat_one_line = IconData(0xf095,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_search_2_fill = IconData(0xf052,
+  static const IconData mgc_report_fill = IconData(0xf096,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_search_2_line = IconData(0xf053,
+  static const IconData mgc_report_forms_fill = IconData(0xf097,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_search_3_fill = IconData(0xf054,
+  static const IconData mgc_report_forms_line = IconData(0xf098,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_search_3_line = IconData(0xf055,
+  static const IconData mgc_report_line = IconData(0xf099,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_search_fill = IconData(0xf056,
+  static const IconData mgc_rest_area_fill = IconData(0xf09a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_search_line = IconData(0xf057,
+  static const IconData mgc_rest_area_line = IconData(0xf09b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_seat_fill = IconData(0xf058,
+  static const IconData mgc_restore_fill = IconData(0xf09c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_seat_heated_fill = IconData(0xf059,
+  static const IconData mgc_restore_line = IconData(0xf09d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_seat_heated_line = IconData(0xf05a,
+  static const IconData mgc_riding_fill = IconData(0xf09e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_seat_line = IconData(0xf05b,
+  static const IconData mgc_riding_line = IconData(0xf09f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_selector_horizontal_fill = IconData(0xf05c,
+  static const IconData mgc_right_fill = IconData(0xf0a0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_selector_horizontal_line = IconData(0xf05d,
+  static const IconData mgc_right_line = IconData(0xf0a1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_selector_vertical_fill = IconData(0xf05e,
+  static const IconData mgc_right_small_fill = IconData(0xf0a2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_selector_vertical_line = IconData(0xf05f,
+  static const IconData mgc_right_small_line = IconData(0xf0a3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_send_fill = IconData(0xf060,
+  static const IconData mgc_road_fill = IconData(0xf0a4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_send_line = IconData(0xf061,
+  static const IconData mgc_road_line = IconData(0xf0a5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_send_plane_fill = IconData(0xf062,
+  static const IconData mgc_rocket_2_fill = IconData(0xf0a6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_send_plane_line = IconData(0xf063,
+  static const IconData mgc_rocket_2_line = IconData(0xf0a7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_server_2_fill = IconData(0xf064,
+  static const IconData mgc_rocket_fill = IconData(0xf0a8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_server_2_line = IconData(0xf065,
+  static const IconData mgc_rocket_line = IconData(0xf0a9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_server_fill = IconData(0xf066,
+  static const IconData mgc_rotate_to_horizontal_fill = IconData(0xf0aa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_server_line = IconData(0xf067,
+  static const IconData mgc_rotate_to_horizontal_line = IconData(0xf0ab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_service_fill = IconData(0xf068,
+  static const IconData mgc_rotate_to_vertical_fill = IconData(0xf0ac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_service_line = IconData(0xf069,
+  static const IconData mgc_rotate_to_vertical_line = IconData(0xf0ad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_1_fill = IconData(0xf06a,
+  static const IconData mgc_rotate_x_fill = IconData(0xf0ae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_1_line = IconData(0xf06b,
+  static const IconData mgc_rotate_x_line = IconData(0xf0af,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_2_fill = IconData(0xf06c,
+  static const IconData mgc_rotate_y_fill = IconData(0xf0b0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_2_line = IconData(0xf06d,
+  static const IconData mgc_rotate_y_line = IconData(0xf0b1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_3_fill = IconData(0xf06e,
+  static const IconData mgc_round_fill = IconData(0xf0b2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_3_line = IconData(0xf06f,
+  static const IconData mgc_round_line = IconData(0xf0b3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_4_fill = IconData(0xf070,
+  static const IconData mgc_route_fill = IconData(0xf0b4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_4_line = IconData(0xf071,
+  static const IconData mgc_route_line = IconData(0xf0b5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_5_fill = IconData(0xf072,
+  static const IconData mgc_router_modem_fill = IconData(0xf0b6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_5_line = IconData(0xf073,
+  static const IconData mgc_router_modem_line = IconData(0xf0b7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_6_fill = IconData(0xf074,
+  static const IconData mgc_rows_2_fill = IconData(0xf0b8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_settings_6_line = IconData(0xf075,
+  static const IconData mgc_rows_2_line = IconData(0xf0b9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shadow_fill = IconData(0xf076,
+  static const IconData mgc_rows_3_fill = IconData(0xf0ba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shadow_line = IconData(0xf077,
+  static const IconData mgc_rows_3_line = IconData(0xf0bb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_share_2_fill = IconData(0xf078,
+  static const IconData mgc_rows_4_fill = IconData(0xf0bc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_share_2_line = IconData(0xf079,
+  static const IconData mgc_rows_4_line = IconData(0xf0bd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_share_3_fill = IconData(0xf07a,
+  static const IconData mgc_rss_2_fill = IconData(0xf0be,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_share_3_line = IconData(0xf07b,
+  static const IconData mgc_rss_2_line = IconData(0xf0bf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_share_forward_fill = IconData(0xf07c,
+  static const IconData mgc_rss_fill = IconData(0xf0c0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_share_forward_line = IconData(0xf07d,
+  static const IconData mgc_rss_line = IconData(0xf0c1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shield_fill = IconData(0xf07e,
+  static const IconData mgc_rudder_fill = IconData(0xf0c2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shield_line = IconData(0xf07f,
+  static const IconData mgc_rudder_line = IconData(0xf0c3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shield_shape_fill = IconData(0xf080,
+  static const IconData mgc_ruler_fill = IconData(0xf0c4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shield_shape_line = IconData(0xf081,
+  static const IconData mgc_ruler_line = IconData(0xf0c5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ship_fill = IconData(0xf082,
+  static const IconData mgc_run_fill = IconData(0xf0c6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ship_line = IconData(0xf083,
+  static const IconData mgc_run_line = IconData(0xf0c7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shirt_fill = IconData(0xf084,
+  static const IconData mgc_sad_fill = IconData(0xf0c8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shirt_line = IconData(0xf085,
+  static const IconData mgc_sad_line = IconData(0xf0c9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shoe_2_fill = IconData(0xf086,
+  static const IconData mgc_safari_fill = IconData(0xf0ca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shoe_2_line = IconData(0xf087,
+  static const IconData mgc_safari_line = IconData(0xf0cb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shoe_fill = IconData(0xf088,
+  static const IconData mgc_safe_alert_fill = IconData(0xf0cc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shoe_line = IconData(0xf089,
+  static const IconData mgc_safe_alert_line = IconData(0xf0cd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_bag_1_fill = IconData(0xf08a,
+  static const IconData mgc_safe_box_fill = IconData(0xf0ce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_bag_1_line = IconData(0xf08b,
+  static const IconData mgc_safe_box_line = IconData(0xf0cf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_bag_2_fill = IconData(0xf08c,
+  static const IconData mgc_safe_flash_fill = IconData(0xf0d0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_bag_2_line = IconData(0xf08d,
+  static const IconData mgc_safe_flash_line = IconData(0xf0d1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_bag_3_fill = IconData(0xf08e,
+  static const IconData mgc_safe_lock_fill = IconData(0xf0d2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_bag_3_line = IconData(0xf08f,
+  static const IconData mgc_safe_lock_line = IconData(0xf0d3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_cart_1_fill = IconData(0xf090,
+  static const IconData mgc_safe_shield_2_fill = IconData(0xf0d4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_cart_1_line = IconData(0xf091,
+  static const IconData mgc_safe_shield_2_line = IconData(0xf0d5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_cart_2_fill = IconData(0xf092,
+  static const IconData mgc_safe_shield_fill = IconData(0xf0d6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shopping_cart_2_line = IconData(0xf093,
+  static const IconData mgc_safe_shield_line = IconData(0xf0d7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shorts_fill = IconData(0xf094,
+  static const IconData mgc_safety_certificate_fill = IconData(0xf0d8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shorts_line = IconData(0xf095,
+  static const IconData mgc_safety_certificate_line = IconData(0xf0d9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shovel_fill = IconData(0xf096,
+  static const IconData mgc_sailboat_fill = IconData(0xf0da,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shovel_line = IconData(0xf097,
+  static const IconData mgc_sailboat_line = IconData(0xf0db,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_showers_fill = IconData(0xf098,
+  static const IconData mgc_sale_fill = IconData(0xf0dc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_showers_line = IconData(0xf099,
+  static const IconData mgc_sale_line = IconData(0xf0dd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shuffle_2_fill = IconData(0xf09a,
+  static const IconData mgc_sandglass_fill = IconData(0xf0de,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shuffle_2_line = IconData(0xf09b,
+  static const IconData mgc_sandglass_line = IconData(0xf0df,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shuffle_fill = IconData(0xf09c,
+  static const IconData mgc_sandstorm_fill = IconData(0xf0e0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_shuffle_line = IconData(0xf09d,
+  static const IconData mgc_sandstorm_line = IconData(0xf0e1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sick_fill = IconData(0xf09e,
+  static const IconData mgc_save_2_fill = IconData(0xf0e2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sick_line = IconData(0xf09f,
+  static const IconData mgc_save_2_line = IconData(0xf0e3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_signal_fill = IconData(0xf0a0,
+  static const IconData mgc_save_fill = IconData(0xf0e4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_signal_line = IconData(0xf0a1,
+  static const IconData mgc_save_line = IconData(0xf0e5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_signature_fill = IconData(0xf0a2,
+  static const IconData mgc_scale_fill = IconData(0xf0e6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_signature_line = IconData(0xf0a3,
+  static const IconData mgc_scale_line = IconData(0xf0e7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_silent_fill = IconData(0xf0a4,
+  static const IconData mgc_scan_2_fill = IconData(0xf0e8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_silent_line = IconData(0xf0a5,
+  static const IconData mgc_scan_2_line = IconData(0xf0e9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sitemap_fill = IconData(0xf0a6,
+  static const IconData mgc_scan_fill = IconData(0xf0ea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sitemap_line = IconData(0xf0a7,
+  static const IconData mgc_scan_line = IconData(0xf0eb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skateboard_fill = IconData(0xf0a8,
+  static const IconData mgc_scarf_fill = IconData(0xf0ec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skateboard_line = IconData(0xf0a9,
+  static const IconData mgc_scarf_line = IconData(0xf0ed,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skip_forward_fill = IconData(0xf0aa,
+  static const IconData mgc_schedule_fill = IconData(0xf0ee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skip_forward_line = IconData(0xf0ab,
+  static const IconData mgc_schedule_line = IconData(0xf0ef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skip_previous_fill = IconData(0xf0ac,
+  static const IconData mgc_school_fill = IconData(0xf0f0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skip_previous_line = IconData(0xf0ad,
+  static const IconData mgc_school_line = IconData(0xf0f1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skirt_fill = IconData(0xf0ae,
+  static const IconData mgc_science_fill = IconData(0xf0f2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skirt_line = IconData(0xf0af,
+  static const IconData mgc_science_line = IconData(0xf0f3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skull_fill = IconData(0xf0b0,
+  static const IconData mgc_scissors_2_fill = IconData(0xf0f4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_skull_line = IconData(0xf0b1,
+  static const IconData mgc_scissors_2_line = IconData(0xf0f5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sleep_fill = IconData(0xf0b2,
+  static const IconData mgc_scissors_3_fill = IconData(0xf0f6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sleep_line = IconData(0xf0b3,
+  static const IconData mgc_scissors_3_line = IconData(0xf0f7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sleigh_fill = IconData(0xf0b4,
+  static const IconData mgc_scissors_fill = IconData(0xf0f8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sleigh_line = IconData(0xf0b5,
+  static const IconData mgc_scissors_line = IconData(0xf0f9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snapchat_fill = IconData(0xf0b6,
+  static const IconData mgc_scooter_fill = IconData(0xf0fa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snapchat_line = IconData(0xf0b7,
+  static const IconData mgc_scooter_line = IconData(0xf0fb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snow_fill = IconData(0xf0b8,
+  static const IconData mgc_screenshot_fill = IconData(0xf0fc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snow_line = IconData(0xf0b9,
+  static const IconData mgc_screenshot_line = IconData(0xf0fd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snowman_fill = IconData(0xf0ba,
+  static const IconData mgc_seal_fill = IconData(0xf0fe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snowman_line = IconData(0xf0bb,
+  static const IconData mgc_seal_line = IconData(0xf0ff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snowstorm_fill = IconData(0xf0bc,
+  static const IconData mgc_search_2_fill = IconData(0xf100,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_snowstorm_line = IconData(0xf0bd,
+  static const IconData mgc_search_2_line = IconData(0xf101,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sob_fill = IconData(0xf0be,
+  static const IconData mgc_search_3_fill = IconData(0xf102,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sob_line = IconData(0xf0bf,
+  static const IconData mgc_search_3_line = IconData(0xf103,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sock_fill = IconData(0xf0c0,
+  static const IconData mgc_search_fill = IconData(0xf104,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sock_line = IconData(0xf0c1,
+  static const IconData mgc_search_line = IconData(0xf105,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sofa_fill = IconData(0xf0c2,
+  static const IconData mgc_seat_fill = IconData(0xf106,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sofa_line = IconData(0xf0c3,
+  static const IconData mgc_seat_heated_fill = IconData(0xf107,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_solana_SOL_fill = IconData(0xf0c4,
+  static const IconData mgc_seat_heated_line = IconData(0xf108,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_solana_SOL_line = IconData(0xf0c5,
+  static const IconData mgc_seat_line = IconData(0xf109,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sort_ascending_fill = IconData(0xf0c6,
+  static const IconData mgc_selector_horizontal_fill = IconData(0xf10a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sort_ascending_line = IconData(0xf0c7,
+  static const IconData mgc_selector_horizontal_line = IconData(0xf10b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sort_descending_fill = IconData(0xf0c8,
+  static const IconData mgc_selector_vertical_fill = IconData(0xf10c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sort_descending_line = IconData(0xf0c9,
+  static const IconData mgc_selector_vertical_line = IconData(0xf10d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_space_fill = IconData(0xf0ca,
+  static const IconData mgc_send_fill = IconData(0xf10e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_space_line = IconData(0xf0cb,
+  static const IconData mgc_send_line = IconData(0xf10f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spacing_horizontal_fill = IconData(0xf0cc,
+  static const IconData mgc_send_plane_fill = IconData(0xf110,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spacing_horizontal_line = IconData(0xf0cd,
+  static const IconData mgc_send_plane_line = IconData(0xf111,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spacing_vertical_fill = IconData(0xf0ce,
+  static const IconData mgc_server_2_fill = IconData(0xf112,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spacing_vertical_line = IconData(0xf0cf,
+  static const IconData mgc_server_2_line = IconData(0xf113,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spade_fill = IconData(0xf0d0,
+  static const IconData mgc_server_fill = IconData(0xf114,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spade_line = IconData(0xf0d1,
+  static const IconData mgc_server_line = IconData(0xf115,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sparkles_2_fill = IconData(0xf0d2,
+  static const IconData mgc_service_fill = IconData(0xf116,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sparkles_2_line = IconData(0xf0d3,
+  static const IconData mgc_service_line = IconData(0xf117,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sparkles_fill = IconData(0xf0d4,
+  static const IconData mgc_settings_1_fill = IconData(0xf118,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sparkles_line = IconData(0xf0d5,
+  static const IconData mgc_settings_1_line = IconData(0xf119,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_speaker_fill = IconData(0xf0d6,
+  static const IconData mgc_settings_2_fill = IconData(0xf11a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_speaker_line = IconData(0xf0d7,
+  static const IconData mgc_settings_2_line = IconData(0xf11b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_speech_fill = IconData(0xf0d8,
+  static const IconData mgc_settings_3_fill = IconData(0xf11c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_speech_line = IconData(0xf0d9,
+  static const IconData mgc_settings_3_line = IconData(0xf11d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spoon_fill = IconData(0xf0da,
+  static const IconData mgc_settings_4_fill = IconData(0xf11e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spoon_line = IconData(0xf0db,
+  static const IconData mgc_settings_4_line = IconData(0xf11f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spotify_fill = IconData(0xf0dc,
+  static const IconData mgc_settings_5_fill = IconData(0xf120,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_spotify_line = IconData(0xf0dd,
+  static const IconData mgc_settings_5_line = IconData(0xf121,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_down_fill = IconData(0xf0de,
+  static const IconData mgc_settings_6_fill = IconData(0xf122,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_down_line = IconData(0xf0df,
+  static const IconData mgc_settings_6_line = IconData(0xf123,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_left_fill = IconData(0xf0e0,
+  static const IconData mgc_settings_7_fill = IconData(0xf124,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_left_line = IconData(0xf0e1,
+  static const IconData mgc_settings_7_line = IconData(0xf125,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_right_fill = IconData(0xf0e2,
+  static const IconData mgc_shadow_fill = IconData(0xf126,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_right_line = IconData(0xf0e3,
+  static const IconData mgc_shadow_line = IconData(0xf127,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_up_fill = IconData(0xf0e4,
+  static const IconData mgc_share_2_fill = IconData(0xf128,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_arrow_up_line = IconData(0xf0e5,
+  static const IconData mgc_share_2_line = IconData(0xf129,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_fill = IconData(0xf0e6,
+  static const IconData mgc_share_3_fill = IconData(0xf12a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_square_line = IconData(0xf0e7,
+  static const IconData mgc_share_3_line = IconData(0xf12b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_star_fill = IconData(0xf0e8,
+  static const IconData mgc_share_forward_fill = IconData(0xf12c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_star_half_fill = IconData(0xf0e9,
+  static const IconData mgc_share_forward_line = IconData(0xf12d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_star_half_line = IconData(0xf0ea,
+  static const IconData mgc_shield_fill = IconData(0xf12e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_star_line = IconData(0xf0eb,
+  static const IconData mgc_shield_line = IconData(0xf12f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_statue_of_liberty_fill = IconData(0xf0ec,
+  static const IconData mgc_shield_shape_fill = IconData(0xf130,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_statue_of_liberty_line = IconData(0xf0ed,
+  static const IconData mgc_shield_shape_line = IconData(0xf131,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_steering_wheel_fill = IconData(0xf0ee,
+  static const IconData mgc_ship_fill = IconData(0xf132,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_steering_wheel_line = IconData(0xf0ef,
+  static const IconData mgc_ship_line = IconData(0xf133,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sticker_fill = IconData(0xf0f0,
+  static const IconData mgc_shirt_fill = IconData(0xf134,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sticker_line = IconData(0xf0f1,
+  static const IconData mgc_shirt_line = IconData(0xf135,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stock_fill = IconData(0xf0f2,
+  static const IconData mgc_shoe_2_fill = IconData(0xf136,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stock_line = IconData(0xf0f3,
+  static const IconData mgc_shoe_2_line = IconData(0xf137,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stop_circle_fill = IconData(0xf0f4,
+  static const IconData mgc_shoe_fill = IconData(0xf138,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stop_circle_line = IconData(0xf0f5,
+  static const IconData mgc_shoe_line = IconData(0xf139,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stop_fill = IconData(0xf0f6,
+  static const IconData mgc_shopping_bag_1_fill = IconData(0xf13a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stop_line = IconData(0xf0f7,
+  static const IconData mgc_shopping_bag_1_line = IconData(0xf13b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stopwatch_fill = IconData(0xf0f8,
+  static const IconData mgc_shopping_bag_2_fill = IconData(0xf13c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stopwatch_line = IconData(0xf0f9,
+  static const IconData mgc_shopping_bag_2_line = IconData(0xf13d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_store_2_fill = IconData(0xf0fa,
+  static const IconData mgc_shopping_bag_3_fill = IconData(0xf13e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_store_2_line = IconData(0xf0fb,
+  static const IconData mgc_shopping_bag_3_line = IconData(0xf13f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_store_fill = IconData(0xf0fc,
+  static const IconData mgc_shopping_cart_1_fill = IconData(0xf140,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_store_line = IconData(0xf0fd,
+  static const IconData mgc_shopping_cart_1_line = IconData(0xf141,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_strikethrough_fill = IconData(0xf0fe,
+  static const IconData mgc_shopping_cart_2_fill = IconData(0xf142,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_strikethrough_line = IconData(0xf0ff,
+  static const IconData mgc_shopping_cart_2_line = IconData(0xf143,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stripe_fill = IconData(0xf100,
+  static const IconData mgc_shorts_fill = IconData(0xf144,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_stripe_line = IconData(0xf101,
+  static const IconData mgc_shorts_line = IconData(0xf145,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sugar_coated_haws_fill = IconData(0xf102,
+  static const IconData mgc_shovel_fill = IconData(0xf146,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sugar_coated_haws_line = IconData(0xf103,
+  static const IconData mgc_shovel_line = IconData(0xf147,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_suitcase_2_fill = IconData(0xf104,
+  static const IconData mgc_showers_fill = IconData(0xf148,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_suitcase_2_line = IconData(0xf105,
+  static const IconData mgc_showers_line = IconData(0xf149,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_suitcase_fill = IconData(0xf106,
+  static const IconData mgc_shuffle_2_fill = IconData(0xf14a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_suitcase_line = IconData(0xf107,
+  static const IconData mgc_shuffle_2_line = IconData(0xf14b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sun_cloudy_fill = IconData(0xf108,
+  static const IconData mgc_shuffle_fill = IconData(0xf14c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sun_cloudy_line = IconData(0xf109,
+  static const IconData mgc_shuffle_line = IconData(0xf14d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sun_fill = IconData(0xf10a,
+  static const IconData mgc_sick_fill = IconData(0xf14e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sun_fog_fill = IconData(0xf10b,
+  static const IconData mgc_sick_line = IconData(0xf14f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sun_fog_line = IconData(0xf10c,
+  static const IconData mgc_signal_fill = IconData(0xf150,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sun_line = IconData(0xf10d,
+  static const IconData mgc_signal_line = IconData(0xf151,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sunrise_fill = IconData(0xf10e,
+  static const IconData mgc_signature_fill = IconData(0xf152,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sunrise_line = IconData(0xf10f,
+  static const IconData mgc_signature_line = IconData(0xf153,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sunset_fill = IconData(0xf110,
+  static const IconData mgc_silent_fill = IconData(0xf154,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sunset_line = IconData(0xf111,
+  static const IconData mgc_silent_line = IconData(0xf155,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_surfboard_fill = IconData(0xf112,
+  static const IconData mgc_sitemap_fill = IconData(0xf156,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_surfboard_line = IconData(0xf113,
+  static const IconData mgc_sitemap_line = IconData(0xf157,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_surprise_fill = IconData(0xf114,
+  static const IconData mgc_skateboard_fill = IconData(0xf158,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_surprise_line = IconData(0xf115,
+  static const IconData mgc_skateboard_line = IconData(0xf159,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sweats_fill = IconData(0xf116,
+  static const IconData mgc_skip_forward_fill = IconData(0xf15a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sweats_line = IconData(0xf117,
+  static const IconData mgc_skip_forward_line = IconData(0xf15b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_swimming_pool_fill = IconData(0xf118,
+  static const IconData mgc_skip_previous_fill = IconData(0xf15c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_swimming_pool_line = IconData(0xf119,
+  static const IconData mgc_skip_previous_line = IconData(0xf15d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_switch_fill = IconData(0xf11a,
+  static const IconData mgc_skirt_fill = IconData(0xf15e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_switch_line = IconData(0xf11b,
+  static const IconData mgc_skirt_line = IconData(0xf15f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sword_fill = IconData(0xf11c,
+  static const IconData mgc_skull_fill = IconData(0xf160,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sword_line = IconData(0xf11d,
+  static const IconData mgc_skull_line = IconData(0xf161,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sydney_opera_house_fill = IconData(0xf11e,
+  static const IconData mgc_sleep_fill = IconData(0xf162,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_sydney_opera_house_line = IconData(0xf11f,
+  static const IconData mgc_sleep_line = IconData(0xf163,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_t_shirt_2_fill = IconData(0xf120,
+  static const IconData mgc_sleigh_fill = IconData(0xf164,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_t_shirt_2_line = IconData(0xf121,
+  static const IconData mgc_sleigh_line = IconData(0xf165,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_t_shirt_fill = IconData(0xf122,
+  static const IconData mgc_snapchat_fill = IconData(0xf166,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_t_shirt_line = IconData(0xf123,
+  static const IconData mgc_snapchat_line = IconData(0xf167,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_table_2_fill = IconData(0xf124,
+  static const IconData mgc_snow_fill = IconData(0xf168,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_table_2_line = IconData(0xf125,
+  static const IconData mgc_snow_line = IconData(0xf169,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_table_3_fill = IconData(0xf126,
+  static const IconData mgc_snowflake_fill = IconData(0xf16a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_table_3_line = IconData(0xf127,
+  static const IconData mgc_snowflake_line = IconData(0xf16b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_table_fill = IconData(0xf128,
+  static const IconData mgc_snowman_fill = IconData(0xf16c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_table_line = IconData(0xf129,
+  static const IconData mgc_snowman_line = IconData(0xf16d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tag_2_fill = IconData(0xf12a,
+  static const IconData mgc_snowstorm_2_fill = IconData(0xf16e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tag_2_line = IconData(0xf12b,
+  static const IconData mgc_snowstorm_2_line = IconData(0xf16f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tag_chevron_fill = IconData(0xf12c,
+  static const IconData mgc_snowstorm_fill = IconData(0xf170,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tag_chevron_line = IconData(0xf12d,
+  static const IconData mgc_snowstorm_line = IconData(0xf171,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tag_fill = IconData(0xf12e,
+  static const IconData mgc_sob_fill = IconData(0xf172,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tag_line = IconData(0xf12f,
+  static const IconData mgc_sob_line = IconData(0xf173,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_taipei101_fill = IconData(0xf130,
+  static const IconData mgc_social_x_fill = IconData(0xf174,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_taipei101_line = IconData(0xf131,
+  static const IconData mgc_social_x_line = IconData(0xf175,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_taj_mahal_fill = IconData(0xf132,
+  static const IconData mgc_sock_fill = IconData(0xf176,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_taj_mahal_line = IconData(0xf133,
+  static const IconData mgc_sock_line = IconData(0xf177,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tank_fill = IconData(0xf134,
+  static const IconData mgc_sofa_fill = IconData(0xf178,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tank_line = IconData(0xf135,
+  static const IconData mgc_sofa_line = IconData(0xf179,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_target_fill = IconData(0xf136,
+  static const IconData mgc_solana_SOL_fill = IconData(0xf17a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_target_line = IconData(0xf137,
+  static const IconData mgc_solana_SOL_line = IconData(0xf17b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_task_2_fill = IconData(0xf138,
+  static const IconData mgc_sort_ascending_fill = IconData(0xf17c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_task_2_line = IconData(0xf139,
+  static const IconData mgc_sort_ascending_line = IconData(0xf17d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_task_fill = IconData(0xf13a,
+  static const IconData mgc_sort_descending_fill = IconData(0xf17e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_task_line = IconData(0xf13b,
+  static const IconData mgc_sort_descending_line = IconData(0xf17f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_teacup_fill = IconData(0xf13c,
+  static const IconData mgc_space_fill = IconData(0xf180,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_teacup_line = IconData(0xf13d,
+  static const IconData mgc_space_line = IconData(0xf181,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_telegram_fill = IconData(0xf13e,
+  static const IconData mgc_spacing_horizontal_fill = IconData(0xf182,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_telegram_line = IconData(0xf13f,
+  static const IconData mgc_spacing_horizontal_line = IconData(0xf183,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_telescope_fill = IconData(0xf140,
+  static const IconData mgc_spacing_vertical_fill = IconData(0xf184,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_telescope_line = IconData(0xf141,
+  static const IconData mgc_spacing_vertical_line = IconData(0xf185,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_temple_of_heaven_fill = IconData(0xf142,
+  static const IconData mgc_spade_fill = IconData(0xf186,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_temple_of_heaven_line = IconData(0xf143,
+  static const IconData mgc_spade_line = IconData(0xf187,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tent_fill = IconData(0xf144,
+  static const IconData mgc_sparkles_2_fill = IconData(0xf188,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tent_line = IconData(0xf145,
+  static const IconData mgc_sparkles_2_line = IconData(0xf189,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_terminal_box_fill = IconData(0xf146,
+  static const IconData mgc_sparkles_fill = IconData(0xf18a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_terminal_box_line = IconData(0xf147,
+  static const IconData mgc_sparkles_line = IconData(0xf18b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_terminal_fill = IconData(0xf148,
+  static const IconData mgc_speaker_fill = IconData(0xf18c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_terminal_line = IconData(0xf149,
+  static const IconData mgc_speaker_line = IconData(0xf18d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_terror_fill = IconData(0xf14a,
+  static const IconData mgc_speech_fill = IconData(0xf18e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_terror_line = IconData(0xf14b,
+  static const IconData mgc_speech_line = IconData(0xf18f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tether_USDT_fill = IconData(0xf14c,
+  static const IconData mgc_spoon_fill = IconData(0xf190,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tether_USDT_line = IconData(0xf14d,
+  static const IconData mgc_spoon_line = IconData(0xf191,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_text_color_fill = IconData(0xf14e,
+  static const IconData mgc_spotify_fill = IconData(0xf192,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_text_color_line = IconData(0xf14f,
+  static const IconData mgc_spotify_line = IconData(0xf193,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_text_fill = IconData(0xf150,
+  static const IconData mgc_square_arrow_down_fill = IconData(0xf194,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_text_line = IconData(0xf151,
+  static const IconData mgc_square_arrow_down_line = IconData(0xf195,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_textbox_fill = IconData(0xf152,
+  static const IconData mgc_square_arrow_left_fill = IconData(0xf196,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_textbox_line = IconData(0xf153,
+  static const IconData mgc_square_arrow_left_line = IconData(0xf197,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thermometer_fill = IconData(0xf154,
+  static const IconData mgc_square_arrow_right_fill = IconData(0xf198,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thermometer_line = IconData(0xf155,
+  static const IconData mgc_square_arrow_right_line = IconData(0xf199,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_down_2_fill = IconData(0xf156,
+  static const IconData mgc_square_arrow_up_fill = IconData(0xf19a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_down_2_line = IconData(0xf157,
+  static const IconData mgc_square_arrow_up_line = IconData(0xf19b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_down_fill = IconData(0xf158,
+  static const IconData mgc_square_fill = IconData(0xf19c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_down_line = IconData(0xf159,
+  static const IconData mgc_square_line = IconData(0xf19d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_up_2_fill = IconData(0xf15a,
+  static const IconData mgc_star_2_fill = IconData(0xf19e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_up_2_line = IconData(0xf15b,
+  static const IconData mgc_star_2_line = IconData(0xf19f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_up_fill = IconData(0xf15c,
+  static const IconData mgc_star_fill = IconData(0xf1a0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thumb_up_line = IconData(0xf15d,
+  static const IconData mgc_star_half_fill = IconData(0xf1a1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thunderstorm_fill = IconData(0xf15e,
+  static const IconData mgc_star_half_line = IconData(0xf1a2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_thunderstorm_line = IconData(0xf15f,
+  static const IconData mgc_star_line = IconData(0xf1a3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ticket_fill = IconData(0xf160,
+  static const IconData mgc_statue_of_liberty_fill = IconData(0xf1a4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ticket_line = IconData(0xf161,
+  static const IconData mgc_statue_of_liberty_line = IconData(0xf1a5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tiktok_fill = IconData(0xf162,
+  static const IconData mgc_steering_wheel_fill = IconData(0xf1a6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tiktok_line = IconData(0xf163,
+  static const IconData mgc_steering_wheel_line = IconData(0xf1a7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_time_fill = IconData(0xf164,
+  static const IconData mgc_sticker_fill = IconData(0xf1a8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_time_line = IconData(0xf165,
+  static const IconData mgc_sticker_line = IconData(0xf1a9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_to_do_fill = IconData(0xf166,
+  static const IconData mgc_stock_fill = IconData(0xf1aa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_to_do_line = IconData(0xf167,
+  static const IconData mgc_stock_line = IconData(0xf1ab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_left_2_fill = IconData(0xf168,
+  static const IconData mgc_stop_circle_fill = IconData(0xf1ac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_left_2_line = IconData(0xf169,
+  static const IconData mgc_stop_circle_line = IconData(0xf1ad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_left_fill = IconData(0xf16a,
+  static const IconData mgc_stop_fill = IconData(0xf1ae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_left_line = IconData(0xf16b,
+  static const IconData mgc_stop_line = IconData(0xf1af,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_right_2_fill = IconData(0xf16c,
+  static const IconData mgc_stopwatch_fill = IconData(0xf1b0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_right_2_line = IconData(0xf16d,
+  static const IconData mgc_stopwatch_line = IconData(0xf1b1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_right_fill = IconData(0xf16e,
+  static const IconData mgc_store_2_fill = IconData(0xf1b2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toggle_right_line = IconData(0xf16f,
+  static const IconData mgc_store_2_line = IconData(0xf1b3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toilet_paper_fill = IconData(0xf170,
+  static const IconData mgc_store_fill = IconData(0xf1b4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toilet_paper_line = IconData(0xf171,
+  static const IconData mgc_store_line = IconData(0xf1b5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tongue_fill = IconData(0xf172,
+  static const IconData mgc_strikethrough_fill = IconData(0xf1b6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tongue_line = IconData(0xf173,
+  static const IconData mgc_strikethrough_line = IconData(0xf1b7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tool_fill = IconData(0xf174,
+  static const IconData mgc_stripe_fill = IconData(0xf1b8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tool_line = IconData(0xf175,
+  static const IconData mgc_stripe_line = IconData(0xf1b9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tornado_2_fill = IconData(0xf176,
+  static const IconData mgc_sugar_coated_haws_fill = IconData(0xf1ba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tornado_2_line = IconData(0xf177,
+  static const IconData mgc_sugar_coated_haws_line = IconData(0xf1bb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tornado_fill = IconData(0xf178,
+  static const IconData mgc_suitcase_2_fill = IconData(0xf1bc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tornado_line = IconData(0xf179,
+  static const IconData mgc_suitcase_2_line = IconData(0xf1bd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tower_fill = IconData(0xf17a,
+  static const IconData mgc_suitcase_fill = IconData(0xf1be,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tower_line = IconData(0xf17b,
+  static const IconData mgc_suitcase_line = IconData(0xf1bf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toxophily_fill = IconData(0xf17c,
+  static const IconData mgc_sun_2_fill = IconData(0xf1c0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toxophily_line = IconData(0xf17d,
+  static const IconData mgc_sun_2_line = IconData(0xf1c1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toy_horse_fill = IconData(0xf17e,
+  static const IconData mgc_sun_cloudy_fill = IconData(0xf1c2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_toy_horse_line = IconData(0xf17f,
+  static const IconData mgc_sun_cloudy_line = IconData(0xf1c3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_traffic_cone_fill = IconData(0xf180,
+  static const IconData mgc_sun_fill = IconData(0xf1c4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_traffic_cone_line = IconData(0xf181,
+  static const IconData mgc_sun_fog_fill = IconData(0xf1c5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_traffic_lights_fill = IconData(0xf182,
+  static const IconData mgc_sun_fog_line = IconData(0xf1c6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_traffic_lights_line = IconData(0xf183,
+  static const IconData mgc_sun_line = IconData(0xf1c7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_2_fill = IconData(0xf184,
+  static const IconData mgc_sunrise_fill = IconData(0xf1c8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_2_line = IconData(0xf185,
+  static const IconData mgc_sunrise_line = IconData(0xf1c9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_3_fill = IconData(0xf186,
+  static const IconData mgc_sunset_fill = IconData(0xf1ca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_3_line = IconData(0xf187,
+  static const IconData mgc_sunset_line = IconData(0xf1cb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_4_fill = IconData(0xf188,
+  static const IconData mgc_surfboard_fill = IconData(0xf1cc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_4_line = IconData(0xf189,
+  static const IconData mgc_surfboard_line = IconData(0xf1cd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_fill = IconData(0xf18a,
+  static const IconData mgc_surprise_fill = IconData(0xf1ce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_train_line = IconData(0xf18b,
+  static const IconData mgc_surprise_line = IconData(0xf1cf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_2_fill = IconData(0xf18c,
+  static const IconData mgc_sweats_fill = IconData(0xf1d0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_2_line = IconData(0xf18d,
+  static const IconData mgc_sweats_line = IconData(0xf1d1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_3_fill = IconData(0xf18e,
+  static const IconData mgc_swimming_pool_fill = IconData(0xf1d2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_3_line = IconData(0xf18f,
+  static const IconData mgc_swimming_pool_line = IconData(0xf1d3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_4_fill = IconData(0xf190,
+  static const IconData mgc_switch_fill = IconData(0xf1d4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_4_line = IconData(0xf191,
+  static const IconData mgc_switch_line = IconData(0xf1d5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_fill = IconData(0xf192,
+  static const IconData mgc_sword_fill = IconData(0xf1d6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transfer_line = IconData(0xf193,
+  static const IconData mgc_sword_line = IconData(0xf1d7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transformation_fill = IconData(0xf194,
+  static const IconData mgc_sydney_opera_house_fill = IconData(0xf1d8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_transformation_line = IconData(0xf195,
+  static const IconData mgc_sydney_opera_house_line = IconData(0xf1d9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_translate_2_fill = IconData(0xf196,
+  static const IconData mgc_t_shirt_2_fill = IconData(0xf1da,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_translate_2_line = IconData(0xf197,
+  static const IconData mgc_t_shirt_2_line = IconData(0xf1db,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_translate_fill = IconData(0xf198,
+  static const IconData mgc_t_shirt_fill = IconData(0xf1dc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_translate_line = IconData(0xf199,
+  static const IconData mgc_t_shirt_line = IconData(0xf1dd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_2_fill = IconData(0xf19a,
+  static const IconData mgc_table_2_fill = IconData(0xf1de,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_2_line = IconData(0xf19b,
+  static const IconData mgc_table_2_line = IconData(0xf1df,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_3_fill = IconData(0xf19c,
+  static const IconData mgc_table_3_fill = IconData(0xf1e0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_3_line = IconData(0xf19d,
+  static const IconData mgc_table_3_line = IconData(0xf1e1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_4_fill = IconData(0xf19e,
+  static const IconData mgc_table_fill = IconData(0xf1e2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_4_line = IconData(0xf19f,
+  static const IconData mgc_table_line = IconData(0xf1e3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_fill = IconData(0xf1a0,
+  static const IconData mgc_tag_2_fill = IconData(0xf1e4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tree_line = IconData(0xf1a1,
+  static const IconData mgc_tag_2_line = IconData(0xf1e5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trello_board_fill = IconData(0xf1a2,
+  static const IconData mgc_tag_chevron_fill = IconData(0xf1e6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trello_board_line = IconData(0xf1a3,
+  static const IconData mgc_tag_chevron_line = IconData(0xf1e7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_triangle_fill = IconData(0xf1a4,
+  static const IconData mgc_tag_fill = IconData(0xf1e8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_triangle_line = IconData(0xf1a5,
+  static const IconData mgc_tag_line = IconData(0xf1e9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_triumphal_arch_fill = IconData(0xf1a6,
+  static const IconData mgc_taipei101_fill = IconData(0xf1ea,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_triumphal_arch_line = IconData(0xf1a7,
+  static const IconData mgc_taipei101_line = IconData(0xf1eb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trophy_fill = IconData(0xf1a8,
+  static const IconData mgc_taj_mahal_fill = IconData(0xf1ec,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trophy_line = IconData(0xf1a9,
+  static const IconData mgc_taj_mahal_line = IconData(0xf1ed,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trouser_fill = IconData(0xf1aa,
+  static const IconData mgc_tank_fill = IconData(0xf1ee,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trouser_line = IconData(0xf1ab,
+  static const IconData mgc_tank_line = IconData(0xf1ef,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_truck_fill = IconData(0xf1ac,
+  static const IconData mgc_target_fill = IconData(0xf1f0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_truck_line = IconData(0xf1ad,
+  static const IconData mgc_target_line = IconData(0xf1f1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trunk_fill = IconData(0xf1ae,
+  static const IconData mgc_task_2_fill = IconData(0xf1f2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_trunk_line = IconData(0xf1af,
+  static const IconData mgc_task_2_line = IconData(0xf1f3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tunnel_fill = IconData(0xf1b0,
+  static const IconData mgc_task_fill = IconData(0xf1f4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tunnel_line = IconData(0xf1b1,
+  static const IconData mgc_task_line = IconData(0xf1f5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tv_1_fill = IconData(0xf1b2,
+  static const IconData mgc_teacup_fill = IconData(0xf1f6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tv_1_line = IconData(0xf1b3,
+  static const IconData mgc_teacup_line = IconData(0xf1f7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tv_2_fill = IconData(0xf1b4,
+  static const IconData mgc_telegram_fill = IconData(0xf1f8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tv_2_line = IconData(0xf1b5,
+  static const IconData mgc_telegram_line = IconData(0xf1f9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_TV_towe_fill = IconData(0xf1b6,
+  static const IconData mgc_telescope_2_fill = IconData(0xf1fa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_TV_towe_line = IconData(0xf1b7,
+  static const IconData mgc_telescope_2_line = IconData(0xf1fb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_twitter_fill = IconData(0xf1b8,
+  static const IconData mgc_telescope_fill = IconData(0xf1fc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_twitter_line = IconData(0xf1b9,
+  static const IconData mgc_telescope_line = IconData(0xf1fd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_typhoon_fill = IconData(0xf1ba,
+  static const IconData mgc_temple_of_heaven_fill = IconData(0xf1fe,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_typhoon_line = IconData(0xf1bb,
+  static const IconData mgc_temple_of_heaven_line = IconData(0xf1ff,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tyre_fill = IconData(0xf1bc,
+  static const IconData mgc_tent_fill = IconData(0xf200,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_tyre_line = IconData(0xf1bd,
+  static const IconData mgc_tent_line = IconData(0xf201,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_UFO_fill = IconData(0xf1be,
+  static const IconData mgc_terminal_box_fill = IconData(0xf202,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_UFO_line = IconData(0xf1bf,
+  static const IconData mgc_terminal_box_line = IconData(0xf203,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_umbrella_2_fill = IconData(0xf1c0,
+  static const IconData mgc_terminal_fill = IconData(0xf204,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_umbrella_2_line = IconData(0xf1c1,
+  static const IconData mgc_terminal_line = IconData(0xf205,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_umbrella_fill = IconData(0xf1c2,
+  static const IconData mgc_terror_fill = IconData(0xf206,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_umbrella_line = IconData(0xf1c3,
+  static const IconData mgc_terror_line = IconData(0xf207,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unarchive_fill = IconData(0xf1c4,
+  static const IconData mgc_tether_USDT_fill = IconData(0xf208,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unarchive_line = IconData(0xf1c5,
+  static const IconData mgc_tether_USDT_line = IconData(0xf209,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_underline_fill = IconData(0xf1c6,
+  static const IconData mgc_text_2_fill = IconData(0xf20a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_underline_line = IconData(0xf1c7,
+  static const IconData mgc_text_2_line = IconData(0xf20b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unhappy_dizzy_fill = IconData(0xf1c8,
+  static const IconData mgc_text_color_fill = IconData(0xf20c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unhappy_dizzy_line = IconData(0xf1c9,
+  static const IconData mgc_text_color_line = IconData(0xf20d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unhappy_fill = IconData(0xf1ca,
+  static const IconData mgc_text_fill = IconData(0xf20e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unhappy_line = IconData(0xf1cb,
+  static const IconData mgc_text_line = IconData(0xf20f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unlink_2_fill = IconData(0xf1cc,
+  static const IconData mgc_textbox_fill = IconData(0xf210,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unlink_2_line = IconData(0xf1cd,
+  static const IconData mgc_textbox_line = IconData(0xf211,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unlink_fill = IconData(0xf1ce,
+  static const IconData mgc_thermometer_fill = IconData(0xf212,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unlink_line = IconData(0xf1cf,
+  static const IconData mgc_thermometer_line = IconData(0xf213,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unlock_fill = IconData(0xf1d0,
+  static const IconData mgc_thought_fill = IconData(0xf214,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_unlock_line = IconData(0xf1d1,
+  static const IconData mgc_thought_line = IconData(0xf215,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_up_fill = IconData(0xf1d2,
+  static const IconData mgc_threads_fill = IconData(0xf216,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_up_line = IconData(0xf1d3,
+  static const IconData mgc_threads_line = IconData(0xf217,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_up_small_fill = IconData(0xf1d4,
+  static const IconData mgc_thumb_down_2_fill = IconData(0xf218,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_up_small_line = IconData(0xf1d5,
+  static const IconData mgc_thumb_down_2_line = IconData(0xf219,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_upload_2_fill = IconData(0xf1d6,
+  static const IconData mgc_thumb_down_fill = IconData(0xf21a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_upload_2_line = IconData(0xf1d7,
+  static const IconData mgc_thumb_down_line = IconData(0xf21b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_upload_3_fill = IconData(0xf1d8,
+  static const IconData mgc_thumb_up_2_fill = IconData(0xf21c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_upload_3_line = IconData(0xf1d9,
+  static const IconData mgc_thumb_up_2_line = IconData(0xf21d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_upload_fill = IconData(0xf1da,
+  static const IconData mgc_thumb_up_fill = IconData(0xf21e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_upload_line = IconData(0xf1db,
+  static const IconData mgc_thumb_up_line = IconData(0xf21f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_usb_fill = IconData(0xf1dc,
+  static const IconData mgc_thunderstorm_fill = IconData(0xf220,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_usb_flash_disk_fill = IconData(0xf1dd,
+  static const IconData mgc_thunderstorm_line = IconData(0xf221,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_usb_flash_disk_line = IconData(0xf1de,
+  static const IconData mgc_ticket_fill = IconData(0xf222,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_usb_line = IconData(0xf1df,
+  static const IconData mgc_ticket_line = IconData(0xf223,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_usd_coin_USDC_fill = IconData(0xf1e0,
+  static const IconData mgc_tiktok_fill = IconData(0xf224,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_usd_coin_USDC_line = IconData(0xf1e1,
+  static const IconData mgc_tiktok_line = IconData(0xf225,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_1_fill = IconData(0xf1e2,
+  static const IconData mgc_time_fill = IconData(0xf226,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_1_line = IconData(0xf1e3,
+  static const IconData mgc_time_line = IconData(0xf227,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_2_fill = IconData(0xf1e4,
+  static const IconData mgc_to_do_fill = IconData(0xf228,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_2_line = IconData(0xf1e5,
+  static const IconData mgc_to_do_line = IconData(0xf229,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_3_fill = IconData(0xf1e6,
+  static const IconData mgc_toggle_left_2_fill = IconData(0xf22a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_3_line = IconData(0xf1e7,
+  static const IconData mgc_toggle_left_2_line = IconData(0xf22b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_4_fill = IconData(0xf1e8,
+  static const IconData mgc_toggle_left_fill = IconData(0xf22c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_4_line = IconData(0xf1e9,
+  static const IconData mgc_toggle_left_line = IconData(0xf22d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_5_fill = IconData(0xf1ea,
+  static const IconData mgc_toggle_right_2_fill = IconData(0xf22e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_5_line = IconData(0xf1eb,
+  static const IconData mgc_toggle_right_2_line = IconData(0xf22f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_add_2_fill = IconData(0xf1ec,
+  static const IconData mgc_toggle_right_fill = IconData(0xf230,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_add_2_line = IconData(0xf1ed,
+  static const IconData mgc_toggle_right_line = IconData(0xf231,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_add_fill = IconData(0xf1ee,
+  static const IconData mgc_toilet_paper_fill = IconData(0xf232,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_add_line = IconData(0xf1ef,
+  static const IconData mgc_toilet_paper_line = IconData(0xf233,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_edit_fill = IconData(0xf1f0,
+  static const IconData mgc_tongue_fill = IconData(0xf234,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_edit_line = IconData(0xf1f1,
+  static const IconData mgc_tongue_line = IconData(0xf235,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_follow_2_fill = IconData(0xf1f2,
+  static const IconData mgc_tool_fill = IconData(0xf236,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_follow_2_line = IconData(0xf1f3,
+  static const IconData mgc_tool_line = IconData(0xf237,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_follow_fill = IconData(0xf1f4,
+  static const IconData mgc_tornado_2_fill = IconData(0xf238,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_follow_line = IconData(0xf1f5,
+  static const IconData mgc_tornado_2_line = IconData(0xf239,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_forbid_fill = IconData(0xf1f6,
+  static const IconData mgc_tornado_fill = IconData(0xf23a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_forbid_line = IconData(0xf1f7,
+  static const IconData mgc_tornado_line = IconData(0xf23b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_heart_fill = IconData(0xf1f8,
+  static const IconData mgc_tower_crane_fill = IconData(0xf23c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_heart_line = IconData(0xf1f9,
+  static const IconData mgc_tower_crane_line = IconData(0xf23d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_hide_fill = IconData(0xf1fa,
+  static const IconData mgc_tower_fill = IconData(0xf23e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_hide_line = IconData(0xf1fb,
+  static const IconData mgc_tower_line = IconData(0xf23f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_info_fill = IconData(0xf1fc,
+  static const IconData mgc_toxophily_fill = IconData(0xf240,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_info_line = IconData(0xf1fd,
+  static const IconData mgc_toxophily_line = IconData(0xf241,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_lock_fill = IconData(0xf1fe,
+  static const IconData mgc_toy_horse_fill = IconData(0xf242,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_lock_line = IconData(0xf1ff,
+  static const IconData mgc_toy_horse_line = IconData(0xf243,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_pin_fill = IconData(0xf200,
+  static const IconData mgc_traffic_cone_fill = IconData(0xf244,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_pin_line = IconData(0xf201,
+  static const IconData mgc_traffic_cone_line = IconData(0xf245,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_question_fill = IconData(0xf202,
+  static const IconData mgc_traffic_lights_fill = IconData(0xf246,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_question_line = IconData(0xf203,
+  static const IconData mgc_traffic_lights_line = IconData(0xf247,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_remove_2_fill = IconData(0xf204,
+  static const IconData mgc_train_2_fill = IconData(0xf248,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_remove_2_line = IconData(0xf205,
+  static const IconData mgc_train_2_line = IconData(0xf249,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_remove_fill = IconData(0xf206,
+  static const IconData mgc_train_3_fill = IconData(0xf24a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_remove_line = IconData(0xf207,
+  static const IconData mgc_train_3_line = IconData(0xf24b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_search_fill = IconData(0xf208,
+  static const IconData mgc_train_4_fill = IconData(0xf24c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_search_line = IconData(0xf209,
+  static const IconData mgc_train_4_line = IconData(0xf24d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_security_fill = IconData(0xf20a,
+  static const IconData mgc_train_fill = IconData(0xf24e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_security_line = IconData(0xf20b,
+  static const IconData mgc_train_line = IconData(0xf24f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_setting_fill = IconData(0xf20c,
+  static const IconData mgc_transfer_2_fill = IconData(0xf250,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_setting_line = IconData(0xf20d,
+  static const IconData mgc_transfer_2_line = IconData(0xf251,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_star_fill = IconData(0xf20e,
+  static const IconData mgc_transfer_3_fill = IconData(0xf252,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_star_line = IconData(0xf20f,
+  static const IconData mgc_transfer_3_line = IconData(0xf253,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_visible_fill = IconData(0xf210,
+  static const IconData mgc_transfer_4_fill = IconData(0xf254,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_visible_line = IconData(0xf211,
+  static const IconData mgc_transfer_4_line = IconData(0xf255,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_warning_fill = IconData(0xf212,
+  static const IconData mgc_transfer_fill = IconData(0xf256,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_warning_line = IconData(0xf213,
+  static const IconData mgc_transfer_horizontal_fill = IconData(0xf257,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_x_fill = IconData(0xf214,
+  static const IconData mgc_transfer_horizontal_line = IconData(0xf258,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_user_x_line = IconData(0xf215,
+  static const IconData mgc_transfer_line = IconData(0xf259,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_bezier_2_fill = IconData(0xf216,
+  static const IconData mgc_transfer_vertical_fill = IconData(0xf25a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_bezier_2_line = IconData(0xf217,
+  static const IconData mgc_transfer_vertical_line = IconData(0xf25b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_bezier_3_fill = IconData(0xf218,
+  static const IconData mgc_transformation_fill = IconData(0xf25c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_bezier_3_line = IconData(0xf219,
+  static const IconData mgc_transformation_line = IconData(0xf25d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_bezier_fill = IconData(0xf21a,
+  static const IconData mgc_translate_2_fill = IconData(0xf25e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_bezier_line = IconData(0xf21b,
+  static const IconData mgc_translate_2_line = IconData(0xf25f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_group_fill = IconData(0xf21c,
+  static const IconData mgc_translate_fill = IconData(0xf260,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vector_group_line = IconData(0xf21d,
+  static const IconData mgc_translate_line = IconData(0xf261,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_version_fill = IconData(0xf21e,
+  static const IconData mgc_tree_2_fill = IconData(0xf262,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_version_line = IconData(0xf21f,
+  static const IconData mgc_tree_2_line = IconData(0xf263,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vest_fill = IconData(0xf220,
+  static const IconData mgc_tree_3_fill = IconData(0xf264,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vest_line = IconData(0xf221,
+  static const IconData mgc_tree_3_line = IconData(0xf265,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_viber_messenger_fill = IconData(0xf222,
+  static const IconData mgc_tree_4_fill = IconData(0xf266,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_viber_messenger_line = IconData(0xf223,
+  static const IconData mgc_tree_4_line = IconData(0xf267,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_video_fill = IconData(0xf224,
+  static const IconData mgc_tree_fill = IconData(0xf268,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_video_line = IconData(0xf225,
+  static const IconData mgc_tree_line = IconData(0xf269,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_1_fill = IconData(0xf226,
+  static const IconData mgc_trello_board_fill = IconData(0xf26a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_1_line = IconData(0xf227,
+  static const IconData mgc_trello_board_line = IconData(0xf26b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_2_fill = IconData(0xf228,
+  static const IconData mgc_trending_down_fill = IconData(0xf26c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_2_line = IconData(0xf229,
+  static const IconData mgc_trending_down_line = IconData(0xf26d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_3_fill = IconData(0xf22a,
+  static const IconData mgc_trending_up_fill = IconData(0xf26e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_3_line = IconData(0xf22b,
+  static const IconData mgc_trending_up_line = IconData(0xf26f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_4_fill = IconData(0xf22c,
+  static const IconData mgc_triangle_fill = IconData(0xf270,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_VIP_4_line = IconData(0xf22d,
+  static const IconData mgc_triangle_line = IconData(0xf271,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_visa_fill = IconData(0xf22e,
+  static const IconData mgc_triumphal_arch_fill = IconData(0xf272,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_visa_line = IconData(0xf22f,
+  static const IconData mgc_triumphal_arch_line = IconData(0xf273,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vison_pro_fill = IconData(0xf230,
+  static const IconData mgc_trophy_fill = IconData(0xf274,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vison_pro_line = IconData(0xf231,
+  static const IconData mgc_trophy_line = IconData(0xf275,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vkontakte_fill = IconData(0xf232,
+  static const IconData mgc_trouser_fill = IconData(0xf276,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vkontakte_line = IconData(0xf233,
+  static const IconData mgc_trouser_line = IconData(0xf277,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_voice_2_fill = IconData(0xf234,
+  static const IconData mgc_truck_fill = IconData(0xf278,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_voice_2_line = IconData(0xf235,
+  static const IconData mgc_truck_line = IconData(0xf279,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_voice_fill = IconData(0xf236,
+  static const IconData mgc_trunk_fill = IconData(0xf27a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_voice_line = IconData(0xf237,
+  static const IconData mgc_trunk_line = IconData(0xf27b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volleyball_fill = IconData(0xf238,
+  static const IconData mgc_tunnel_fill = IconData(0xf27c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volleyball_line = IconData(0xf239,
+  static const IconData mgc_tunnel_line = IconData(0xf27d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volume_fill = IconData(0xf23a,
+  static const IconData mgc_tv_1_fill = IconData(0xf27e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volume_line = IconData(0xf23b,
+  static const IconData mgc_tv_1_line = IconData(0xf27f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volume_mute_fill = IconData(0xf23c,
+  static const IconData mgc_tv_2_fill = IconData(0xf280,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volume_mute_line = IconData(0xf23d,
+  static const IconData mgc_tv_2_line = IconData(0xf281,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volume_off_fill = IconData(0xf23e,
+  static const IconData mgc_TV_towe_fill = IconData(0xf282,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_volume_off_line = IconData(0xf23f,
+  static const IconData mgc_TV_towe_line = IconData(0xf283,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vue_fill = IconData(0xf240,
+  static const IconData mgc_twitter_fill = IconData(0xf284,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_vue_line = IconData(0xf241,
+  static const IconData mgc_twitter_line = IconData(0xf285,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_walk_fill = IconData(0xf242,
+  static const IconData mgc_typhoon_fill = IconData(0xf286,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_walk_line = IconData(0xf243,
+  static const IconData mgc_typhoon_line = IconData(0xf287,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_2_fill = IconData(0xf244,
+  static const IconData mgc_tyre_fill = IconData(0xf288,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_2_line = IconData(0xf245,
+  static const IconData mgc_tyre_line = IconData(0xf289,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_3_fill = IconData(0xf246,
+  static const IconData mgc_UFO_2_fill = IconData(0xf28a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_3_line = IconData(0xf247,
+  static const IconData mgc_UFO_2_line = IconData(0xf28b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_4_fill = IconData(0xf248,
+  static const IconData mgc_UFO_fill = IconData(0xf28c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_4_line = IconData(0xf249,
+  static const IconData mgc_UFO_line = IconData(0xf28d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_5_fill = IconData(0xf24a,
+  static const IconData mgc_umbrella_2_fill = IconData(0xf28e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_5_line = IconData(0xf24b,
+  static const IconData mgc_umbrella_2_line = IconData(0xf28f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_fill = IconData(0xf24c,
+  static const IconData mgc_umbrella_fill = IconData(0xf290,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wallet_line = IconData(0xf24d,
+  static const IconData mgc_umbrella_line = IconData(0xf291,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wardrobe_2_fill = IconData(0xf24e,
+  static const IconData mgc_unarchive_fill = IconData(0xf292,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wardrobe_2_line = IconData(0xf24f,
+  static const IconData mgc_unarchive_line = IconData(0xf293,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wardrobe_fill = IconData(0xf250,
+  static const IconData mgc_underline_fill = IconData(0xf294,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wardrobe_line = IconData(0xf251,
+  static const IconData mgc_underline_line = IconData(0xf295,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_warning_fill = IconData(0xf252,
+  static const IconData mgc_unfold_horizontal_fill = IconData(0xf296,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_warning_line = IconData(0xf253,
+  static const IconData mgc_unfold_horizontal_line = IconData(0xf297,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wash_machine_fill = IconData(0xf254,
+  static const IconData mgc_unfold_vertical_fill = IconData(0xf298,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wash_machine_line = IconData(0xf255,
+  static const IconData mgc_unfold_vertical_line = IconData(0xf299,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wastebasket_fill = IconData(0xf256,
+  static const IconData mgc_unhappy_dizzy_fill = IconData(0xf29a,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wastebasket_line = IconData(0xf257,
+  static const IconData mgc_unhappy_dizzy_line = IconData(0xf29b,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_watch_2_fill = IconData(0xf258,
+  static const IconData mgc_unhappy_fill = IconData(0xf29c,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_watch_2_line = IconData(0xf259,
+  static const IconData mgc_unhappy_line = IconData(0xf29d,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_watch_fill = IconData(0xf25a,
+  static const IconData mgc_unlink_2_fill = IconData(0xf29e,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_watch_line = IconData(0xf25b,
+  static const IconData mgc_unlink_2_line = IconData(0xf29f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wave_fill = IconData(0xf25c,
+  static const IconData mgc_unlink_fill = IconData(0xf2a0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wave_line = IconData(0xf25d,
+  static const IconData mgc_unlink_line = IconData(0xf2a1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_web_fill = IconData(0xf25e,
+  static const IconData mgc_unlock_fill = IconData(0xf2a2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_web_line = IconData(0xf25f,
+  static const IconData mgc_unlock_line = IconData(0xf2a3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wechat_fill = IconData(0xf260,
+  static const IconData mgc_up_fill = IconData(0xf2a4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wechat_line = IconData(0xf261,
+  static const IconData mgc_up_line = IconData(0xf2a5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wechat_pay_fill = IconData(0xf262,
+  static const IconData mgc_up_small_fill = IconData(0xf2a6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wechat_pay_line = IconData(0xf263,
+  static const IconData mgc_up_small_line = IconData(0xf2a7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_weibo_fill = IconData(0xf264,
+  static const IconData mgc_upload_2_fill = IconData(0xf2a8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_weibo_line = IconData(0xf265,
+  static const IconData mgc_upload_2_line = IconData(0xf2a9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_whatsapp_fill = IconData(0xf266,
+  static const IconData mgc_upload_3_fill = IconData(0xf2aa,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_whatsapp_line = IconData(0xf267,
+  static const IconData mgc_upload_3_line = IconData(0xf2ab,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wheel_fill = IconData(0xf268,
+  static const IconData mgc_upload_fill = IconData(0xf2ac,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wheel_line = IconData(0xf269,
+  static const IconData mgc_upload_line = IconData(0xf2ad,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wifi_fill = IconData(0xf26a,
+  static const IconData mgc_usb_fill = IconData(0xf2ae,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wifi_line = IconData(0xf26b,
+  static const IconData mgc_usb_flash_disk_fill = IconData(0xf2af,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wifi_off_fill = IconData(0xf26c,
+  static const IconData mgc_usb_flash_disk_line = IconData(0xf2b0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wifi_off_line = IconData(0xf26d,
+  static const IconData mgc_usb_line = IconData(0xf2b1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wind_fill = IconData(0xf26e,
+  static const IconData mgc_usd_coin_USDC_fill = IconData(0xf2b2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wind_line = IconData(0xf26f,
+  static const IconData mgc_usd_coin_USDC_line = IconData(0xf2b3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_windows_fill = IconData(0xf270,
+  static const IconData mgc_user_1_fill = IconData(0xf2b4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_windows_line = IconData(0xf271,
+  static const IconData mgc_user_1_line = IconData(0xf2b5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wine_fill = IconData(0xf272,
+  static const IconData mgc_user_2_fill = IconData(0xf2b6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wine_line = IconData(0xf273,
+  static const IconData mgc_user_2_line = IconData(0xf2b7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wineglass_2_fill = IconData(0xf274,
+  static const IconData mgc_user_3_fill = IconData(0xf2b8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wineglass_2_line = IconData(0xf275,
+  static const IconData mgc_user_3_line = IconData(0xf2b9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wineglass_fill = IconData(0xf276,
+  static const IconData mgc_user_4_fill = IconData(0xf2ba,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wineglass_line = IconData(0xf277,
+  static const IconData mgc_user_4_line = IconData(0xf2bb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wiper_fill = IconData(0xf278,
+  static const IconData mgc_user_5_fill = IconData(0xf2bc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wiper_line = IconData(0xf279,
+  static const IconData mgc_user_5_line = IconData(0xf2bd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_world_2_fill = IconData(0xf27a,
+  static const IconData mgc_user_add_2_fill = IconData(0xf2be,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_world_2_line = IconData(0xf27b,
+  static const IconData mgc_user_add_2_line = IconData(0xf2bf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_world_fill = IconData(0xf27c,
+  static const IconData mgc_user_add_fill = IconData(0xf2c0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_world_line = IconData(0xf27d,
+  static const IconData mgc_user_add_line = IconData(0xf2c1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wreath_fill = IconData(0xf27e,
+  static const IconData mgc_user_edit_fill = IconData(0xf2c2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_wreath_line = IconData(0xf27f,
+  static const IconData mgc_user_edit_line = IconData(0xf2c3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_x_skew_fill = IconData(0xf280,
+  static const IconData mgc_user_follow_2_fill = IconData(0xf2c4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_x_skew_line = IconData(0xf281,
+  static const IconData mgc_user_follow_2_line = IconData(0xf2c5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_xbox_fill = IconData(0xf282,
+  static const IconData mgc_user_follow_fill = IconData(0xf2c6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_xbox_line = IconData(0xf283,
+  static const IconData mgc_user_follow_line = IconData(0xf2c7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_xls_fill = IconData(0xf284,
+  static const IconData mgc_user_forbid_fill = IconData(0xf2c8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_xls_line = IconData(0xf285,
+  static const IconData mgc_user_forbid_line = IconData(0xf2c9,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_XRP_fill = IconData(0xf286,
+  static const IconData mgc_user_heart_fill = IconData(0xf2ca,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_XRP_line = IconData(0xf287,
+  static const IconData mgc_user_heart_line = IconData(0xf2cb,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_y_skew_fill = IconData(0xf288,
+  static const IconData mgc_user_hide_fill = IconData(0xf2cc,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_y_skew_line = IconData(0xf289,
+  static const IconData mgc_user_hide_line = IconData(0xf2cd,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_yinyang_fill = IconData(0xf28a,
+  static const IconData mgc_user_info_fill = IconData(0xf2ce,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_yinyang_line = IconData(0xf28b,
+  static const IconData mgc_user_info_line = IconData(0xf2cf,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_youtube_fill = IconData(0xf28c,
+  static const IconData mgc_user_lock_fill = IconData(0xf2d0,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_youtube_line = IconData(0xf28d,
+  static const IconData mgc_user_lock_line = IconData(0xf2d1,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_yuanbao_fill = IconData(0xf28e,
+  static const IconData mgc_user_pin_fill = IconData(0xf2d2,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_yuanbao_line = IconData(0xf28f,
+  static const IconData mgc_user_pin_line = IconData(0xf2d3,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ZA_sort_descending_letters_fill = IconData(0xf290,
+  static const IconData mgc_user_question_fill = IconData(0xf2d4,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_ZA_sort_descending_letters_line = IconData(0xf291,
+  static const IconData mgc_user_question_line = IconData(0xf2d5,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_zoom_in_fill = IconData(0xf292,
+  static const IconData mgc_user_remove_2_fill = IconData(0xf2d6,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_zoom_in_line = IconData(0xf293,
+  static const IconData mgc_user_remove_2_line = IconData(0xf2d7,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_zoom_out_fill = IconData(0xf294,
+  static const IconData mgc_user_remove_fill = IconData(0xf2d8,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
-  static const IconData mgc_zoom_out_line = IconData(0xf295,
+  static const IconData mgc_user_remove_line = IconData(0xf2d9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_search_fill = IconData(0xf2da,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_search_line = IconData(0xf2db,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_security_fill = IconData(0xf2dc,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_security_line = IconData(0xf2dd,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_setting_fill = IconData(0xf2de,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_setting_line = IconData(0xf2df,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_star_fill = IconData(0xf2e0,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_star_line = IconData(0xf2e1,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_visible_fill = IconData(0xf2e2,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_visible_line = IconData(0xf2e3,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_warning_fill = IconData(0xf2e4,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_warning_line = IconData(0xf2e5,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_x_fill = IconData(0xf2e6,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_user_x_line = IconData(0xf2e7,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_bezier_2_fill = IconData(0xf2e8,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_bezier_2_line = IconData(0xf2e9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_bezier_3_fill = IconData(0xf2ea,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_bezier_3_line = IconData(0xf2eb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_bezier_fill = IconData(0xf2ec,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_bezier_line = IconData(0xf2ed,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_group_fill = IconData(0xf2ee,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vector_group_line = IconData(0xf2ef,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_version_fill = IconData(0xf2f0,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_version_line = IconData(0xf2f1,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vest_fill = IconData(0xf2f2,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vest_line = IconData(0xf2f3,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_viber_messenger_fill = IconData(0xf2f4,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_viber_messenger_line = IconData(0xf2f5,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_video_fill = IconData(0xf2f6,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_video_line = IconData(0xf2f7,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_1_fill = IconData(0xf2f8,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_1_line = IconData(0xf2f9,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_2_fill = IconData(0xf2fa,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_2_line = IconData(0xf2fb,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_3_fill = IconData(0xf2fc,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_3_line = IconData(0xf2fd,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_4_fill = IconData(0xf2fe,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_VIP_4_line = IconData(0xf2ff,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_virus_fill = IconData(0xf300,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_virus_line = IconData(0xf301,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_visa_fill = IconData(0xf302,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_visa_line = IconData(0xf303,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vison_pro_fill = IconData(0xf304,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vison_pro_line = IconData(0xf305,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vkontakte_fill = IconData(0xf306,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vkontakte_line = IconData(0xf307,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_voice_2_fill = IconData(0xf308,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_voice_2_line = IconData(0xf309,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_voice_fill = IconData(0xf30a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_voice_line = IconData(0xf30b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volleyball_fill = IconData(0xf30c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volleyball_line = IconData(0xf30d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volume_fill = IconData(0xf30e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volume_line = IconData(0xf30f,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volume_mute_fill = IconData(0xf310,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volume_mute_line = IconData(0xf311,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volume_off_fill = IconData(0xf312,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_volume_off_line = IconData(0xf313,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vue_fill = IconData(0xf314,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_vue_line = IconData(0xf315,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_walk_fill = IconData(0xf316,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_walk_line = IconData(0xf317,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_2_fill = IconData(0xf318,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_2_line = IconData(0xf319,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_3_fill = IconData(0xf31a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_3_line = IconData(0xf31b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_4_fill = IconData(0xf31c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_4_line = IconData(0xf31d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_5_fill = IconData(0xf31e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_5_line = IconData(0xf31f,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_fill = IconData(0xf320,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wallet_line = IconData(0xf321,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wardrobe_2_fill = IconData(0xf322,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wardrobe_2_line = IconData(0xf323,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wardrobe_fill = IconData(0xf324,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wardrobe_line = IconData(0xf325,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_warning_fill = IconData(0xf326,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_warning_line = IconData(0xf327,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wash_machine_fill = IconData(0xf328,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wash_machine_line = IconData(0xf329,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wastebasket_fill = IconData(0xf32a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wastebasket_line = IconData(0xf32b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_watch_2_fill = IconData(0xf32c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_watch_2_line = IconData(0xf32d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_watch_fill = IconData(0xf32e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_watch_line = IconData(0xf32f,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wave_fill = IconData(0xf330,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wave_line = IconData(0xf331,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_web_fill = IconData(0xf332,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_web_line = IconData(0xf333,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wechat_fill = IconData(0xf334,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wechat_line = IconData(0xf335,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wechat_miniprogram_fill = IconData(0xf336,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wechat_miniprogram_line = IconData(0xf337,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wechat_pay_fill = IconData(0xf338,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wechat_pay_line = IconData(0xf339,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_weibo_fill = IconData(0xf33a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_weibo_line = IconData(0xf33b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wet_fill = IconData(0xf33c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wet_line = IconData(0xf33d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_whatsapp_fill = IconData(0xf33e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_whatsapp_line = IconData(0xf33f,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wheel_fill = IconData(0xf340,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wheel_line = IconData(0xf341,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wifi_fill = IconData(0xf342,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wifi_line = IconData(0xf343,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wifi_off_fill = IconData(0xf344,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wifi_off_line = IconData(0xf345,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wind_fill = IconData(0xf346,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wind_line = IconData(0xf347,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_windows_fill = IconData(0xf348,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_windows_line = IconData(0xf349,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wine_fill = IconData(0xf34a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wine_line = IconData(0xf34b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wineglass_2_fill = IconData(0xf34c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wineglass_2_line = IconData(0xf34d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wineglass_fill = IconData(0xf34e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wineglass_line = IconData(0xf34f,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wiper_fill = IconData(0xf350,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wiper_line = IconData(0xf351,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_world_2_fill = IconData(0xf352,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_world_2_line = IconData(0xf353,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_world_fill = IconData(0xf354,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_world_line = IconData(0xf355,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wreath_fill = IconData(0xf356,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_wreath_line = IconData(0xf357,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_x_skew_fill = IconData(0xf358,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_x_skew_line = IconData(0xf359,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_xbox_fill = IconData(0xf35a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_xbox_line = IconData(0xf35b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_xls_fill = IconData(0xf35c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_xls_line = IconData(0xf35d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_XRP_fill = IconData(0xf35e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_XRP_line = IconData(0xf35f,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_y_skew_fill = IconData(0xf360,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_y_skew_line = IconData(0xf361,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_yinyang_fill = IconData(0xf362,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_yinyang_line = IconData(0xf363,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_youtube_fill = IconData(0xf364,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_youtube_line = IconData(0xf365,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_yuanbao_fill = IconData(0xf366,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_yuanbao_line = IconData(0xf367,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_ZA_sort_ascending_letters_fill = IconData(0xf368,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_ZA_sort_ascending_letters_line = IconData(0xf369,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_ZA_sort_descending_letters_fill = IconData(0xf36a,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_ZA_sort_descending_letters_line = IconData(0xf36b,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_zoom_in_fill = IconData(0xf36c,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_zoom_in_line = IconData(0xf36d,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_zoom_out_fill = IconData(0xf36e,
+      fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
+  static const IconData mgc_zoom_out_line = IconData(0xf36f,
       fontFamily: _fontFamilyMingCute, fontPackage: _fontPackageMingCute);
 }

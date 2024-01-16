@@ -1,10 +1,10 @@
 name: ming_cute_icons
 description: MingCute icons.
-version: 0.0.3
-homepage:
+version: 0.0.4
+homepage: https://github.com/kyu-suke/ming_cute_icons
 
 environment:
-  sdk: '>=2.19.6 <4.0.0'
+  sdk: '>=2.19.5 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
